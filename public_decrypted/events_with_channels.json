@@ -2718,9 +2718,19 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "MLS LIVE HD",
+      "LOW SERVER",
       "MLS LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "MLS LIVE HD",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
+        "logo": ""
+      },
       {
         "title": "MLS LIVE [FHD]",
         "logo": ""
@@ -2728,31 +2738,28 @@
     ],
     "decoded_channels": [
       {
-        "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "PREMIER SPORTS",
-        "type": "1"
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/56366/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "MLS LIVE HD",
+        "type": "0"
       },
       {
-        "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "PREMIERER BR",
-        "type": "1"
+        "api": "",
+        "link": "http://193.47.62.44/hls/SYYYAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "LOW SERVER",
+        "type": "0"
       },
       {
-        "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "SporTV BR",
-        "type": "1"
-      },
-      {
-        "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "D Sports FHD",
-        "type": "1"
+        "api": "",
+        "link": "https://embedindia.st/embed/mls/2026-09-12/mia-nsh",
+        "logo": "",
+        "title": "MLS LIVE [FHD]",
+        "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50090,
@@ -2836,7 +2843,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2818/image",
       "eventName": "Real Madrid vs Rayo Vallecano",
       "eventType": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/09/12 19:00:00 +0000",
       "endTime": "2026/09/12 21:05:00 +0000"
     },
@@ -2983,7 +2990,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/42/image",
       "eventName": "Sunderland vs Arsenal",
       "eventType": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/09/12 19:00:00 +0000",
       "endTime": "2026/09/12 21:00:00 +0000"
     },
