@@ -1,63 +1,49 @@
 [
   {
-    "api": "034e91c698c61afa33673c26f381485e:39afde451d56f39171aee053b77ba9b5",
-    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/piyhlkdzvd/out/v1/21884fd021cf4949ac4581f83b3ebdde/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "PARAMOUNT+ FHD",
-    "type": "1"
-  },
-  {
-    "api": "96a36831cb58babfcfe200d99515ed26:6f03e01076fb6e5e44262cc02d23bd78",
-    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/kv5ls2ki6u/out/v1/64a858824e424a479c24d3ec8306063c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "PARAMOUNT+ ES",
-    "type": "1"
-  },
-  {
-    "api": "d61981b93ee6417dbf9d58a61e892c22:978ef2821769761987bed8eea45e7dac",
-    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7m03a1jvwt/out/v1/8397492047424584a049f661a21d3483/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "PARAMOUNT+ PT",
-    "type": "1"
-  },
-  {
     "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/56323/load-playlist?|Referer=https://gooz.aapmains.net",
+    "link": "https://chatgpt.hereisman.net/playlist/56392/load-playlist?|Referer=https://gooz.aapmains.net",
     "logo": "",
-    "title": "PARAMOUNT+ HD",
+    "title": "SERVER 1 HD",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/56348/load-playlist?|Referer=https://gooz.aapmains.net",
+    "link": "https://chatgpt.hereisman.net/playlist/56417/load-playlist?|Referer=https://gooz.aapmains.net",
     "logo": "",
     "title": "SERVER 2 HD",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/56324/load-playlist?|Referer=https://gooz.aapmains.net",
+    "link": "https://chatgpt.hereisman.net/playlist/56418/load-playlist?|Referer=https://gooz.aapmains.net",
     "logo": "",
     "title": "SERVER 3 HD",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/56347/load-playlist?|Referer=https://gooz.aapmains.net",
+    "link": "https://edgestream5.pro/hls/eyrennte44.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
     "logo": "",
     "title": "SERVER 4 HD",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://embedindia.st/embed/garcia-vs-benn-28563",
+    "link": "https://chatgpt.hereisman.net/playlist/54923/load-playlist?|Referer=https://gooz.aapmains.net",
     "logo": "",
-    "title": "DAZN PPV FHD",
+    "title": "NFL NETWORK HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://embedindia.st/embed/nfl/2026-09-12/redzone",
+    "logo": "",
+    "title": "REDZONE [FHD]",
     "type": "2"
   },
   {
     "api": "",
-    "link": "http://193.47.62.41/hls/dpppp.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "link": "http://193.47.62.55/hls/ZTTTAAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
     "logo": "",
     "title": "LOW SERVER",
     "type": "0"

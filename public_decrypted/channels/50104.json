@@ -1,5 +1,12 @@
 [
   {
+    "api": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/xzxdwutn3z/out/v1/27aac1f9df984d65a9d4b95d234f4468/1c8b78a3-7b4e-4d9e-a23c-d8ea1ce57d76-cenc.mpd?aws_sessionId=40e78fe1-e2f1-49f5-9b65-c35ad28813a1|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+    "title": "beIN SPORTS FHD",
+    "type": "1"
+  },
+  {
     "api": "",
     "link": "https://edgestream7.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
     "logo": "",
@@ -19,5 +26,12 @@
     "logo": "",
     "title": "SD SERVER",
     "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://embedindia.st/embed/ligue1/2026-09-13/lill-try",
+    "logo": "",
+    "title": "SPX LIVE [FHD]",
+    "type": "2"
   }
 ]
