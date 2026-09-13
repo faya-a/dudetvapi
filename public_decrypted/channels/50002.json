@@ -7,45 +7,10 @@
     "type": "1"
   },
   {
-    "api": "1db3a71ba6d89f6104f4bd33b2983e0a:bc1bbaf5f5972fd922bae3b041b1a24f",
-    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6h7wjov0s7/out/v1/0dfe0f55d2244107905e8680de912cad/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-    "title": "SKY SPORTS FHD",
-    "type": "1"
-  },
-  {
-    "api": "cd2b0f031c29aeecba1918e65a370a68:1be7b89ea16d920b144591524e05a740",
-    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7b9nsr7uih/out/v1/4cfa1051119e49349d90dbb6e934b2dc/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "APPLE TV FHD",
-    "type": "1"
-  },
-  {
     "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
     "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
     "title": "FANCODE - FHD",
-    "type": "1"
-  },
-  {
-    "api": "f6fb331ba7626d5b8cf7e0e021123c6c:851debc8a163d983a189c75fe55e76d4",
-    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxqlrbffzr/out/v1/70d05b34fd3f4e5c865934cd2410f3e9/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "Mixed On Board",
-    "type": "1"
-  },
-  {
-    "api": "61cd0d21d401f8e9d5b286c4be9e049e:54ba481c3e00fc8e9851b39fc8d85dde",
-    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/egboxd8isp/out/v1/a08d1c897b8d4e8fafadc8a65538ede2/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "Driver Tracker",
-    "type": "1"
-  },
-  {
-    "api": "3903d954c95bfb4f2d7120133b4ecba0:982548174a32f91660f356e0edf28b56",
-    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jqlmhdm4ak/out/v1/07a558cc472344b1a13539fd6b24c643/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "APPLE TV 4K",
     "type": "1"
   },
   {

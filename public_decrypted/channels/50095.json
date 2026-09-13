@@ -1,8 +1,51 @@
 [
   {
     "api": "",
+    "link": "https://chatgpt.hereisman.net/playlist/56395/load-playlist?|Referer=https://gooz.aapmains.net",
+    "logo": "",
+    "title": "USA TV HD",
+    "type": "0"
+  },
+  {
+    "api": "",
     "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=|User-Agent=Mozilla",
+    "logo": "",
     "title": "SKY EPL FHD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://live.uu6611.com/live/hd-en-1-4558539.m3u8?txSecret=3d798ddab9b7d220cc9eb62d79ee2bb9&txTime=6AA6E05F|Referer=https://player.up909.com/",
+    "logo": "",
+    "title": "DUDE Tv Live",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent005adsf.m3u8",
+    "logo": "",
+    "title": "SKY MAIN EVENT",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://tmaxapp.site/8wirwjs76erftg/skysportspl004545vgb.m3u8",
+    "logo": "",
+    "title": "SKY EPL HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://tmaxapp.site/8wirwjs76erftg/dazn1es.m3u8",
+    "logo": "",
+    "title": "DAZN ES HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://tmaxapp.site/8wirwjs76erftg/bein4ar.m3u8",
+    "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+    "title": "beIN SPORTS HD",
     "type": "0"
   }
 ]

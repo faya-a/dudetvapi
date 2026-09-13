@@ -12,7 +12,7 @@
       "eventName": "Formula 1 -  Circuito de Madring",
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://tikolu.net/i/vfbcx",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/09/13 12:50:00 +0000",
       "endTime": "2026/09/13 15:30:00 +0000"
     },
@@ -20,12 +20,7 @@
     "publish": "1",
     "formats": [
       "TSN SPORTS FHD",
-      "SKY SPORTS FHD",
-      "APPLE TV FHD",
       "FANCODE - FHD",
-      "Mixed On Board",
-      "Driver Tracker",
-      "APPLE TV 4K",
       "DUDE Tv F1 HD",
       "SKY F1 Italia [IT]",
       "Sportscast FHD",
@@ -43,28 +38,8 @@
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
-        "title": "SKY SPORTS FHD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-      },
-      {
-        "title": "APPLE TV FHD",
-        "logo": ""
-      },
-      {
         "title": "FANCODE - FHD",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "Mixed On Board",
-        "logo": ""
-      },
-      {
-        "title": "Driver Tracker",
-        "logo": ""
-      },
-      {
-        "title": "APPLE TV 4K",
-        "logo": ""
       },
       {
         "title": "DUDE Tv F1 HD",
@@ -116,45 +91,10 @@
         "type": "1"
       },
       {
-        "api": "1db3a71ba6d89f6104f4bd33b2983e0a:bc1bbaf5f5972fd922bae3b041b1a24f",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6h7wjov0s7/out/v1/0dfe0f55d2244107905e8680de912cad/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-        "title": "SKY SPORTS FHD",
-        "type": "1"
-      },
-      {
-        "api": "cd2b0f031c29aeecba1918e65a370a68:1be7b89ea16d920b144591524e05a740",
-        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7b9nsr7uih/out/v1/4cfa1051119e49349d90dbb6e934b2dc/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "APPLE TV FHD",
-        "type": "1"
-      },
-      {
         "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
         "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
         "title": "FANCODE - FHD",
-        "type": "1"
-      },
-      {
-        "api": "f6fb331ba7626d5b8cf7e0e021123c6c:851debc8a163d983a189c75fe55e76d4",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxqlrbffzr/out/v1/70d05b34fd3f4e5c865934cd2410f3e9/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "Mixed On Board",
-        "type": "1"
-      },
-      {
-        "api": "61cd0d21d401f8e9d5b286c4be9e049e:54ba481c3e00fc8e9851b39fc8d85dde",
-        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/egboxd8isp/out/v1/a08d1c897b8d4e8fafadc8a65538ede2/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "Driver Tracker",
-        "type": "1"
-      },
-      {
-        "api": "3903d954c95bfb4f2d7120133b4ecba0:982548174a32f91660f356e0edf28b56",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jqlmhdm4ak/out/v1/07a558cc472344b1a13539fd6b24c643/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "APPLE TV 4K",
         "type": "1"
       },
       {
@@ -1164,147 +1104,6 @@
     "channel_status": "live"
   },
   {
-    "id": 50023,
-    "title": "Garcia vs Benn",
-    "image": "o",
-    "cat": "Boxing",
-    "eventInfo": {
-      "teamA": "Garcia",
-      "teamB": "Benn",
-      "teamAFlag": "https://images.tapology.com/headshot_images/204534/preview/IMG_20220728_020931.jpg",
-      "teamBFlag": "https://images.tapology.com/headshot_images/220306/preview/IMG_20220418_030233.jpg",
-      "eventName": "Garcia vs Benn",
-      "eventType": "null",
-      "eventBanner": "https://wsrv.nl/?url=https://tikolu.net/i/tyklu",
-      "isHot": "0",
-      "startTime": "2026/09/13 00:00:00 +0000",
-      "endTime": "2026/09/13 04:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PARAMOUNT+ FHD",
-      "PARAMOUNT+ ES",
-      "PARAMOUNT+ PT",
-      "PARAMOUNT+ HD",
-      "SERVER 2 HD",
-      "SERVER 3 HD",
-      "SERVER 4 HD",
-      "DAZN PPV FHD",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "PARAMOUNT+ FHD",
-        "logo": ""
-      },
-      {
-        "title": "PARAMOUNT+ ES",
-        "logo": ""
-      },
-      {
-        "title": "PARAMOUNT+ PT",
-        "logo": ""
-      },
-      {
-        "title": "PARAMOUNT+ HD",
-        "logo": ""
-      },
-      {
-        "title": "SERVER 2 HD",
-        "logo": ""
-      },
-      {
-        "title": "SERVER 3 HD",
-        "logo": ""
-      },
-      {
-        "title": "SERVER 4 HD",
-        "logo": ""
-      },
-      {
-        "title": "DAZN PPV FHD",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "034e91c698c61afa33673c26f381485e:39afde451d56f39171aee053b77ba9b5",
-        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/piyhlkdzvd/out/v1/21884fd021cf4949ac4581f83b3ebdde/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "PARAMOUNT+ FHD",
-        "type": "1"
-      },
-      {
-        "api": "96a36831cb58babfcfe200d99515ed26:6f03e01076fb6e5e44262cc02d23bd78",
-        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/kv5ls2ki6u/out/v1/64a858824e424a479c24d3ec8306063c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "PARAMOUNT+ ES",
-        "type": "1"
-      },
-      {
-        "api": "d61981b93ee6417dbf9d58a61e892c22:978ef2821769761987bed8eea45e7dac",
-        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7m03a1jvwt/out/v1/8397492047424584a049f661a21d3483/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "PARAMOUNT+ PT",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/56323/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "PARAMOUNT+ HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/56348/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SERVER 2 HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/56324/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SERVER 3 HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/56347/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SERVER 4 HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/garcia-vs-benn-28563",
-        "logo": "",
-        "title": "DAZN PPV FHD",
-        "type": "2"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.41/hls/dpppp.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "LOW SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/53519/load-playlist?|Referer=https://gooz.aapmains.net",
-        "title": "DUDE Tv WWE",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
     "id": 50032,
     "title": "Chicago White Sox",
     "image": "o",
@@ -1581,93 +1380,6 @@
     "channel_status": "cached"
   },
   {
-    "id": 50053,
-    "title": "2. Seattle Mariners",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Athletics",
-      "teamB": "Mariners",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3645/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3641/image",
-      "eventName": "Athletics vs Seattle Mariners",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/13 01:40:00 +0000",
-      "endTime": "2026/09/13 04:40:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://edgestream5.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-09-12/sea-ath",
-        "logo": "",
-        "title": "MLB LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50054,
-    "title": "CFL",
-    "image": "o",
-    "cat": "CFL",
-    "eventInfo": {
-      "teamA": "BC",
-      "teamB": "Montréal",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4440/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4439/image",
-      "eventName": "BC Lions vs Montreal Alouettes",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/13 02:00:00 +0000",
-      "endTime": "2026/09/13 05:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TSN SPORTS"
-    ],
-    "formatsNew": [
-      {
-        "title": "TSN SPORTS",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "TSN SPORTS",
-        "type": "1"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
     "id": 50059,
     "title": "India Women vs Sri Lanka W",
     "image": "o",
@@ -1723,57 +1435,33 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW - FHD",
-      "WILLOW - ALT",
-      "TAPMAD - FHD",
-      "WILLOW HD"
+      "WILLOW FHD",
+      "WILLOW - ALT"
     ],
     "formatsNew": [
       {
-        "title": "WILLOW - FHD",
+        "title": "WILLOW FHD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
         "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "TAPMAD - FHD",
-        "logo": ""
-      },
-      {
-        "title": "WILLOW HD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       }
     ],
     "decoded_channels": [
       {
-        "api": "143a35fab2c5e553c1cc1936ac1fc488:9f11816687cec7221afad1492fa320ec",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tziwdkyit3/out/v1/2d48b29d83c445fabe81fb7858b14081/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "8851eadd8b8c8eea0ad4b63d57331135:3d17c357fc922961efb2a329e99f0404",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4ze16eer4q/out/v1/ca4786cfa5d045789549d63f6fdd5188/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW - FHD",
+        "title": "WILLOW FHD",
         "type": "1"
       },
       {
-        "api": "143a35fab2c5e553c1cc1936ac1fc488:9f11816687cec7221afad1492fa320ec",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tziwdkyit3/out/v1/2d48b29d83c445fabe81fb7858b14081/cenc.mpd",
+        "api": "8851eadd8b8c8eea0ad4b63d57331135:3d17c357fc922961efb2a329e99f0404",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4ze16eer4q/out/v1/ca4786cfa5d045789549d63f6fdd5188/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - ALT",
         "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8",
-        "logo": "",
-        "title": "TAPMAD - FHD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW HD",
-        "type": "0"
       }
     ],
     "channel_status": "live"
@@ -1797,9 +1485,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TEN SPORTS HD",
       "FANCODE FHD"
     ],
     "formatsNew": [
+      {
+        "title": "TEN SPORTS HD",
+        "logo": ""
+      },
       {
         "title": "FANCODE FHD",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
@@ -1807,8 +1500,15 @@
     ],
     "decoded_channels": [
       {
-        "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "",
+        "link": "https://cdn-gstyx.styxsports.live/STYX/streams/68oRKR23qeWZvCXu6248791548119.m3u8|referer=https://www.styxsports.com/",
+        "logo": "",
+        "title": "TEN SPORTS HD",
+        "type": "0"
+      },
+      {
+        "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
         "title": "FANCODE FHD",
         "type": "1"
@@ -2616,10 +2316,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TSN SPORTS FHD",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2631,14 +2336,23 @@
     ],
     "decoded_channels": [
       {
+        "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+        "title": "TSN SPORTS FHD",
+        "type": "1"
+      },
+      {
         "api": "",
         "link": "https://edgestream4.pro/hls/jnknjfzbk35.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
         "link": "https://embedindia.st/embed/nfl/2026-08-28/cin-phi",
+        "logo": "",
         "title": "NFL LIVE [FHD]",
         "type": "2"
       }
@@ -2664,10 +2378,25 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TSN SPORTS FHD",
+      "NBC SPORTS FHD",
+      "TSN5 SPORTS FHD",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
+      {
+        "title": "NBC SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "TSN5 SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2679,11 +2408,25 @@
     ],
     "decoded_channels": [
       {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/55374/load-playlist?|Referer=https://gooz.aapmains.net",
+        "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+        "title": "TSN SPORTS FHD",
+        "type": "1"
+      },
+      {
+        "api": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "",
-        "title": "DUDE Tv NFL",
-        "type": "0"
+        "title": "NBC SPORTS FHD",
+        "type": "1"
+      },
+      {
+        "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+        "title": "TSN5 SPORTS FHD",
+        "type": "1"
       },
       {
         "api": "",
@@ -2698,93 +2441,6 @@
         "logo": "",
         "title": "NFL LIVE [FHD]",
         "type": "2"
-      }
-    ],
-    "channel_status": "cached"
-  },
-  {
-    "id": 50073,
-    "title": "Monterrey vs Tigres UANL",
-    "image": "o",
-    "cat": "Liga MX",
-    "eventInfo": {
-      "teamA": "Monterrey",
-      "teamB": "Tigres",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1932/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1940/image",
-      "eventName": "CF Monterrey vs Tigres UANL",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/13 01:10:00 +0000",
-      "endTime": "2026/09/13 03:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "CANAL5 FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "CANAL5 FHD",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "CANAL5 FHD",
-        "type": "1"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50074,
-    "title": "Cruz Azul vs Club América",
-    "image": "o",
-    "cat": "Liga MX",
-    "eventInfo": {
-      "teamA": "Cruz Azul",
-      "teamB": "América",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1947/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1939/image",
-      "eventName": "Cruz Azul vs Club América",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/13 03:15:00 +0000",
-      "endTime": "2026/09/13 05:20:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "CANAL5 FHD",
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "CANAL5 FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "CANAL5 FHD",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://live.uu6611.com/live/sd-1-4553862.m3u8?txSecret=9bafe488ca092e305dbc37c5f16d417a&txTime=6AA65B4F|Referer=https://player.up909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
       }
     ],
     "channel_status": "live"
@@ -3613,26 +3269,79 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/30/image",
       "eventName": "Coventry City vs Brighton",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/09/13 13:00:00 +0000",
       "endTime": "2026/09/13 15:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SKY EPL FHD"
+      "USA TV HD",
+      "SKY EPL FHD",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
+        "title": "USA TV HD",
+        "logo": ""
+      },
+      {
         "title": "SKY EPL FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/56395/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "USA TV HD",
+        "type": "0"
+      },
+      {
+        "api": "",
         "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=|User-Agent=Mozilla",
+        "logo": "",
         "title": "SKY EPL FHD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live.uu6611.com/live/hd-en-1-4558539.m3u8?txSecret=3d798ddab9b7d220cc9eb62d79ee2bb9&txTime=6AA6E05F|Referer=https://player.up909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent005adsf.m3u8",
+        "logo": "",
+        "title": "SKY MAIN EVENT",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://tmaxapp.site/8wirwjs76erftg/skysportspl004545vgb.m3u8",
+        "logo": "",
+        "title": "SKY EPL HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://tmaxapp.site/8wirwjs76erftg/dazn1es.m3u8",
+        "logo": "",
+        "title": "DAZN ES HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://tmaxapp.site/8wirwjs76erftg/bein4ar.m3u8",
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+        "title": "beIN SPORTS HD",
         "type": "0"
       }
     ],
@@ -3727,11 +3436,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PREMIER SPORTS FHD"
+      "PREMIER SPORTS FHD",
+      "ESPN DEPORTES HD",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
         "title": "PREMIER SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "ESPN DEPORTES HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ],
@@ -3739,8 +3458,23 @@
       {
         "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "PREMIER SPORTS FHD",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/56393/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "ESPN DEPORTES HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live.uu6611.com/live/hd-en-1-4565387.m3u8?txSecret=653ac240ff1cbae257b52b4f33d81be6&txTime=6AA6DB6E|Referer=https://player.up909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
       }
     ],
     "channel_status": "live"
@@ -3934,8 +3668,30 @@
       {
         "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "beIN ENGLISH FHD",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://live.uu6611.com/live/hd-en-1-4549115.m3u8?txSecret=f90c72fc71fdb63e95d2cbac2f58b9d2&txTime=6AA6E24A|Referer=https://player.up909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://tmaxapp.site/8wirwjs76erftg/dazn1it.m3u8",
+        "logo": "",
+        "title": "DAZN SPORTS HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.41/hls/OWWWA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "LOW SERVER",
+        "type": "0"
       }
     ],
     "channel_status": "live"
@@ -4066,8 +3822,23 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "link": "https://edgestream7.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "beIN USA HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live.uu6611.com/live/hd-en-1-4550873.m3u8?txSecret=1388bdc26b9f0f0a3e7a81e9da23e8b3&txTime=6AA6E2BE|Referer=https://player.up909.com/",
+        "logo": "",
         "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.41/hls/OWWW.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "SD SERVER",
         "type": "0"
       }
     ],
@@ -4092,20 +3863,69 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
+      "PARAMOUNT+ FHD",
+      "beIN ENGLISH FHD",
+      "PARAMOUNT+ HD",
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
+        "api": "d789134a9c6e8ca022cd3b9213d0b17e:f33abf3cc698cca9c31193b31462268a",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/zmnct21yk0/out/v1/24b2636d1c8940e3b86e0dcceaf5fea4/4eb86362-3c08-437b-b67e-4c2ad1b41edd-cenc.mpd?aws_sessionId=a7fb2f4e-99c8-43ff-baa3-5c992bddc387|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
+        "title": "PARAMOUNT+ FHD",
+        "type": "0"
+      },
+      {
         "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "beIN ENGLISH FHD",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/56391/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
+        "title": "PARAMOUNT+ HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live.uu6611.com/live/sd-1-4563581.m3u8?txSecret=fe481d68d398d842c8a6c7f0a53d445b&txTime=6AA6CA8A|Referer=https://player.up909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.44/hls/DUUUAAAAAAQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "SD SERVER",
+        "type": "0"
       }
     ],
     "channel_status": "live"
@@ -4369,7 +4189,7 @@
         "type": "0"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50112,
@@ -4401,7 +4221,8 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "link": "https://live.uu6611.com/live/sd-1-4552197.m3u8?txSecret=2443e57444b0ca325d391f5834995df0&txTime=6AA6C2DA|Referer=https://player.up909.com/",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       }
@@ -4628,7 +4449,7 @@
         "type": "0"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50118,
@@ -4660,7 +4481,8 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "link": "https://live.uu6611.com/live/sd-1-4566607.m3u8?txSecret=121f6246dd7188953228d8d9cee5fad3&txTime=6AA6CB99|Referer=https://player.up909.com/",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       }
@@ -5064,10 +4886,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TSN SPORTS FHD",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -5079,14 +4906,23 @@
     ],
     "decoded_channels": [
       {
+        "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+        "title": "TSN SPORTS FHD",
+        "type": "1"
+      },
+      {
         "api": "",
         "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
         "link": "https://embedindia.st/embed/nfl/",
+        "logo": "",
         "title": "NFL LIVE [FHD]",
         "type": "0"
       }
@@ -5382,6 +5218,56 @@
         "api": "",
         "link": "https://embedindia.st/embed/nfl/",
         "title": "NFL LIVE [FHD]",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50134,
+    "title": "Manchester United vs Chelsea",
+    "image": "o",
+    "cat": "Womens SL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "eventInfo": {
+      "teamA": "Manchester United W",
+      "teamB": "Chelsea W",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/301455/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/66768/image",
+      "eventName": "Manchester United W vs Chelsea W",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/13 11:00:00 +0000",
+      "endTime": "2026/09/13 13:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "PARAMOUNT+ FHD",
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "73be8a5bcfda2caeeeba43a3ca838829:63f15d04874d980078808355468378ed",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/lzxcaccrro/out/v1/d5c4124abfd84e94be7a412cbc27170b/19eb0226-8544-4c9d-9179-eda428a3b3e1-cenc.mpd?aws_sessionId=045d9945-5810-45af-89a1-9e22250db86f|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
+        "title": "PARAMOUNT+ FHD",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://live.uu6611.com/live/hd-en-1-4603681.m3u8?txSecret=9019ec3c2da3f31e67d1048ceabc4707&txTime=6AA6CACF|Referer=https://player.up909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
         "type": "0"
       }
     ],

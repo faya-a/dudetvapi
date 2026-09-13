@@ -12,7 +12,7 @@
       "eventName": "Formula 1 -  Circuito de Madring",
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://tikolu.net/i/vfbcx",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/09/13 12:50:00 +0000",
       "endTime": "2026/09/13 15:30:00 +0000"
     },
@@ -20,12 +20,7 @@
     "publish": "1",
     "formats": [
       "TSN SPORTS FHD",
-      "SKY SPORTS FHD",
-      "APPLE TV FHD",
       "FANCODE - FHD",
-      "Mixed On Board",
-      "Driver Tracker",
-      "APPLE TV 4K",
       "DUDE Tv F1 HD",
       "SKY F1 Italia [IT]",
       "Sportscast FHD",
@@ -43,28 +38,8 @@
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
-        "title": "SKY SPORTS FHD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-      },
-      {
-        "title": "APPLE TV FHD",
-        "logo": ""
-      },
-      {
         "title": "FANCODE - FHD",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "Mixed On Board",
-        "logo": ""
-      },
-      {
-        "title": "Driver Tracker",
-        "logo": ""
-      },
-      {
-        "title": "APPLE TV 4K",
-        "logo": ""
       },
       {
         "title": "DUDE Tv F1 HD",
@@ -591,75 +566,6 @@
     ]
   },
   {
-    "id": 50023,
-    "title": "Garcia vs Benn",
-    "image": "o",
-    "cat": "Boxing",
-    "eventInfo": {
-      "teamA": "Garcia",
-      "teamB": "Benn",
-      "teamAFlag": "https://images.tapology.com/headshot_images/204534/preview/IMG_20220728_020931.jpg",
-      "teamBFlag": "https://images.tapology.com/headshot_images/220306/preview/IMG_20220418_030233.jpg",
-      "eventName": "Garcia vs Benn",
-      "eventType": "null",
-      "eventBanner": "https://wsrv.nl/?url=https://tikolu.net/i/tyklu",
-      "isHot": "0",
-      "startTime": "2026/09/13 00:00:00 +0000",
-      "endTime": "2026/09/13 04:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PARAMOUNT+ FHD",
-      "PARAMOUNT+ ES",
-      "PARAMOUNT+ PT",
-      "PARAMOUNT+ HD",
-      "SERVER 2 HD",
-      "SERVER 3 HD",
-      "SERVER 4 HD",
-      "DAZN PPV FHD",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "PARAMOUNT+ FHD",
-        "logo": ""
-      },
-      {
-        "title": "PARAMOUNT+ ES",
-        "logo": ""
-      },
-      {
-        "title": "PARAMOUNT+ PT",
-        "logo": ""
-      },
-      {
-        "title": "PARAMOUNT+ HD",
-        "logo": ""
-      },
-      {
-        "title": "SERVER 2 HD",
-        "logo": ""
-      },
-      {
-        "title": "SERVER 3 HD",
-        "logo": ""
-      },
-      {
-        "title": "SERVER 4 HD",
-        "logo": ""
-      },
-      {
-        "title": "DAZN PPV FHD",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50032,
     "title": "Chicago White Sox",
     "image": "o",
@@ -825,67 +731,6 @@
     ]
   },
   {
-    "id": 50053,
-    "title": "2. Seattle Mariners",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Athletics",
-      "teamB": "Mariners",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3645/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3641/image",
-      "eventName": "Athletics vs Seattle Mariners",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/13 01:40:00 +0000",
-      "endTime": "2026/09/13 04:40:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50054,
-    "title": "CFL",
-    "image": "o",
-    "cat": "CFL",
-    "eventInfo": {
-      "teamA": "BC",
-      "teamB": "Montréal",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4440/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4439/image",
-      "eventName": "BC Lions vs Montreal Alouettes",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/13 02:00:00 +0000",
-      "endTime": "2026/09/13 05:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TSN SPORTS"
-    ],
-    "formatsNew": [
-      {
-        "title": "TSN SPORTS",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50059,
     "title": "India Women vs Sri Lanka W",
     "image": "o",
@@ -932,26 +777,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW - FHD",
-      "WILLOW - ALT",
-      "TAPMAD - FHD",
-      "WILLOW HD"
+      "WILLOW FHD",
+      "WILLOW - ALT"
     ],
     "formatsNew": [
       {
-        "title": "WILLOW - FHD",
+        "title": "WILLOW FHD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
         "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "TAPMAD - FHD",
-        "logo": ""
-      },
-      {
-        "title": "WILLOW HD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       }
     ]
@@ -975,9 +810,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TEN SPORTS HD",
       "FANCODE FHD"
     ],
     "formatsNew": [
+      {
+        "title": "TEN SPORTS HD",
+        "logo": ""
+      },
       {
         "title": "FANCODE FHD",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
@@ -1070,10 +910,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TSN SPORTS FHD",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1103,77 +948,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TSN SPORTS FHD",
+      "NBC SPORTS FHD",
+      "TSN5 SPORTS FHD",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
+      {
+        "title": "NBC SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "TSN5 SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
       },
       {
         "title": "NFL LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50073,
-    "title": "Monterrey vs Tigres UANL",
-    "image": "o",
-    "cat": "Liga MX",
-    "eventInfo": {
-      "teamA": "Monterrey",
-      "teamB": "Tigres",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1932/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1940/image",
-      "eventName": "CF Monterrey vs Tigres UANL",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/13 01:10:00 +0000",
-      "endTime": "2026/09/13 03:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "CANAL5 FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "CANAL5 FHD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50074,
-    "title": "Cruz Azul vs Club América",
-    "image": "o",
-    "cat": "Liga MX",
-    "eventInfo": {
-      "teamA": "Cruz Azul",
-      "teamB": "América",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1947/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1939/image",
-      "eventName": "Cruz Azul vs Club América",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/13 03:15:00 +0000",
-      "endTime": "2026/09/13 05:20:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "CANAL5 FHD",
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "CANAL5 FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -1720,18 +1519,28 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/30/image",
       "eventName": "Coventry City vs Brighton",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/09/13 13:00:00 +0000",
       "endTime": "2026/09/13 15:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SKY EPL FHD"
+      "USA TV HD",
+      "SKY EPL FHD",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
+        "title": "USA TV HD",
+        "logo": ""
+      },
+      {
         "title": "SKY EPL FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -1798,11 +1607,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PREMIER SPORTS FHD"
+      "PREMIER SPORTS FHD",
+      "ESPN DEPORTES HD",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
         "title": "PREMIER SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "ESPN DEPORTES HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -2027,11 +1846,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
+      "PARAMOUNT+ FHD",
+      "beIN ENGLISH FHD",
+      "PARAMOUNT+ HD",
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -2673,10 +2512,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TSN SPORTS FHD",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2881,6 +2725,39 @@
       },
       {
         "title": "NFL LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50134,
+    "title": "Manchester United vs Chelsea",
+    "image": "o",
+    "cat": "Womens SL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "eventInfo": {
+      "teamA": "Manchester United W",
+      "teamB": "Chelsea W",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/301455/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/66768/image",
+      "eventName": "Manchester United W vs Chelsea W",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/13 11:00:00 +0000",
+      "endTime": "2026/09/13 13:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "PARAMOUNT+ FHD",
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
