@@ -1,30 +1,37 @@
 [
   {
-    "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
-    "title": "PREMIER SPORTS",
-    "type": "1"
-  },
-  {
-    "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
-    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "D Sports FHD",
+    "api": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/zjnol8ijrw/out/v1/27aac1f9df984d65a9d4b95d234f4468/6a39f782-9ceb-4c64-9094-fde10481983b-cenc.mpd?aws_sessionId=ae7cb031-c872-4975-b4bd-192427ac338c|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+    "title": "beIN SPORTS FHD",
     "type": "1"
   },
   {
     "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/56228/load-playlist?|Referer=https://gooz.aapmains.net",
+    "link": "https://edgestream4.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
     "logo": "",
-    "title": "ESPN DEPORTES HD",
+    "title": "beIN USA HD",
     "type": "0"
   },
   {
     "api": "",
-    "link": "http://193.47.62.50/hls/IGGGCCCCAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "link": "https://live.uu6611.com/live/hd-en-1-4550870.m3u8?txSecret=ad7b310f8c0ab11fd05e293ccbf5dcf4&txTime=6AA7351D|Referer=https://player.up909.com/",
     "logo": "",
-    "title": "LOW SERVER",
+    "title": "DUDE Tv Live",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://live-cdn.tofi-xtv.com/hls/bein1.m3u8",
+    "logo": "",
+    "title": "beIN SPORTS AR",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.44/hls/FPPPAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "logo": "",
+    "title": "SD SERVER",
     "type": "0"
   }
 ]
