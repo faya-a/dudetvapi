@@ -1,8 +1,14 @@
 [
   {
-    "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
-    "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-    "title": "Laliga Hypermotion ES",
-    "type": "1"
+    "api": "",
+    "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+    "title": "DUDE Tv Live",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://embedindia.st/embed/nfl/",
+    "title": "NFL LIVE [FHD]",
+    "type": "0"
   }
 ]
