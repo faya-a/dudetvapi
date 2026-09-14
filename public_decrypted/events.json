@@ -700,6 +700,49 @@
     ]
   },
   {
+    "id": 50069,
+    "title": "Kansas City Chiefs",
+    "image": "o",
+    "cat": "NFL",
+    "eventInfo": {
+      "teamA": "Chiefs",
+      "teamB": "Broncos",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4422/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4418/image",
+      "eventName": "Kansas City Chiefs vs Denver Broncos",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/15 00:15:00 +0000",
+      "endTime": "2026/09/15 03:25:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TSN SPORTS FHD",
+      "TSN4 SPORTS FHD",
+      "DUDE Tv Live",
+      "NFL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "TSN4 SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NFL LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50075,
     "title": "Cincinnati Reds vs Dodgers",
     "image": "o",
@@ -751,10 +794,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TNT SPORTS FHD",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TNT SPORTS FHD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1068,6 +1116,39 @@
     ]
   },
   {
+    "id": 50086,
+    "title": "Bahia vs Remo",
+    "image": "o",
+    "cat": "Brasileirão",
+    "eventInfo": {
+      "teamA": "Bahia",
+      "teamB": "Remo",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1955/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2012/image",
+      "eventName": "Bahia vs Remo",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/14 23:00:00 +0000",
+      "endTime": "2026/09/15 01:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SporTV BR",
+      "PREMIERER BR"
+    ],
+    "formatsNew": [
+      {
+        "title": "SporTV BR",
+        "logo": ""
+      },
+      {
+        "title": "PREMIERER BR",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50090,
     "title": "Leeds United vs Newcastle United",
     "image": "o",
@@ -1238,6 +1319,286 @@
     "formatsNew": [
       {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50097,
+    "title": "Al-Ahli Dubai vs Tractor",
+    "image": "o",
+    "cat": "AFC Champions Elite",
+    "eventInfo": {
+      "teamA": "Shabab Al-Ahli",
+      "teamB": "Tractor",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/264111/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/53715/image",
+      "eventName": "Shabab Al-Ahli Dubai vs Tractor FC",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/14 16:00:00 +0000",
+      "endTime": "2026/09/14 18:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50098,
+    "title": "Al Shamal SC vs Al-Ittihad",
+    "image": "o",
+    "cat": "AFC Champions Elite",
+    "eventInfo": {
+      "teamA": "Al Shamal SC",
+      "teamB": "Al-Ittihad",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/170366/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/34315/image",
+      "eventName": "Al Shamal SC vs Al-Ittihad",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/14 16:00:00 +0000",
+      "endTime": "2026/09/14 18:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50099,
+    "title": "Neftchi vs Al-Jawiya",
+    "image": "o",
+    "cat": "AFC Champions Elite",
+    "eventInfo": {
+      "teamA": "Neftchi",
+      "teamB": "Al-Jawiya",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/36256/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/213877/image",
+      "eventName": "Neftchi vs Al-Jawiya",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/14 13:45:00 +0000",
+      "endTime": "2026/09/14 15:50:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50100,
+    "title": "Al-Ahli vs Pakhtakor",
+    "image": "o",
+    "cat": "AFC Champions Elite",
+    "eventInfo": {
+      "teamA": "Al-Ahli",
+      "teamB": "Pakhtakor",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/34469/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/34310/image",
+      "eventName": "Al-Ahli vs Pakhtakor Tashkent",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/14 18:15:00 +0000",
+      "endTime": "2026/09/14 20:15:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50101,
+    "title": "Al-Qadsiah vs Al Wasl",
+    "image": "o",
+    "cat": "AFC Champions Elite",
+    "eventInfo": {
+      "teamA": "Al-Qadsiah",
+      "teamB": "Al-Wasl",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/56027/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/47674/image",
+      "eventName": "Al-Qadsiah vs Al Wasl",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/14 18:15:00 +0000",
+      "endTime": "2026/09/14 20:15:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50102,
+    "title": "Esteghlal vs Al-Sadd",
+    "image": "o",
+    "cat": "AFC Champions Elite",
+    "eventInfo": {
+      "teamA": "Esteghlal FC",
+      "teamB": "Al-Sadd",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/34316/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/39733/image",
+      "eventName": "Esteghlal FC vs Al-Sadd",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/14 18:15:00 +0000",
+      "endTime": "2026/09/14 20:15:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50103,
+    "title": "Braga vs Estoril Praia",
+    "image": "o",
+    "cat": "Liga Portugal",
+    "eventInfo": {
+      "teamA": "Braga",
+      "teamB": "Estoril",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2999/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4500/image",
+      "eventName": "Sporting Braga vs Estoril Praia",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/14 19:45:00 +0000",
+      "endTime": "2026/09/14 21:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportDigital Fussball"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportDigital Fussball",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50104,
+    "title": "Moreirense vs CS Marítimo",
+    "image": "o",
+    "cat": "Liga Portugal",
+    "eventInfo": {
+      "teamA": "Moreirense",
+      "teamB": "Marítimo",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3014/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3007/image",
+      "eventName": "Moreirense vs CS Marítimo",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/14 19:15:00 +0000",
+      "endTime": "2026/09/14 21:15:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50105,
+    "title": "Rio Ave vs Estrela Amadora",
+    "image": "o",
+    "cat": "Liga Portugal",
+    "eventInfo": {
+      "teamA": "Rio Ave",
+      "teamB": "Estrela Amadora",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3036/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3035/image",
+      "eventName": "Rio Ave vs CF Estrela Amadora",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/14 17:45:00 +0000",
+      "endTime": "2026/09/14 19:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50106,
+    "title": "Gaziantep FK vs Fenerbahçe",
+    "image": "o",
+    "cat": "Super Lig",
+    "eventInfo": {
+      "teamA": "Gaziantep",
+      "teamB": "Fenerbahçe",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/5138/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3052/image",
+      "eventName": "Gaziantep FK vs Fenerbahçe",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/14 17:00:00 +0000",
+      "endTime": "2026/09/14 19:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]

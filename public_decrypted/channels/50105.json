@@ -1,37 +1,8 @@
 [
   {
-    "api": "d789134a9c6e8ca022cd3b9213d0b17e:f33abf3cc698cca9c31193b31462268a",
-    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/zmnct21yk0/out/v1/24b2636d1c8940e3b86e0dcceaf5fea4/4eb86362-3c08-437b-b67e-4c2ad1b41edd-cenc.mpd?aws_sessionId=a7fb2f4e-99c8-43ff-baa3-5c992bddc387|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
-    "title": "PARAMOUNT+ FHD",
-    "type": "0"
-  },
-  {
-    "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "beIN ENGLISH FHD",
-    "type": "1"
-  },
-  {
     "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/56391/load-playlist?|Referer=https://gooz.aapmains.net",
-    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
-    "title": "PARAMOUNT+ HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://live.uu6611.com/live/sd-1-4563581.m3u8?txSecret=fe481d68d398d842c8a6c7f0a53d445b&txTime=6AA6CA8A|Referer=https://player.up909.com/",
-    "logo": "",
+    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
     "title": "DUDE Tv Live",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.44/hls/DUUUAAAAAAQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-    "logo": "",
-    "title": "SD SERVER",
     "type": "0"
   }
 ]
