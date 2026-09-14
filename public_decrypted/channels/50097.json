@@ -1,23 +1,9 @@
 [
   {
-    "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "PREMIER SPORTS FHD",
-    "type": "1"
-  },
-  {
     "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/56393/load-playlist?|Referer=https://gooz.aapmains.net",
+    "link": "http://193.47.62.44/hls/UCCCCQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
     "logo": "",
-    "title": "ESPN DEPORTES HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://live.uu6611.com/live/hd-en-1-4565387.m3u8?txSecret=653ac240ff1cbae257b52b4f33d81be6&txTime=6AA6DB6E|Referer=https://player.up909.com/",
-    "logo": "",
-    "title": "DUDE Tv Live",
+    "title": "SD SERVER",
     "type": "0"
   }
 ]

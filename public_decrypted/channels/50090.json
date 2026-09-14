@@ -8,6 +8,20 @@
   },
   {
     "api": "",
+    "link": "https://chatgpt.hereisman.net/playlist/56470/load-playlist?|Referer=https://gooz.aapmains.net",
+    "logo": "",
+    "title": "PREMIER LIGUE HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://chatgpt.hereisman.net/playlist/56468/load-playlist?|Referer=https://gooz.aapmains.net",
+    "logo": "",
+    "title": "USA TV HD",
+    "type": "0"
+  },
+  {
+    "api": "",
     "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=|User-Agent=Mozilla",
     "logo": "",
     "title": "SKY EPL HD",
@@ -15,30 +29,30 @@
   },
   {
     "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/56410/load-playlist?|Referer=https://gooz.aapmains.net",
-    "logo": "",
-    "title": "PEACOCK TV HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://live.bongobd.com/hls/UEa2PPNfuwyf8q1nnQYVlA/1789316329/EPLmatch19.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&referer=https://bongobd.com/&origin=https://bongobd.com",
-    "logo": "",
-    "title": "MyCO BDIX",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://live.uu6611.com/live/hd-en-1-4558548.m3u8?txSecret=ab95430ab757a50a521c364bfc743413&txTime=6AA7010A|Referer=https://player.up909.com/",
+    "link": "https://live.uu6611.com/live/hd-en-1-4558543.m3u8?txSecret=746cab17e77c2b34eeb8a3d19c621e1d&txTime=6AA88E9F|Referer=https://player.up909.com/",
     "logo": "",
     "title": "DUDE Tv Live",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://edgestream1.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+    "link": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bein-mq-2/bein-sports-1.m3u8",
     "logo": "",
-    "title": "HD SERVER",
+    "title": "BeIN ARABIC HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://tmaxapp.site/8wirwjs76erftg/skysportspl004545vgb.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+    "title": "SKY SPORTS EPL",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://tmaxapp.site/8wirwjs76erftg/usanetwodfgsdfsark.m3u8",
+    "logo": "",
+    "title": "USA NETWORK",
     "type": "0"
   },
   {
@@ -47,40 +61,5 @@
     "logo": "",
     "title": "SKY MAIN EVENT",
     "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://tmaxapp.site/8wirwjs76erftg/bein1ar.m3u8",
-    "logo": "",
-    "title": "beIN AR HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://tmaxapp.site/8wirwjs76erftg/skysportspl004545vgb.m3u8",
-    "logo": "",
-    "title": "SKY EPL HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://tmaxapp.site/8wirwjs76erftg/usanetwodfgsdfsark.m3u8",
-    "logo": "",
-    "title": "USA TV HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.50/hls/CYYYYQY.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-    "logo": "",
-    "title": "LOW SERVER",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://embedindia.st/embed/pl/2026-09-13/mun-mci",
-    "logo": "",
-    "title": "SPX LIVE {FHD]",
-    "type": "2"
   }
 ]
