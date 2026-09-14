@@ -325,8 +325,8 @@
       "eventType": "null",
       "eventBanner": "null",
       "isHot": "0",
-      "startTime": "2026/09/13 13:30:00 +0000",
-      "endTime": "2026/09/13 17:15:00 +0000"
+      "startTime": "2026/09/15 14:00:00 +0000",
+      "endTime": "2026/09/15 17:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -611,98 +611,6 @@
     ]
   },
   {
-    "id": 50023,
-    "title": "Garcia vs Benn",
-    "image": "o",
-    "cat": "NFL",
-    "eventInfo": {
-      "teamA": "NFL",
-      "teamB": "REDZONE",
-      "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/9464/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/9464/image",
-      "eventName": "NFL REDZONE",
-      "eventType": "null",
-      "eventBanner": "https://wsrv.nl/?url=https://tikolu.net/i/pmead",
-      "isHot": "1",
-      "startTime": "2026/09/13 17:00:00 +0000",
-      "endTime": "2026/09/14 00:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SERVER 1 HD",
-      "SERVER 2 HD",
-      "SERVER 3 HD",
-      "SERVER 4 HD",
-      "NFL NETWORK HD",
-      "REDZONE [FHD]",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "SERVER 1 HD",
-        "logo": ""
-      },
-      {
-        "title": "SERVER 2 HD",
-        "logo": ""
-      },
-      {
-        "title": "SERVER 3 HD",
-        "logo": ""
-      },
-      {
-        "title": "SERVER 4 HD",
-        "logo": ""
-      },
-      {
-        "title": "NFL NETWORK HD",
-        "logo": ""
-      },
-      {
-        "title": "REDZONE [FHD]",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50042,
-    "title": "Miami Dolphins",
-    "image": "o",
-    "cat": "NFL",
-    "eventInfo": {
-      "teamA": "Raiders",
-      "teamB": "Dolphins",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4390/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4287/image",
-      "eventName": "Las Vegas Raiders vs Miami Dolphins",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/13 20:25:00 +0000",
-      "endTime": "2026/09/13 23:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "NFL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NFL LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50053,
     "title": "San Diego Padres",
     "image": "o",
@@ -741,59 +649,29 @@
     ]
   },
   {
-    "id": 50059,
-    "title": "India Women vs Sri Lanka W",
+    "id": 50060,
+    "title": "England vs Sri Lanka",
     "image": "o",
-    "cat": "Asia Cup",
+    "cat": "Cricket",
     "eventInfo": {
-      "teamA": "IND-W",
-      "teamB": "SL-W",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/213119/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187806/image",
-      "eventName": "India Women vs Sri Lanka Women",
+      "teamA": "ENG",
+      "teamB": "SL",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187757/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
+      "eventName": "England vs Sri Lanka",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/13 14:30:00 +0000",
-      "endTime": "2026/09/13 18:15:00 +0000"
+      "startTime": "2026/09/15 17:30:00 +0000",
+      "endTime": "2026/09/15 21:15:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW FHD",
-      "WILLOW - ALT",
-      "SonyLiv (ENG)",
-      "SonyLiv (HIN)",
-      "SonyLiv (TAM)",
-      "SonyLiv (TEL)",
-      "SonyLiv (KAN)"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "WILLOW FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "SonyLiv (ENG)",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv (HIN)",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv (TAM)",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv (TEL)",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv (KAN)",
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -811,8 +689,8 @@
       "eventName": "European T20 Premier League",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/13 13:15:00 +0000",
-      "endTime": "2026/09/13 17:30:00 +0000"
+      "startTime": "2026/09/15 09:15:00 +0000",
+      "endTime": "2026/09/15 17:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -833,138 +711,28 @@
   },
   {
     "id": 50062,
-    "title": "Namibia vs South Africa",
+    "title": "Zimbabwe vs Australia",
     "image": "o",
     "cat": "Cricket",
     "eventInfo": {
-      "teamA": "NAM",
-      "teamB": "SA",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/199275/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187747/image",
-      "eventName": "Namibia vs South Africa",
+      "teamA": "ZIM",
+      "teamB": "AUS",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187745/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187746/image",
+      "eventName": "Zimbabwe vs Australia",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/13 07:30:00 +0000",
-      "endTime": "2026/09/13 15:30:00 +0000"
+      "startTime": "2026/09/15 07:30:00 +0000",
+      "endTime": "2026/09/15 15:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TEN SPORTS HD",
-      "FANCODE FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "TEN SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "FANCODE FHD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      }
-    ]
-  },
-  {
-    "id": 50065,
-    "title": "Arizona Cardinals",
-    "image": "o",
-    "cat": "NFL",
-    "eventInfo": {
-      "teamA": "Chargers",
-      "teamB": "Cardinals",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4429/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4412/image",
-      "eventName": "Los Angeles Chargers vs Arizona Cardinals",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/13 20:25:00 +0000",
-      "endTime": "2026/09/13 23:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "NFL LIVE [FHD]"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NFL LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50067,
-    "title": "Minnesota Vikings",
-    "image": "o",
-    "cat": "NFL",
-    "eventInfo": {
-      "teamA": "Vikings",
-      "teamB": "Packers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4423/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4420/image",
-      "eventName": "Minnesota Vikings vs Green Bay Packers",
-      "eventType": "null",
-      "eventBanner": "null",
-      "isHot": "0",
-      "startTime": "2026/09/13 20:25:00 +0000",
-      "endTime": "2026/09/13 23:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "NFL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NFL LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50068,
-    "title": "Philadelphia Eagles",
-    "image": "o",
-    "cat": "NFL",
-    "eventInfo": {
-      "teamA": "Eagles",
-      "teamB": "Commanders",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4428/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4432/image",
-      "eventName": "Philadelphia Eagles vs Washington Commanders",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/13 20:25:00 +0000",
-      "endTime": "2026/09/13 23:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TSN SPORTS FHD",
-      "DUDE Tv Live",
-      "NFL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "TSN SPORTS FHD",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NFL LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -990,7 +758,7 @@
     "formats": [
       "TSN SPORTS FHD",
       "NBC SPORTS FHD",
-      "TSN5 SPORTS FHD",
+      "TSN4 SPORTS FHD",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
@@ -1004,7 +772,7 @@
         "logo": ""
       },
       {
-        "title": "TSN5 SPORTS FHD",
+        "title": "TSN4 SPORTS FHD",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
@@ -1013,6 +781,82 @@
       },
       {
         "title": "NFL LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50073,
+    "title": "Santos Laguna vs Juárez",
+    "image": "o",
+    "cat": "Liga MX",
+    "eventInfo": {
+      "teamA": "Santos",
+      "teamB": "Juárez",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1948/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/201624/image",
+      "eventName": "Santos Laguna vs FC Juárez",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/14 01:00:00 +0000",
+      "endTime": "2026/09/14 03:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "SD SERVER",
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50074,
+    "title": "Guadalajara vs Pumas UNAM",
+    "image": "o",
+    "cat": "Liga MX",
+    "eventInfo": {
+      "teamA": "Guadalajara",
+      "teamB": "Pumas",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1938/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1933/image",
+      "eventName": "CD Guadalajara vs Pumas UNAM",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/14 01:07:00 +0000",
+      "endTime": "2026/09/14 03:12:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "SD SERVER",
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1493,6 +1337,67 @@
         "title": "TNT SPORTS FHD",
         "logo": ""
       },
+      {
+        "title": "beIN ENGLISH FHD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50095,
+    "title": "Torino vs AS Roma",
+    "image": "o",
+    "cat": "Serie A 🇮🇹",
+    "eventInfo": {
+      "teamA": "Torino",
+      "teamB": "Roma",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2696/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2702/image",
+      "eventName": "Torino vs AS Roma",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/14 16:30:00 +0000",
+      "endTime": "2026/09/14 18:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "beIN ENGLISH FHD",
+      "SPORT 1 CZ"
+    ],
+    "formatsNew": [
+      {
+        "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "SPORT 1 CZ",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50096,
+    "title": "Como vs Parma",
+    "image": "o",
+    "cat": "Serie A 🇮🇹",
+    "eventInfo": {
+      "teamA": "Como",
+      "teamB": "Parma",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2704/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2690/image",
+      "eventName": "Como vs Parma",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/14 16:30:00 +0000",
+      "endTime": "2026/09/14 18:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "beIN ENGLISH FHD"
+    ],
+    "formatsNew": [
       {
         "title": "beIN ENGLISH FHD",
         "logo": ""

@@ -1,8 +1,23 @@
 [
   {
-    "api": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "title": "CANAL5 FHD",
-    "type": "1"
+    "api": "",
+    "link": "https://live.uu6611.com/live/sd-1-4553865.m3u8?txSecret=f36bf0077dbae395659999b138108ca4&txTime=6AA78F2D|Referer=https://player.up909.com/",
+    "logo": "",
+    "title": "DUDE Tv Live",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.44/hls/ZFFFQqqQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "logo": "",
+    "title": "SD SERVER",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://embedindia.st/embed/liga-mx/2026-09-13/san-jua",
+    "logo": "",
+    "title": "SPX LIVE [FHD]",
+    "type": "2"
   }
 ]
