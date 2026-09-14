@@ -542,75 +542,6 @@
     ]
   },
   {
-    "id": 50019,
-    "title": "US OPEN",
-    "image": "o",
-    "cat": "Tennis",
-    "eventInfo": {
-      "teamA": "US Open",
-      "teamB": "US Open",
-      "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/2449/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/2449/image",
-      "eventName": "US OPEN",
-      "eventType": "null",
-      "eventBanner": "https://wsrv.nl/?url=https://iili.io/n9UupwX.png",
-      "isHot": "0",
-      "startTime": "2026/09/13 18:00:00 +0000",
-      "endTime": "2026/09/13 23:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TSN SPORTS",
-      "ESPN SPORTS HD",
-      "TSN4 SPORTS",
-      "TENNIS2 FHD",
-      "SKY TENNIS FHD",
-      "SP0TV FHD",
-      "TAPMAD FHD",
-      "TSN3 SPORTS",
-      "TSN5 SPORTS"
-    ],
-    "formatsNew": [
-      {
-        "title": "TSN SPORTS",
-        "logo": ""
-      },
-      {
-        "title": "ESPN SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "TSN4 SPORTS",
-        "logo": ""
-      },
-      {
-        "title": "TENNIS2 FHD",
-        "logo": ""
-      },
-      {
-        "title": "SKY TENNIS FHD",
-        "logo": ""
-      },
-      {
-        "title": "SP0TV FHD",
-        "logo": ""
-      },
-      {
-        "title": "TAPMAD FHD",
-        "logo": ""
-      },
-      {
-        "title": "TSN3 SPORTS",
-        "logo": ""
-      },
-      {
-        "title": "TSN5 SPORTS",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50060,
     "title": "England vs Sri Lanka",
     "image": "o",
@@ -1168,12 +1099,26 @@
     "publish": "1",
     "formats": [
       "FUBO SPORTS FHD",
+      "PREMIER LIGUE HD",
+      "USA TV HD",
       "SKY EPL HD",
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "BeIN ARABIC HD",
+      "SKY SPORTS EPL",
+      "USA NETWORK",
+      "SKY MAIN EVENT"
     ],
     "formatsNew": [
       {
         "title": "FUBO SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "PREMIER LIGUE HD",
+        "logo": ""
+      },
+      {
+        "title": "USA TV HD",
         "logo": ""
       },
       {
@@ -1182,6 +1127,22 @@
       },
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "BeIN ARABIC HD",
+        "logo": ""
+      },
+      {
+        "title": "SKY SPORTS EPL",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+      },
+      {
+        "title": "USA NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "SKY MAIN EVENT",
         "logo": ""
       }
     ]
@@ -1208,7 +1169,9 @@
       "PREMIER SPORTS",
       "beIN ENGLISH FHD",
       "FANCODE FHD",
-      "CAZE TV FHD"
+      "CAZE TV FHD",
+      "ESPN DEPORTES HD",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
@@ -1225,6 +1188,14 @@
       },
       {
         "title": "CAZE TV FHD",
+        "logo": ""
+      },
+      {
+        "title": "ESPN DEPORTES HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -1249,15 +1220,30 @@
     "publish": "1",
     "formats": [
       "TNT SPORTS FHD",
-      "beIN ENGLISH FHD"
+      "beIN ENGLISH FHD",
+      "CBS NETWORK",
+      "PARAMOUNT+ HD",
+      "DAZN SPORTS HD"
     ],
     "formatsNew": [
       {
         "title": "TNT SPORTS FHD",
-        "logo": ""
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
       },
       {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": ""
+      },
+      {
+        "title": "DAZN SPORTS HD",
         "logo": ""
       }
     ]
@@ -1281,16 +1267,41 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PARAMOUNT+ FHD",
       "beIN ENGLISH FHD",
-      "SPORT 1 CZ"
+      "SPORT 1 CZ",
+      "ESPN AR FHD",
+      "PARAMOUNT+ HD",
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
       {
         "title": "beIN ENGLISH FHD",
         "logo": ""
       },
       {
         "title": "SPORT 1 CZ",
+        "logo": ""
+      },
+      {
+        "title": "ESPN AR FHD",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1314,11 +1325,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
+      "beIN ENGLISH FHD",
+      "PARAMOUNT+ HD",
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1342,11 +1368,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "SD SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1370,11 +1396,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1426,11 +1457,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "beIN ARABIC HD"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "beIN ARABIC HD",
         "logo": ""
       }
     ]
@@ -1454,11 +1485,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "beIN ARABIC HD"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "beIN ARABIC HD",
         "logo": ""
       }
     ]
@@ -1482,11 +1513,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "beIN ARABIC HD"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "beIN ARABIC HD",
         "logo": ""
       }
     ]
@@ -1520,34 +1551,6 @@
     ]
   },
   {
-    "id": 50104,
-    "title": "Moreirense vs CS Marítimo",
-    "image": "o",
-    "cat": "Liga Portugal",
-    "eventInfo": {
-      "teamA": "Moreirense",
-      "teamB": "Marítimo",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3014/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3007/image",
-      "eventName": "Moreirense vs CS Marítimo",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/14 19:15:00 +0000",
-      "endTime": "2026/09/14 21:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50105,
     "title": "Rio Ave vs Estrela Amadora",
     "image": "o",
@@ -1566,39 +1569,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "SPORT TV HD"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50106,
-    "title": "Gaziantep FK vs Fenerbahçe",
-    "image": "o",
-    "cat": "Super Lig",
-    "eventInfo": {
-      "teamA": "Gaziantep",
-      "teamB": "Fenerbahçe",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/5138/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3052/image",
-      "eventName": "Gaziantep FK vs Fenerbahçe",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/14 17:00:00 +0000",
-      "endTime": "2026/09/14 19:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
+        "title": "SPORT TV HD",
         "logo": ""
       }
     ]
