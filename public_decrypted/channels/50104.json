@@ -1,9 +1,16 @@
 [
   {
-    "api": "",
-    "link": "https://live.uu6611.com/live/hd-en-1-4621522.m3u8?txSecret=23f724dfbe23e9b14514e67ff216c593&txTime=6AA9572A|Referer=https://player.up909.com/",
+    "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "",
-    "title": "DUDE Tv Live",
-    "type": "0"
+    "title": "PREMIER SPORTS",
+    "type": "1"
+  },
+  {
+    "api": "00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587",
+    "link": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd",
+    "logo": "",
+    "title": "ITALIA 1 FHD",
+    "type": "1"
   }
 ]

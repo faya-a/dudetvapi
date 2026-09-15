@@ -331,22 +331,23 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW FHD",
-      "FANCODE FHD",
+      "WILLOW - FHD",
+      "FANCODE - FHD",
       "WILLOW - ALT",
-      "DUDE Tv Live",
-      "LOW SERVER",
-      "SONY HINDI (IN)",
-      "FANCODE HIN (IN)",
-      "FANCODE ENG (IN)"
+      "TAMASHA - AQ",
+      "SONY TEN 1 - IN",
+      "SONY TEN 3 - IN",
+      "FANCODE ENG - IN",
+      "FANCODE HIN - IN",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "WILLOW FHD",
+        "title": "WILLOW - FHD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "FANCODE FHD",
+        "title": "FANCODE - FHD",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       },
       {
@@ -354,24 +355,28 @@
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "DUDE Tv Live",
+        "title": "TAMASHA - AQ",
         "logo": ""
+      },
+      {
+        "title": "SONY TEN 1 - IN",
+        "logo": ""
+      },
+      {
+        "title": "SONY TEN 3 - IN",
+        "logo": ""
+      },
+      {
+        "title": "FANCODE ENG - IN",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "FANCODE HIN - IN",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       },
       {
         "title": "LOW SERVER",
         "logo": ""
-      },
-      {
-        "title": "SONY HINDI (IN)",
-        "logo": ""
-      },
-      {
-        "title": "FANCODE HIN (IN)",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "FANCODE ENG (IN)",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       }
     ]
   },
@@ -747,7 +752,7 @@
       "eventName": "European T20 Premier League",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/15 09:15:00 +0000",
+      "startTime": "2026/09/15 13:30:00 +0000",
       "endTime": "2026/09/15 17:30:00 +0000"
     },
     "adsLimit": "0",
@@ -1271,15 +1276,40 @@
     "publish": "1",
     "formats": [
       "PREMIER SPORTS",
-      "beIN ENGLISH FHD"
+      "beIN ENGLISH FHD",
+      "CAZE TV FHD",
+      "ESPN DEPORTES HD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "PREMIER SPORTS",
-        "logo": ""
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
       },
       {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "CAZE TV FHD",
+        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
+      },
+      {
+        "title": "ESPN DEPORTES HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1331,11 +1361,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "FANCODE FHD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
+        "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1486,160 +1531,139 @@
     ]
   },
   {
-    "id": 50102,
-    "title": "Guoan vs Pohang Steelers",
-    "image": "o",
-    "cat": "AFC Champions Elite",
-    "eventInfo": {
-      "teamA": "Guoan",
-      "teamB": "Pohang Steelers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3376/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/7650/image",
-      "eventName": "Beijing Guoan vs Pohang Steelers",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/15 12:15:00 +0000",
-      "endTime": "2026/09/15 14:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50103,
-    "title": "Johor vs Buriram United",
-    "image": "o",
-    "cat": "AFC Champions Elite",
-    "eventInfo": {
-      "teamA": "JDT",
-      "teamB": "Buriram",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3327/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/34218/image",
-      "eventName": "Johor Darul Ta'zim vs Buriram United",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/15 12:15:00 +0000",
-      "endTime": "2026/09/15 14:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50104,
-    "title": "Daejeon vs Kyoto Sanga",
+    "title": "Fiorentina vs Pisa",
     "image": "o",
-    "cat": "AFC Champions Elite",
+    "cat": "Coppa Italia 🇮🇹",
     "eventInfo": {
-      "teamA": "Daejeon Hana",
-      "teamB": "Kyoto Sanga",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/7645/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3149/image",
-      "eventName": "Daejeon vs Kyoto Sanga",
+      "teamA": "Fiorentina",
+      "teamB": "Pisa",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2693/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2737/image",
+      "eventName": "Fiorentina vs Pisa",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/15 10:00:00 +0000",
-      "endTime": "2026/09/15 12:00:00 +0000"
+      "startTime": "2026/09/15 19:00:00 +0000",
+      "endTime": "2026/09/15 21:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PREMIER SPORTS",
+      "ITALIA 1 FHD"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "PREMIER SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "ITALIA 1 FHD",
         "logo": ""
       }
     ]
   },
   {
     "id": 50105,
-    "title": "Gamba Osaka vs Cong",
+    "title": "Genoa vs Südtirol",
     "image": "o",
-    "cat": "AFC Champions Elite",
+    "cat": "Coppa Italia 🇮🇹",
     "eventInfo": {
-      "teamA": "Gamba Osaka",
-      "teamB": "Công An Hà Nội",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3138/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/193616/image",
-      "eventName": "Gamba Osaka vs Công An Hà Nội",
+      "teamA": "Genoa",
+      "teamB": "Südtirol",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2713/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2760/image",
+      "eventName": "Genoa vs Südtirol",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/15 10:00:00 +0000",
-      "endTime": "2026/09/15 12:00:00 +0000"
+      "startTime": "2026/09/15 16:00:00 +0000",
+      "endTime": "2026/09/15 18:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PARAMOUNT+ FHD",
+      "PREMIER SPORTS",
+      "CBS NETWORK",
+      "ITALIA 1 FHD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "PREMIER SPORTS",
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
+      },
+      {
+        "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "ITALIA 1 FHD",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
   },
   {
     "id": 50106,
-    "title": "Kashima Antlers vs Newcastle",
+    "title": "Ajax vs Willem",
     "image": "o",
-    "cat": "AFC Champions Elite",
+    "cat": "Eredivisie",
     "eventInfo": {
-      "teamA": "Kashima",
-      "teamB": "Newcastle Jets",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3134/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2934/image",
-      "eventName": "Kashima Antlers vs Newcastle Jets",
+      "teamA": "Ajax",
+      "teamB": "Willem II",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2953/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2961/image",
+      "eventName": "AFC Ajax vs Willem II",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/15 10:00:00 +0000",
-      "endTime": "2026/09/15 12:00:00 +0000"
+      "startTime": "2026/09/15 18:00:00 +0000",
+      "endTime": "2026/09/15 20:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "SportDigital Fussball"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "SportDigital Fussball",
         "logo": ""
       }
     ]
   },
   {
     "id": 50107,
-    "title": "Ratchaburi vs Shanghai Port",
+    "title": "Middlesbrough vs Millwall",
     "image": "o",
-    "cat": "AFC Champions Elite",
+    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "eventInfo": {
-      "teamA": "Ratchaburi",
-      "teamB": "Port",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/85743/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/41537/image",
-      "eventName": "Ratchaburi vs Shanghai Port",
+      "teamA": "Middlesbrough",
+      "teamB": "Millwall",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/36/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/25/image",
+      "eventName": "Middlesbrough vs Millwall",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/15 10:00:00 +0000",
-      "endTime": "2026/09/15 12:00:00 +0000"
+      "startTime": "2026/09/15 18:45:00 +0000",
+      "endTime": "2026/09/15 20:50:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
