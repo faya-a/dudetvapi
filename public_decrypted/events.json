@@ -753,16 +753,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW FHD",
-      "WILLOW - ALT"
+      "WILLOW - FHD",
+      "WILLOW - ALT",
+      "TAPMAD - AQ",
+      "FOX CRICKET HD",
+      "WILLOW HD"
     ],
     "formatsNew": [
       {
-        "title": "WILLOW FHD",
+        "title": "WILLOW - FHD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
         "title": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "TAPMAD - AQ",
+        "logo": ""
+      },
+      {
+        "title": "FOX CRICKET HD",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "title": "WILLOW HD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       }
     ]
@@ -786,12 +801,32 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "FANCODE FHD",
+      "FOX CRICKET HD",
+      "TAPMAD - FHD",
+      "WILLOW HD",
+      "FANCODE - IN"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "FOX CRICKET HD",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "title": "TAPMAD - FHD",
         "logo": ""
+      },
+      {
+        "title": "WILLOW HD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "FANCODE - IN",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       }
     ]
   },
