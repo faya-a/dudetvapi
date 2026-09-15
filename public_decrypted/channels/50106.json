@@ -5,5 +5,19 @@
     "logo": "",
     "title": "SportDigital Fussball",
     "type": "1"
+  },
+  {
+    "api": "",
+    "link": "https://www.rtmpcdn.com/live/4ee93fef-da2c-467a-91d9-0ca78d31d877.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "logo": "",
+    "title": "HD SERVER",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.59/hls/lhhhaqqqqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "logo": "",
+    "title": "LOW SERVER",
+    "type": "0"
   }
 ]

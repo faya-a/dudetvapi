@@ -1,9 +1,23 @@
 [
   {
+    "api": "af485057eaf6985c9c7f832bc8c205de:71e1064fd583e9182a3f9044922251bb",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/8ui1kovgor/out/v1/183bf1c5f89c4eb894bc5a4f5eb4baa2/39dd0844-2d89-42e8-859a-12688112e1d6-cenc.mpd?aws_sessionId=71555df8-896f-412e-8dc5-50f0fdf2bede|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
+    "title": "PARAMOUNT+ FHD",
+    "type": "1"
+  },
+  {
     "api": "",
-    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+    "link": "https://live.uu6611.com/live/sd-1-4563567.m3u8?txSecret=eb30028ce0116ad2ed405703cc58db39&txTime=6AA9DB90|Referer=https://player.up909.com/",
     "logo": "",
     "title": "DUDE Tv Live",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.59/hls/f444A.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "logo": "",
+    "title": "LOW SERVER",
     "type": "0"
   }
 ]
