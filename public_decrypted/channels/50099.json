@@ -2,7 +2,43 @@
   {
     "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
     "title": "TNT SPORTS FHD",
     "type": "1"
+  },
+  {
+    "api": "",
+    "link": "https://live.uu6611.com/live/hd-en-1-4630495.m3u8?txSecret=c99453eb90447ed5230c91920cd826db&txTime=6AAB29AA|Referer=https://player.up909.com/",
+    "logo": "",
+    "title": "DUDE Tv Live",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://tmaxapp.site/pt658svs/sporttv5.m3u8",
+    "logo": "",
+    "title": "SPORT TV HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://tmaxapp.site/8wirwjs76erftg/bein1ar.m3u8",
+    "logo": "",
+    "title": "beIN ARABIC HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.50/hls/TBBBQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "logo": "",
+    "title": "LOW SERVER",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://www.rtmpcdn.com/live/94a12e15-eb5c-4e64-a2da-b50f0363b3f6.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "logo": "",
+    "title": "SD SERVER",
+    "type": "0"
   }
 ]
