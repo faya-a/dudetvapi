@@ -1,14 +1,14 @@
 [
   {
-    "api": "4895c87726de3958e86b9a4557df4cea:7af28b191fc23a1332c9b41400c15d3d",
-    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kf7yl3p0f9/out/v1/4a463dfd04374d4284c21789dce6247e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "api": "72c45829112c36ea39177f661043a4d1:ba4388e2df24761496415881d73ee373",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z8ett7bmxa/out/v1/de11f96c14754e4fb2c2a10e15c79289/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
     "title": "WILLOW - FHD",
     "type": "1"
   },
   {
-    "api": "4895c87726de3958e86b9a4557df4cea:7af28b191fc23a1332c9b41400c15d3d",
-    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kf7yl3p0f9/out/v1/4a463dfd04374d4284c21789dce6247e/cenc.mpd",
+    "api": "72c45829112c36ea39177f661043a4d1:ba4388e2df24761496415881d73ee373",
+    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/z8ett7bmxa/out/v1/de11f96c14754e4fb2c2a10e15c79289/cenc.mpd",
     "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
     "title": "WILLOW - ALT",
     "type": "1"
@@ -17,7 +17,7 @@
     "api": "",
     "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8",
     "logo": "",
-    "title": "TAPMAD - AQ",
+    "title": "TAPMAD - FHD",
     "type": "0"
   },
   {
