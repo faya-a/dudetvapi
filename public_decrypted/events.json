@@ -276,8 +276,8 @@
       "eventName": "AEW Dynamite",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/17 00:00:00 +0000",
-      "endTime": "2026/09/17 02:00:00 +0000"
+      "startTime": "2026/09/24 00:00:00 +0000",
+      "endTime": "2026/09/24 02:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -337,6 +337,7 @@
       "TAMASHA - AQ",
       "SONY TEN 1 - IN",
       "SONY TEN 3 - IN",
+      "SONY TEN 5 - IN",
       "FANCODE ENG - IN",
       "FANCODE HIN - IN",
       "LOW SERVER"
@@ -364,6 +365,10 @@
       },
       {
         "title": "SONY TEN 3 - IN",
+        "logo": ""
+      },
+      {
+        "title": "SONY TEN 5 - IN",
         "logo": ""
       },
       {
@@ -547,115 +552,6 @@
     ]
   },
   {
-    "id": 50032,
-    "title": "Boston Red Sox",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Rangers",
-      "teamB": "Red Sox",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3647/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3646/image",
-      "eventName": "Texas Rangers vs Boston Red Sox",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/17 00:05:00 +0000",
-      "endTime": "2026/09/17 03:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv LIVE",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv LIVE",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50033,
-    "title": "Kansas City Royals",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Astros",
-      "teamB": "Royals",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3655/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3651/image",
-      "eventName": "Houston Astros vs Kansas City Royals",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/17 00:10:00 +0000",
-      "endTime": "2026/09/17 03:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv MLB",
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50034,
-    "title": "Colorado Rockies",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Rockies",
-      "teamB": "Padres",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3628/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3636/image",
-      "eventName": "Colorado Rockies vs San Diego Padres",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/17 00:40:00 +0000",
-      "endTime": "2026/09/17 03:40:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv MLB",
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50052,
     "title": "Seattle Mariners",
     "image": "o",
@@ -811,8 +707,8 @@
       "eventName": "European T20 Premier League",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/16 13:30:00 +0000",
-      "endTime": "2026/09/16 17:30:00 +0000"
+      "startTime": "2026/09/17 09:30:00 +0000",
+      "endTime": "2026/09/17 17:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1235,39 +1131,6 @@
     ]
   },
   {
-    "id": 50084,
-    "title": "Chicago Cubs vs Atlanta Braves",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Cubs",
-      "teamB": "Braves",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3627/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image",
-      "eventName": "Chicago Cubs vs Atlanta Braves",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/16 23:40:00 +0000",
-      "endTime": "2026/09/17 02:40:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50085,
     "title": "CPL",
     "image": "o",
@@ -1280,20 +1143,20 @@
       "eventName": "Caribbean Premier League",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/16 23:00:00 +0000",
-      "endTime": "2026/09/17 03:30:00 +0000"
+      "startTime": "2026/09/18 00:00:00 +0000",
+      "endTime": "2026/09/18 04:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TNT Sports FHD",
+      "TNT SPORTS FHD",
       "TAPMAD FHD",
       "WILLOW HD"
     ],
     "formatsNew": [
       {
-        "title": "TNT Sports FHD",
-        "logo": ""
+        "title": "TNT SPORTS FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
       },
       {
         "title": "TAPMAD FHD",
@@ -1301,25 +1164,25 @@
       },
       {
         "title": "WILLOW HD",
-        "logo": ""
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       }
     ]
   },
   {
-    "id": 50087,
-    "title": "Corinthians vs Estudiantes",
+    "id": 50090,
+    "title": "Manchester City vs Norwich",
     "image": "o",
-    "cat": "CON. Libertadores",
+    "cat": "EFL Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "eventInfo": {
-      "teamA": "Corinthians",
-      "teamB": "Estudiantes",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1957/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3206/image",
-      "eventName": "Corinthians vs Estudiantes de La Plata",
+      "teamA": "Man City",
+      "teamB": "Norwich",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/17/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/263/image",
+      "eventName": "Manchester City vs Norwich City",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/17 00:30:00 +0000",
-      "endTime": "2026/09/17 02:35:00 +0000"
+      "startTime": "2026/09/17 18:30:00 +0000",
+      "endTime": "2026/09/17 20:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1334,49 +1197,413 @@
     ]
   },
   {
-    "id": 50089,
-    "title": "Inter Miami vs Cruz Azul",
+    "id": 50091,
+    "title": "Málaga CF vs Villarreal",
     "image": "o",
-    "cat": "Football",
+    "cat": "LaLiga 🇪🇸",
     "eventInfo": {
-      "teamA": "Inter Miami",
-      "teamB": "Cruz Azul",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/337602/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1947/image",
-      "eventName": "Inter Miami vs Cruz Azul",
+      "teamA": "Málaga",
+      "teamB": "Villarreal",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2830/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2819/image",
+      "eventName": "Málaga CF vs Villarreal",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/17 00:00:00 +0000",
-      "endTime": "2026/09/17 02:15:00 +0000"
+      "startTime": "2026/09/17 19:30:00 +0000",
+      "endTime": "2026/09/17 21:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CANAL5 FHD",
-      "APPLE TV HD",
-      "APPLE TV FHD",
-      "LOW SERVER",
-      "MLS LIVE [FHD]"
+      "PREMIER SPORTS",
+      "beIN ENGLISH FHD"
     ],
     "formatsNew": [
       {
-        "title": "CANAL5 FHD",
+        "title": "PREMIER SPORTS",
         "logo": ""
       },
       {
-        "title": "APPLE TV HD",
+        "title": "beIN ENGLISH FHD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50093,
+    "title": "Real Betis vs Getafe",
+    "image": "o",
+    "cat": "LaLiga 🇪🇸",
+    "eventInfo": {
+      "teamA": "Real Betis",
+      "teamB": "Getafe",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2816/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2859/image",
+      "eventName": "Real Betis vs Getafe",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/17 17:00:00 +0000",
+      "endTime": "2026/09/17 19:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "PREMIER SPORTS",
+      "beIN ENGLISH FHD",
+      "D Sports FHD",
+      "CAZE TV FHD"
+    ],
+    "formatsNew": [
+      {
+        "title": "PREMIER SPORTS",
         "logo": ""
       },
       {
-        "title": "APPLE TV FHD",
+        "title": "beIN ENGLISH FHD",
         "logo": ""
       },
+      {
+        "title": "D Sports FHD",
+        "logo": ""
+      },
+      {
+        "title": "CAZE TV FHD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50095,
+    "title": "Juventus vs NEC Nijmegen",
+    "image": "o",
+    "cat": "UEFA Europa",
+    "eventInfo": {
+      "teamA": "Juventus",
+      "teamB": "NEC",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2687/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2962/image",
+      "eventName": "Juventus vs NEC Nijmegen",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/17 19:00:00 +0000",
+      "endTime": "2026/09/17 21:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TNT SPORTS FHD"
+    ],
+    "formatsNew": [
+      {
+        "title": "TNT SPORTS FHD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50096,
+    "title": "Beşiktaş vs Marseille",
+    "image": "o",
+    "cat": "UEFA Europa",
+    "eventInfo": {
+      "teamA": "Beşiktaş",
+      "teamB": "Marseille",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3050/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1641/image",
+      "eventName": "Beşiktaş vs Olympique Marseille",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/17 19:00:00 +0000",
+      "endTime": "2026/09/17 21:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50097,
+    "title": "Real Sociedad vs Bournemouth",
+    "image": "o",
+    "cat": "UEFA Europa",
+    "eventInfo": {
+      "teamA": "Real Sociedad",
+      "teamB": "Bournemouth",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2824/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/60/image",
+      "eventName": "Real Sociedad vs Bournemouth",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/17 19:00:00 +0000",
+      "endTime": "2026/09/17 21:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TNT SPORTS FHD"
+    ],
+    "formatsNew": [
+      {
+        "title": "TNT SPORTS FHD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50098,
+    "title": "Crystal Palace vs Lech",
+    "image": "o",
+    "cat": "UEFA Europa",
+    "eventInfo": {
+      "teamA": "Crystal Palace",
+      "teamB": "Lech",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/7/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3121/image",
+      "eventName": "Crystal Palace vs Lech Poznań",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/17 19:00:00 +0000",
+      "endTime": "2026/09/17 21:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TNT SPORTS FHD"
+    ],
+    "formatsNew": [
+      {
+        "title": "TNT SPORTS FHD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50099,
+    "title": "Celtic vs Ferencváros",
+    "image": "o",
+    "cat": "UEFA Europa",
+    "eventInfo": {
+      "teamA": "Celtic",
+      "teamB": "Ferencváros",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2352/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1925/image",
+      "eventName": "Celtic vs Ferencváros TC",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/17 19:00:00 +0000",
+      "endTime": "2026/09/17 21:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TNT SPORTS FHD"
+    ],
+    "formatsNew": [
+      {
+        "title": "TNT SPORTS FHD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50100,
+    "title": "Viktoria Plzeň vs Royale USG",
+    "image": "o",
+    "cat": "UEFA Europa",
+    "eventInfo": {
+      "teamA": "Viktoria Plzeň",
+      "teamB": "USG",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4502/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4860/image",
+      "eventName": "Viktoria Plzeň vs Royale USG",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/17 19:00:00 +0000",
+      "endTime": "2026/09/17 21:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50101,
+    "title": "Lillestrøm SK vs Torreense",
+    "image": "o",
+    "cat": "UEFA Europa",
+    "eventInfo": {
+      "teamA": "Lillestrøm",
+      "teamB": "Torreense",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/664/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/25787/image",
+      "eventName": "Lillestrøm SK vs Torreense",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/17 19:00:00 +0000",
+      "endTime": "2026/09/17 21:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50102,
+    "title": "Crete vs TSG Hoffenheim",
+    "image": "o",
+    "cat": "UEFA Europa",
+    "eventInfo": {
+      "teamA": "OFI",
+      "teamB": "Hoffenheim",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3241/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2569/image",
+      "eventName": "OFI Crete vs TSG Hoffenheim",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/17 16:45:00 +0000",
+      "endTime": "2026/09/17 18:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TNT SPORTS FHD"
+    ],
+    "formatsNew": [
+      {
+        "title": "TNT SPORTS FHD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50103,
+    "title": "Levski Sofia vs RB Salzburg",
+    "image": "o",
+    "cat": "UEFA Europa",
+    "eventInfo": {
+      "teamA": "Levski Sofia",
+      "teamB": "RB Salzburg",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3273/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2046/image",
+      "eventName": "Levski Sofia vs RB Salzburg",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/17 16:45:00 +0000",
+      "endTime": "2026/09/17 18:50:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50104,
+    "title": "Kitchee SC vs Gangwon FC",
+    "image": "o",
+    "cat": "AFC Champions Two",
+    "eventInfo": {
+      "teamA": "Kitchee",
+      "teamB": "Gangwon",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/42199/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/34220/image",
+      "eventName": "Kitchee SC vs Gangwon FC",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/17 12:15:00 +0000",
+      "endTime": "2026/09/17 14:20:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "LOW SERVER"
+    ],
+    "formatsNew": [
       {
         "title": "LOW SERVER",
         "logo": ""
-      },
+      }
+    ]
+  },
+  {
+    "id": 50105,
+    "title": "Phnom Penh Crown vs Kuching City",
+    "image": "o",
+    "cat": "AFC Champions Two",
+    "eventInfo": {
+      "teamA": "Phnom Penh Crown",
+      "teamB": "Kuching City",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/35605/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/338334/image",
+      "eventName": "Phnom Penh Crown vs Kuching City",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/17 12:15:00 +0000",
+      "endTime": "2026/09/17 14:20:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "LOW SERVER"
+    ],
+    "formatsNew": [
       {
-        "title": "MLS LIVE [FHD]",
+        "title": "LOW SERVER",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50106,
+    "title": "Shanghai Shenhua vs Tampines Rovers",
+    "image": "o",
+    "cat": "AFC Champions Two",
+    "eventInfo": {
+      "teamA": "Shanghai",
+      "teamB": "Tampines Rovers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3373/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3043/image",
+      "eventName": "Shanghai Shenhua vs Tampines Rovers",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/17 12:15:00 +0000",
+      "endTime": "2026/09/17 14:20:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "LOW SERVER"
+    ],
+    "formatsNew": [
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
