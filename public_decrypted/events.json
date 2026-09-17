@@ -552,6 +552,39 @@
     ]
   },
   {
+    "id": 50027,
+    "title": "Atlanta Dream vs Connecticut Sun",
+    "image": "o",
+    "cat": "WNBA",
+    "eventInfo": {
+      "teamA": "Dream",
+      "teamB": "Sun",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/35545/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/35547/image",
+      "eventName": "Atlanta Dream vs Connecticut Sun",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/17 23:30:00 +0000",
+      "endTime": "2026/09/18 02:15:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "WNBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "WNBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50052,
     "title": "Seattle Mariners",
     "image": "o",
@@ -627,6 +660,110 @@
     ]
   },
   {
+    "id": 50055,
+    "title": "Chicago Sky vs Mystics",
+    "image": "o",
+    "cat": "WNBA",
+    "eventInfo": {
+      "teamA": "Sky",
+      "teamB": "Mystics",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/35546/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3454/image",
+      "eventName": "Chicago Sky vs Washington Mystics",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/18 00:00:00 +0000",
+      "endTime": "2026/09/18 02:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "WNBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "WNBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50056,
+    "title": "Dallas Wings vs Sparks",
+    "image": "o",
+    "cat": "WNBA",
+    "eventInfo": {
+      "teamA": "Wings",
+      "teamB": "Sparks",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3450/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3447/image",
+      "eventName": "Dallas Wings vs Los Angeles Sparks",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/18 00:00:00 +0000",
+      "endTime": "2026/09/18 02:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TSN SPORTS FHD",
+      "DUDE Tv Live",
+      "WNBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "WNBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50058,
+    "title": "Portland Fire vs Phoenix Mercury",
+    "image": "o",
+    "cat": "WNBA",
+    "eventInfo": {
+      "teamA": "Fire",
+      "teamB": "Mercury",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1166446/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3444/image",
+      "eventName": "Portland Fire vs Phoenix Mercury",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/18 02:00:00 +0000",
+      "endTime": "2026/09/18 04:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "WNBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "WNBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50060,
     "title": "England vs Sri Lanka",
     "image": "o",
@@ -649,8 +786,6 @@
       "SKY CRICKET - AQ",
       "WILLOW - ALT",
       "TAPMAD - FHD",
-      "SKY SPORT NZ",
-      "WILLOW HD",
       "SonyLiv",
       "SKY CRICKET HD",
       "LOW SERVER"
@@ -671,14 +806,6 @@
       {
         "title": "TAPMAD - FHD",
         "logo": ""
-      },
-      {
-        "title": "SKY SPORT NZ",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-      },
-      {
-        "title": "WILLOW HD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
         "title": "SonyLiv",
@@ -791,6 +918,44 @@
     ]
   },
   {
+    "id": 50064,
+    "title": "[OLD] Seattle Storm vs Las Vegas Aces",
+    "image": "o",
+    "cat": "WNBA",
+    "eventInfo": {
+      "teamA": "Storm",
+      "teamB": "Aces",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3448/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/35550/image",
+      "eventName": "Seattle Storm vs Las Vegas Aces",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/18 02:00:00 +0000",
+      "endTime": "2026/09/18 04:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TSN SPORTS FHD",
+      "DUDE Tv Live",
+      "WNBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "WNBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50069,
     "title": "Buffalo Bills",
     "image": "o",
@@ -811,6 +976,7 @@
     "formats": [
       "TSN SPORTS FHD",
       "TSN4 SPORTS FHD",
+      "SporTV BR FHD",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
@@ -821,6 +987,10 @@
       },
       {
         "title": "TSN4 SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "SporTV BR FHD",
         "logo": ""
       },
       {
@@ -852,10 +1022,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -885,10 +1060,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -918,10 +1098,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1017,10 +1202,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "FOX DEPORTES",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "FOX DEPORTES",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1083,10 +1273,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TNT Sports FHD",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TNT Sports FHD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1165,6 +1360,62 @@
       {
         "title": "WILLOW HD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      }
+    ]
+  },
+  {
+    "id": 50086,
+    "title": "Flamengo vs Independiente",
+    "image": "o",
+    "cat": "CON. Libertadores",
+    "eventInfo": {
+      "teamA": "Flamengo",
+      "teamB": "Ind. del Valle",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/5981/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/39723/image",
+      "eventName": "Flamengo vs Independiente del Valle",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/18 00:30:00 +0000",
+      "endTime": "2026/09/18 02:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "beIN ENGLISH FHD"
+    ],
+    "formatsNew": [
+      {
+        "title": "beIN ENGLISH FHD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50088,
+    "title": "Torque vs Cienciano",
+    "image": "o",
+    "cat": "CON. Sudamericana",
+    "eventInfo": {
+      "teamA": "Torque",
+      "teamB": "Cienciano",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/174972/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2301/image",
+      "eventName": "Montevideo City Torque vs Cienciano",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/18 00:30:00 +0000",
+      "endTime": "2026/09/18 02:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "beIN ENGLISH FHD"
+    ],
+    "formatsNew": [
+      {
+        "title": "beIN ENGLISH FHD",
+        "logo": ""
       }
     ]
   },
@@ -1250,17 +1501,27 @@
     "formats": [
       "PREMIER SPORTS",
       "beIN ENGLISH FHD",
+      "FANCODE FHD",
       "D Sports FHD",
-      "CAZE TV FHD"
+      "CAZE TV FHD",
+      "ESPN DEPORTES HD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "PREMIER SPORTS",
-        "logo": ""
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
       },
       {
         "title": "beIN ENGLISH FHD",
         "logo": ""
+      },
+      {
+        "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       },
       {
         "title": "D Sports FHD",
@@ -1268,6 +1529,26 @@
       },
       {
         "title": "CAZE TV FHD",
+        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
+      },
+      {
+        "title": "ESPN DEPORTES HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1487,11 +1768,36 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TNT SPORTS FHD"
+      "PARAMOUNT+ FHD",
+      "TNT SPORTS FHD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "TNT SPORTS FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1515,93 +1821,34 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PARAMOUNT+ FHD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "CBS NETWORK HD",
+      "SD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50104,
-    "title": "Kitchee SC vs Gangwon FC",
-    "image": "o",
-    "cat": "AFC Champions Two",
-    "eventInfo": {
-      "teamA": "Kitchee",
-      "teamB": "Gangwon",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/42199/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/34220/image",
-      "eventName": "Kitchee SC vs Gangwon FC",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/17 12:15:00 +0000",
-      "endTime": "2026/09/17 14:20:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "LOW SERVER"
-    ],
-    "formatsNew": [
+      },
       {
-        "title": "LOW SERVER",
+        "title": "HD SERVER",
         "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50105,
-    "title": "Phnom Penh Crown vs Kuching City",
-    "image": "o",
-    "cat": "AFC Champions Two",
-    "eventInfo": {
-      "teamA": "Phnom Penh Crown",
-      "teamB": "Kuching City",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/35605/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/338334/image",
-      "eventName": "Phnom Penh Crown vs Kuching City",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/17 12:15:00 +0000",
-      "endTime": "2026/09/17 14:20:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "LOW SERVER"
-    ],
-    "formatsNew": [
+      },
       {
-        "title": "LOW SERVER",
+        "title": "CBS NETWORK HD",
         "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50106,
-    "title": "Shanghai Shenhua vs Tampines Rovers",
-    "image": "o",
-    "cat": "AFC Champions Two",
-    "eventInfo": {
-      "teamA": "Shanghai",
-      "teamB": "Tampines Rovers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3373/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3043/image",
-      "eventName": "Shanghai Shenhua vs Tampines Rovers",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/17 12:15:00 +0000",
-      "endTime": "2026/09/17 14:20:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "LOW SERVER"
-    ],
-    "formatsNew": [
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
       {
         "title": "LOW SERVER",
         "logo": ""
