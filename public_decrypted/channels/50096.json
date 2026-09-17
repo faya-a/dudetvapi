@@ -1,37 +1,37 @@
 [
   {
-    "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/56537/load-playlist?|Referer=https://gooz.aapmains.net",
+    "api": "e6b0f6e9921b083308ea60feba322876:70dbf29db00b900ffab106b47d61b725",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/61ifbwpev4/out/v1/734ee0bd968749c79ab8b43aaccc226a/105b1403-89b8-4cec-9ed1-de9a6e20e6f3-cenc.mpd?aws_sessionId=fa1eb813-c0a8-44f3-85cb-c1d09306e328|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
-    "title": "PARAMOUNT+ HD",
-    "type": "0"
+    "title": "PARAMOUNT+ FHD",
+    "type": "1"
   },
   {
     "api": "",
-    "link": "https://live.uu6611.com/live/sd-1-4628313.m3u8?txSecret=d1ca57f9a50d4adecf1b3f6615c61974&txTime=6AAB2DDD|Referer=https://player.up909.com/",
+    "link": "https://live.uu6611.com/live/hd-en-1-4630520.m3u8?txSecret=dcedbd5bc0874ac2b03a36c119507e77&txTime=6AAC7C75|Referer=https://player.up909.com/",
     "logo": "",
     "title": "DUDE Tv Live",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://edgestream6.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+    "link": "https://14soso.s3.us-east-1.amazonaws.com/bein3/master.m3u8",
     "logo": "",
-    "title": "HD SERVER",
+    "title": "beIN ARABIC HD",
     "type": "0"
   },
   {
     "api": "",
-    "link": "http://193.47.62.41/hls/UGGGQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-    "logo": "",
-    "title": "LOW SERVER",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://www.rtmpcdn.com/live/377b7155-61f0-47d5-bc50-90c81c3377db.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "link": "https://www.rtmpcdn.com/live/36f77530-c334-4270-9301-49c3cf5e4806.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
     "logo": "",
     "title": "SD SERVER",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.44/hls/NDDDD.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "logo": "",
+    "title": "LOW SERVER",
     "type": "0"
   }
 ]
