@@ -8,13 +8,6 @@
   },
   {
     "api": "",
-    "link": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8",
-    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj",
-    "title": "FOX CRICKET HD",
-    "type": "0"
-  },
-  {
-    "api": "",
     "link": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8|referer=https://tapmad.com/",
     "logo": "",
     "title": "TAPMAD - FHD",
@@ -22,14 +15,21 @@
   },
   {
     "api": "",
-    "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
-    "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-    "title": "WILLOW HD",
+    "link": "https://papacito.cfd/m3u/au-fox-sports-501-hd/live.m3u8",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj",
+    "title": "FOX CRICKET HD",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://dai-fancode.pages.dev/mumbai/4249098_english_hls_23b38859e816047_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+    "link": "http://193.47.62.44/hls/ssss.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "logo": "",
+    "title": "LOW SERVER",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://dai-fancode.pages.dev/mumbai/4249099_english_hls_b7b59698b66489_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
     "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
     "title": "FANCODE - IN",
     "type": "0"

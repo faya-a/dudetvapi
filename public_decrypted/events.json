@@ -768,9 +768,9 @@
     "publish": "1",
     "formats": [
       "FANCODE FHD",
-      "FOX CRICKET HD",
       "TAPMAD - FHD",
-      "WILLOW HD",
+      "FOX CRICKET HD",
+      "LOW SERVER",
       "FANCODE - IN"
     ],
     "formatsNew": [
@@ -779,16 +779,16 @@
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       },
       {
-        "title": "FOX CRICKET HD",
-        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
         "title": "TAPMAD - FHD",
         "logo": ""
       },
       {
-        "title": "WILLOW HD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+        "title": "FOX CRICKET HD",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "title": "LOW SERVER",
+        "logo": ""
       },
       {
         "title": "FANCODE - IN",
