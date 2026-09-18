@@ -1,30 +1,8 @@
 [
   {
-    "api": "c9ade54b0207bcf53694c509694f9893:432eda1f52a41e50ff86b6c50bb5598e",
-    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/hkzrytogjd/out/v1/2a3a0008f2ae40cb8cd55703e520ba35/f9bc43f5-ca6c-425b-ae3d-c3a2f4dc5b00-cenc.mpd?aws_sessionId=5f6c63b1-48f7-4a9a-8d6b-01d48de4eb59|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
-    "title": "PARAMOUNT+ FHD",
-    "type": "1"
-  },
-  {
     "api": "",
-    "link": "https://live.uu6611.com/live/hd-en-1-4630647.m3u8?txSecret=4f62980838c3527bacfc54dec0ce67c9&txTime=6AAC7CC7|Referer=https://player.up909.com/",
-    "logo": "",
+    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
     "title": "DUDE Tv Live",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037140/Footlive1709/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=1bbbd7a517efb2d1ceaaa18fe790b90e-1789669805051",
-    "logo": "",
-    "title": "SonyLiv (ASIA)",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.52/hls/jjjjAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-    "logo": "",
-    "title": "LOW SERVER",
     "type": "0"
   }
 ]

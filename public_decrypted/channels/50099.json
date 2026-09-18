@@ -1,58 +1,14 @@
 [
   {
-    "api": "f318b8fe08523b51e37f5aaa87661df3:b05e8f6ecc4841e95a87c1207dff8e0f",
-    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/u4nhakicji/out/v1/4f6e67cc16ab42909d563387735b4919/3bee0086-201d-4c1a-8b97-77352258f899-cenc.mpd?aws_sessionId=1cb64f2d-0710-4a30-8a80-246210cebc25|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
-    "title": "PARAMOUNT+ FHD",
+    "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "title": "PREMIER SPORTS",
     "type": "1"
   },
   {
-    "api": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
-    "title": "TNT SPORTS FHD",
+    "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "title": "CAZE TV FHD",
     "type": "1"
-  },
-  {
-    "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/56574/load-playlist?|Referer=https://gooz.aapmains.net",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
-    "title": "TNT SPORTS HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://live.uu6611.com/live/hd-en-1-4630535.m3u8?txSecret=e1f1cd5420446cbeea77b7d1bf044c74&txTime=6AAC7C2F|Referer=https://player.up909.com/",
-    "logo": "",
-    "title": "DUDE Tv Live",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://14soso.s3.us-east-1.amazonaws.com/bein5/master.m3u8",
-    "logo": "",
-    "title": "beIN ARABIC HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120304/Footlive1709/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=1bbbd7a517efb2d1ceaaa18fe790b90e-1789669805051",
-    "logo": "",
-    "title": "SonyLiv (ASIA)",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://www.rtmpcdn.com/live/b73a52a7-91e5-4889-ba3c-33fc2d94863c.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-    "logo": "",
-    "title": "HD SERVER",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.50/hls/NDDDDFFQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-    "logo": "",
-    "title": "LOW SERVER",
-    "type": "0"
   }
 ]

@@ -1,37 +1,14 @@
 [
   {
-    "api": "246c7f937b9852d3dde76a0defa1ce4b:f5684118be615214e097b413d48d0d22",
-    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/rp3vyrcc7y/out/v1/200a1765e018424b80639b7df8e65f68/a8bac445-eb1b-4f7f-86d6-4c6151c8a9ca-cenc.mpd?aws_sessionId=e2446bf8-7d49-43ae-b88b-301414844a20|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
-    "title": "PARAMOUNT+ FHD",
+    "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "title": "PREMIER SPORTS",
     "type": "1"
   },
   {
-    "api": "",
-    "link": "https://live.uu6611.com/live/hd-en-1-4630583.m3u8?txSecret=7a548361f9213bce054e06160f108a69&txTime=6AAC7CFE|Referer=https://player.up909.com/",
-    "logo": "",
-    "title": "DUDE Tv Live",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120305/Footlive1709/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=1bbbd7a517efb2d1ceaaa18fe790b90e-1789669805051",
-    "logo": "",
-    "title": "SonyLiv (ASIA)",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://www.rtmpcdn.com/live/6e7198a5-f843-4026-aaf4-ba29e38dc40e.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-    "logo": "",
-    "title": "HD QUALITY",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.52/hls/jjjjAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-    "logo": "",
-    "title": "LOW SERVER",
-    "type": "0"
+    "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "title": "CAZE TV FHD",
+    "type": "1"
   }
 ]
