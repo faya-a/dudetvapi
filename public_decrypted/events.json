@@ -727,15 +727,10 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TSN SPORTS FHD",
       "DUDE Tv Live",
       "WNBA LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "TSN SPORTS FHD",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -853,54 +848,6 @@
     ]
   },
   {
-    "id": 50062,
-    "title": "Zimbabwe vs Australia",
-    "image": "o",
-    "cat": "Cricket",
-    "eventInfo": {
-      "teamA": "ZIM",
-      "teamB": "AUS",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187745/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187746/image",
-      "eventName": "Zimbabwe vs Australia",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/18 07:30:00 +0000",
-      "endTime": "2026/09/18 15:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FANCODE FHD",
-      "TAPMAD - FHD",
-      "FOX CRICKET HD",
-      "LOW SERVER",
-      "FANCODE - IN"
-    ],
-    "formatsNew": [
-      {
-        "title": "FANCODE FHD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "TAPMAD - FHD",
-        "logo": ""
-      },
-      {
-        "title": "FOX CRICKET HD",
-        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      },
-      {
-        "title": "FANCODE - IN",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      }
-    ]
-  },
-  {
     "id": 50069,
     "title": "Buffalo Bills",
     "image": "o",
@@ -944,6 +891,39 @@
       },
       {
         "title": "NFL LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50074,
+    "title": "Juárez vs Tigres UANL",
+    "image": "o",
+    "cat": "Liga MX",
+    "eventInfo": {
+      "teamA": "Juárez",
+      "teamB": "Tigres",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/201624/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1940/image",
+      "eventName": "FC Juárez vs Tigres UANL",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/19 03:00:00 +0000",
+      "endTime": "2026/09/19 05:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "FOX DEPORTES",
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "FOX DEPORTES",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1304,7 +1284,7 @@
     "formatsNew": [
       {
         "title": "TNT SPORTS FHD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+        "logo": ""
       },
       {
         "title": "TAPMAD FHD",
@@ -1312,268 +1292,72 @@
       },
       {
         "title": "WILLOW HD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      }
-    ]
-  },
-  {
-    "id": 50090,
-    "title": "Brentford vs Chelsea",
-    "image": "o",
-    "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Brentford",
-      "teamB": "Chelsea",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/50/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/38/image",
-      "eventName": "Brentford vs Chelsea",
-      "eventType": "null",
-      "isHot": "1",
-      "startTime": "2026/09/18 19:00:00 +0000",
-      "endTime": "2026/09/18 21:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FUBO SPORTS FHD",
-      "PREMIER LEAGUE HD",
-      "HUB PREMIER FHD",
-      "USA TV HD",
-      "DUDE Tv Live",
-      "HD SERVER",
-      "SKY MAIN EVENT",
-      "SKY SPORT NZ",
-      "USA NETWROK HD",
-      "beIN ARABIC HD",
-      "SD SERVER",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "FUBO SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "PREMIER LEAGUE HD",
-        "logo": ""
-      },
-      {
-        "title": "HUB PREMIER FHD",
-        "logo": ""
-      },
-      {
-        "title": "USA TV HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SKY MAIN EVENT",
-        "logo": ""
-      },
-      {
-        "title": "SKY SPORT NZ",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-      },
-      {
-        "title": "USA NETWROK HD",
-        "logo": ""
-      },
-      {
-        "title": "beIN ARABIC HD",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
         "logo": ""
       }
     ]
   },
   {
     "id": 50091,
-    "title": "Espanyol vs Elche",
+    "title": "Sevilla vs FC Barcelona",
     "image": "o",
     "cat": "LaLiga 🇪🇸",
     "eventInfo": {
-      "teamA": "Espanyol",
-      "teamB": "Elche",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2814/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2846/image",
-      "eventName": "Espanyol vs Elche",
+      "teamA": "Sevilla",
+      "teamB": "Barcelona",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2833/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2817/image",
+      "eventName": "Sevilla vs FC Barcelona",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/18 19:00:00 +0000",
-      "endTime": "2026/09/18 21:05:00 +0000"
+      "startTime": "2026/09/19 19:00:00 +0000",
+      "endTime": "2026/09/19 21:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
       "PREMIER SPORTS",
       "D Sports FHD",
-      "CAZE TV FHD",
-      "ESPN DEPORTES HD",
-      "DUDE Tv Live",
-      "beIN ARABIC HD",
-      "DAZN SPORTS HD",
-      "HD SERVER",
-      "LOW SERVER"
+      "FANCODE FHD"
     ],
     "formatsNew": [
       {
         "title": "PREMIER SPORTS",
-        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
+        "logo": ""
       },
       {
         "title": "D Sports FHD",
         "logo": ""
       },
       {
-        "title": "CAZE TV FHD",
-        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
-      },
-      {
-        "title": "ESPN DEPORTES HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "beIN ARABIC HD",
-        "logo": ""
-      },
-      {
-        "title": "DAZN SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50092,
-    "title": "Bayern vs Union Berlin",
-    "image": "o",
-    "cat": "Bundesliga 🇩🇪",
-    "eventInfo": {
-      "teamA": "Bayern",
-      "teamB": "Union Berlin",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2672/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2547/image",
-      "eventName": "Bayern München vs Union Berlin",
-      "eventType": "null",
-      "isHot": "1",
-      "startTime": "2026/09/18 18:30:00 +0000",
-      "endTime": "2026/09/18 20:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH FHD",
-      "PEACOCK FHD (ES)",
-      "SporTV BR FHD",
-      "DAZN SPORTS HD",
-      "SKY Bundesliga HD",
-      "DUDE Tv Live",
-      "HD SERVER",
-      "LOW QUALITY"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "PEACOCK FHD (ES)",
-        "logo": ""
-      },
-      {
-        "title": "SporTV BR FHD",
-        "logo": "https://iili.io/CFFRvqJ.png"
-      },
-      {
-        "title": "DAZN SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "SKY Bundesliga HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW QUALITY",
+        "title": "FANCODE FHD",
         "logo": ""
       }
     ]
   },
   {
     "id": 50093,
-    "title": "AS Monaco vs RC Lens",
+    "title": "Olympique Lyon vs Stade Rennais",
     "image": "o",
     "cat": "Ligue 1 🇫🇷",
     "eventInfo": {
-      "teamA": "AS Monaco",
-      "teamB": "Lens",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1653/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1648/image",
-      "eventName": "AS Monaco vs RC Lens",
+      "teamA": "Lyon",
+      "teamB": "Rennes",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1649/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1658/image",
+      "eventName": "Olympique Lyonnais vs Stade Rennais",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/18 18:45:00 +0000",
-      "endTime": "2026/09/18 20:50:00 +0000"
+      "startTime": "2026/09/19 18:45:00 +0000",
+      "endTime": "2026/09/19 20:50:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN SPORTS FHD",
-      "LIGUE1+ FHD",
-      "beIN USA HD",
-      "DUDE Tv Live",
-      "beIN ARABIC SD"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "beIN SPORTS FHD",
-        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
-      },
-      {
-        "title": "LIGUE1+ FHD",
-        "logo": ""
-      },
-      {
-        "title": "beIN USA HD",
-        "logo": ""
-      },
-      {
         "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "beIN ARABIC SD",
         "logo": ""
       }
     ]
@@ -2042,246 +1826,6 @@
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50110,
-    "title": "Monza vs Sassuolo",
-    "image": "o",
-    "cat": "Serie A 🇮🇹",
-    "eventInfo": {
-      "teamA": "Monza",
-      "teamB": "Sassuolo",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2729/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2793/image",
-      "eventName": "Monza vs Sassuolo",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/18 18:45:00 +0000",
-      "endTime": "2026/09/18 20:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PARAMOUNT+ FHD",
-      "beIN ENGLISH FHD",
-      "ESPN AR FHD",
-      "SPORT 1 CZ",
-      "PARAMOUNT+ HD",
-      "DUDE Tv Live",
-      "CBS SPORTS HD",
-      "SPORT TV HD",
-      "DAZN SPORTS HD",
-      "HD SERVER",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "PARAMOUNT+ FHD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "ESPN AR FHD",
-        "logo": ""
-      },
-      {
-        "title": "SPORT 1 CZ",
-        "logo": ""
-      },
-      {
-        "title": "PARAMOUNT+ HD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "CBS SPORTS HD",
-        "logo": "https://iili.io/BtCdabj.png"
-      },
-      {
-        "title": "SPORT TV HD",
-        "logo": ""
-      },
-      {
-        "title": "DAZN SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50111,
-    "title": "Bristol City vs Watford",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Bristol City",
-      "teamB": "Watford",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/58/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/24/image",
-      "eventName": "Bristol City vs Watford",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/18 19:00:00 +0000",
-      "endTime": "2026/09/18 21:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH FHD",
-      "CBS NETWORK",
-      "SKY SPORTS HD",
-      "DUDE Tv Live",
-      "HD SERVER",
-      "SKY FOOTBALL HD",
-      "beIN ARABIC HD",
-      "SPORT TV HD"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "CBS NETWORK",
-        "logo": ""
-      },
-      {
-        "title": "SKY SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SKY FOOTBALL HD",
-        "logo": ""
-      },
-      {
-        "title": "beIN ARABIC HD",
-        "logo": ""
-      },
-      {
-        "title": "SPORT TV HD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50112,
-    "title": "Groningen vs PEC Zwolle",
-    "image": "o",
-    "cat": "Eredivisie",
-    "eventInfo": {
-      "teamA": "Groningen",
-      "teamB": "PEC Zwolle",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2951/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2971/image",
-      "eventName": "FC Groningen vs PEC Zwolle",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/18 18:00:00 +0000",
-      "endTime": "2026/09/18 20:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50113,
-    "title": "Albacete Balompié vs Córdoba",
-    "image": "o",
-    "cat": "LaLiga 2",
-    "eventInfo": {
-      "teamA": "Albacete",
-      "teamB": "Córdoba",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2848/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2850/image",
-      "eventName": "Albacete Balompié vs Córdoba",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/18 18:30:00 +0000",
-      "endTime": "2026/09/18 20:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50114,
-    "title": "Kasımpaşa vs Konyaspor",
-    "image": "o",
-    "cat": "Super Lig",
-    "eventInfo": {
-      "teamA": "Kasımpaşa",
-      "teamB": "Konyaspor",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/6063/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3085/image",
-      "eventName": "Kasımpaşa vs Konyaspor",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/18 17:00:00 +0000",
-      "endTime": "2026/09/18 19:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
         "logo": ""
       }
     ]
