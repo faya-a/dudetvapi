@@ -1,8 +1,44 @@
 [
   {
+    "api": "ddd0a45f77349ec6ddcfd663b2482188:d01dccdb7060bc71000e7143011b0e2a",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/mp7c1feoiv/out/v1/08d49060e7c143bc8c9c1be423fa6f2c/ab22133a-4006-4671-bebe-6012c30331c3-cenc.mpd?aws_sessionId=fbf72655-b0b0-4352-ac4e-4756f862237f|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
+    "title": "PARAMOUNT+ FHD",
+    "type": "1"
+  },
+  {
     "api": "",
-    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+    "link": "https://chatgpt.hereisman.net/playlist/56647/load-playlist?|Referer=https://gooz.aapmains.net",
+    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
+    "title": "PARAMOUNT+ HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://type.futtv.nx.kg/udi-cag/tracks-v1a1/mono.m3u8?|User-Agent=Mozilla",
+    "logo": "",
+    "title": "CBS SPORTS FHD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://live.uu6611.com/live/hd-en-1-4549076.m3u8?txSecret=8bfc56b595dcd42e0bc507e831b10c3d&txTime=6AAECBC8|Referer=https://player.up909.com/",
+    "logo": "",
     "title": "DUDE Tv Live",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://edgestream4.pro/hls/hflfkrtib42.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+    "logo": "https://iili.io/BtCdabj.png",
+    "title": "CBS SPORTS HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.44/hls/DYYYAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "logo": "",
+    "title": "LOW SERVER",
     "type": "0"
   }
 ]

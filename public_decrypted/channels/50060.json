@@ -1,7 +1,7 @@
 [
   {
-    "api": "cd3d76c6c0b61babf97aef83eaa7445c:a81e32e369dc6fa205f7fb06e66f0327",
-    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0c8hkllln2/out/v1/dc0696b8fc684cb281f7eb4466862de9/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "api": "e91b0ecde03ad0d00251784f516ff4f6:33790c0313d3853c4e1a941170827549",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3apdyv1lka/out/v1/c6a1ce1baee041c9a38c5e3813049636/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
     "title": "WILLOW - FHD",
     "type": "1"
@@ -14,8 +14,8 @@
     "type": "0"
   },
   {
-    "api": "b0703c8c0b6f30adcce6181f14d512ef:6645171a5637f6addea01c9ac30f4ce1",
-    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0i5slwahis/out/v1/0bc5c56dc22b4e159976c9b9b05a0458/cenc.mpd",
+    "api": "e91b0ecde03ad0d00251784f516ff4f6:33790c0313d3853c4e1a941170827549",
+    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/3apdyv1lka/out/v1/c6a1ce1baee041c9a38c5e3813049636/cenc.mpd",
     "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
     "title": "WILLOW - ALT",
     "type": "1"
@@ -24,12 +24,12 @@
     "api": "",
     "link": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
     "logo": "",
-    "title": "TAPMAD - FHD",
+    "title": "TAPMAD - AQ",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2022316/criclive1709/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=f7f699011a1f8c3dbbb3ed5fa4e4845c-1789665004214",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2120304/criclive1909/ENG/master.m3u8?hdnea=exp=1789866154~acl=/*~id=47809198365462406094950915884394~hmac=8c07c9d8a1df8f624e3334cbd7f4c8653bf90d9b50ceaac384cdee38b40ad86d",
     "logo": "",
     "title": "SonyLiv",
     "type": "0"
@@ -43,7 +43,7 @@
   },
   {
     "api": "",
-    "link": "http://193.47.62.52/hls/VAVAVAAAAAAXX.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "link": "http://193.47.62.44/hls/JYYYAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
     "logo": "",
     "title": "LOW SERVER",
     "type": "0"

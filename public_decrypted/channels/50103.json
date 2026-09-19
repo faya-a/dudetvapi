@@ -1,44 +1,23 @@
 [
   {
-    "api": "aad4194578207dc28589cbffb460b65d:45144707d722306ce374e3aa86ccfb15",
-    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/akkxluixjx/out/v1/fd2e333bbdbe48bb89da916d1a084b7e/6e4923c1-70c8-4ca3-924e-3ae849708e94-cenc.mpd?aws_sessionId=9d95593b-f964-4ec7-8303-bbe4e6c7f51e|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
-    "title": "PARAMOUNT+ FHD",
-    "type": "1"
-  },
-  {
     "api": "",
-    "link": "https://live.uu6611.com/live/hd-en-1-4630581.m3u8?txSecret=52afb1725f1d74caa071d50a76954cad&txTime=6AAC5FBE|Referer=https://player.up909.com/",
+    "link": "https://live.uu6611.com/live/hd-en-1-4566524.m3u8?txSecret=9fdeca42c91955468931fdde0a0b5ee2&txTime=6AAED3C7|Referer=https://player.up909.com/",
     "logo": "",
     "title": "DUDE Tv Live",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://edgestream7.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-    "logo": "",
-    "title": "HD SERVER",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8",
-    "logo": "",
-    "title": "CBS NETWORK HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://www.rtmpcdn.com/live/f7a8945f-428d-48ea-a9f5-42056cb0ba56.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-    "logo": "",
-    "title": "SD SERVER",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.48/hls/XAXAXA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "link": "http://193.47.62.44/hls/JYYY.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
     "logo": "",
     "title": "LOW SERVER",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://www.rtmpcdn.com/live/0fa858ca-10b7-498e-b4dc-c8a3881fbf25.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "logo": "",
+    "title": "HD SERVER",
     "type": "0"
   }
 ]

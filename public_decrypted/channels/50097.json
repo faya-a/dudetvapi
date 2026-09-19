@@ -1,7 +1,15 @@
 [
   {
     "api": "",
-    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+    "link": "https://chatgpt.hereisman.net/playlist/56650/load-playlist?|Referer=https://gooz.aapmains.net",
+    "logo": "",
+    "title": "PEACOCK TV HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://live.uu6611.com/live/hd-en-1-4558562.m3u8?txSecret=e2c3e2d9b4e025f05316cd0b1c4384a1&txTime=6AAED7E0|Referer=https://player.up909.com/",
+    "logo": "",
     "title": "DUDE Tv Live",
     "type": "0"
   }
