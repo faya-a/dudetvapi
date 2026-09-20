@@ -1,5 +1,40 @@
 [
   {
+    "api": "7fe781266072532cd6cc38dbbb29675d:434ff61496a166770bed473ce65561a5",
+    "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/a5vkfjna1p/out/v1/3b20f2b7c3ed477d83c876e97ab0121d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "PRIME VIDEO FHD",
+    "type": "1"
+  },
+  {
+    "api": "",
+    "link": "https://chatgpt.hereisman.net/playlist/56864/load-playlist?|Referer=https://gooz.aapmains.net",
+    "logo": "",
+    "title": "DUDE Tv NFL",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://chatgpt.hereisman.net/playlist/56869/load-playlist?|Referer=https://gooz.aapmains.net",
+    "logo": "",
+    "title": "NFL LIVE HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://edgestream1.pro/hls/ysvbxwnbc38.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+    "logo": "",
+    "title": "DUDE Tv Live",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://embedindia.st/embed/nfl/2026-09-13/ari-lac",
+    "logo": "",
+    "title": "NFL LIVE [FHD]",
+    "type": "2"
+  },
+  {
     "api": "",
     "link": "https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8",
     "title": "SPX FHD LIVE",
