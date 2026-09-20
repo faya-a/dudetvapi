@@ -2,18 +2,35 @@
   {
     "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
     "title": "TSN SPORTS FHD",
     "type": "1"
   },
   {
+    "api": "c4b52e8ae04abd9a640dec7ddeda7ae1:b113f2466502bd72c0266667f88d5fd0",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/qbixkbxtwl/out/v1/405958c4eab74128bb92cf098242eb44/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "FOX NFL FHD",
+    "type": "1"
+  },
+  {
     "api": "",
-    "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+    "link": "https://chatgpt.hereisman.net/playlist/56829/load-playlist?|Referer=https://gooz.aapmains.net",
+    "logo": "",
+    "title": "DUDE Tv NFL",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://edgestream4.pro/hls/uheyztezgj34.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+    "logo": "",
     "title": "DUDE Tv Live",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://embedindia.st/embed/",
+    "link": "https://embedindia.st/embed/nfl/2026-09-20/min-chi",
+    "logo": "",
     "title": "NFL LIVE [FHD]",
     "type": "2"
   }

@@ -1,9 +1,16 @@
 [
   {
     "api": "",
-    "link": "https://live.uu6611.com/live/sd-1-4581314.m3u8?txSecret=fd548d1c4b9d50a8edb7feac9a1da29d&txTime=6AB05872|Referer=https://player.up909.com/",
+    "link": "https://live.vivo155.com/live/sd-1-4581314.m3u8?txSecret=396c92c0d8f441464a6a91ddcd6cbcb9&txTime=6AB039A2|Referer=https://player.787200.com/",
     "logo": "",
     "title": "DUDE Tv Live",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.59/hls/DLLLQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "logo": "",
+    "title": "LOW SERVER",
     "type": "0"
   }
 ]
