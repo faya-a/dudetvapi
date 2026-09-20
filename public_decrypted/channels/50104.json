@@ -1,30 +1,8 @@
 [
   {
     "api": "",
-    "link": "https://type.futtv.nx.kg/frank/tracks-v1a1/mono.m3u8",
-    "logo": "",
-    "title": "BUNDESLIGA FHD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://live.uu6611.com/live/hd-en-1-4566260.m3u8?txSecret=ac9e65b4546e7bfa8eb3ebec0cf96327&txTime=6AAED3F3|Referer=https://player.up909.com/",
-    "logo": "",
-    "title": "DUDE Tv Live",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.44/hls/JYYYA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-    "logo": "",
-    "title": "LOW SERVER",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://www.rtmpcdn.com/live/c0da8618-c2f3-44df-a0ef-9b48eaebd454.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-    "logo": "",
-    "title": "HD SERVER",
+    "link": "https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=ey78I85UBI0z8ivVfEQ8xA&e=2089870147&scheme=https|user-agent=Mozilla",
+    "title": "SKY SPORTS FHD",
     "type": "0"
   }
 ]

@@ -1,44 +1,26 @@
 [
   {
-    "api": "ddd0a45f77349ec6ddcfd663b2482188:d01dccdb7060bc71000e7143011b0e2a",
-    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/mp7c1feoiv/out/v1/08d49060e7c143bc8c9c1be423fa6f2c/ab22133a-4006-4671-bebe-6012c30331c3-cenc.mpd?aws_sessionId=fbf72655-b0b0-4352-ac4e-4756f862237f|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
-    "title": "PARAMOUNT+ FHD",
+    "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "title": "TNT SPORTS FHD",
     "type": "1"
   },
   {
-    "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/56647/load-playlist?|Referer=https://gooz.aapmains.net",
-    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
-    "title": "PARAMOUNT+ HD",
-    "type": "0"
+    "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "title": "beIN ENGLISH FHD",
+    "type": "1"
   },
   {
-    "api": "",
-    "link": "https://type.futtv.nx.kg/udi-cag/tracks-v1a1/mono.m3u8?|User-Agent=Mozilla",
-    "logo": "",
-    "title": "CBS SPORTS FHD",
-    "type": "0"
+    "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "title": "CBS NETWORK",
+    "type": "1"
   },
   {
-    "api": "",
-    "link": "https://live.uu6611.com/live/hd-en-1-4549076.m3u8?txSecret=8bfc56b595dcd42e0bc507e831b10c3d&txTime=6AAECBC8|Referer=https://player.up909.com/",
-    "logo": "",
-    "title": "DUDE Tv Live",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://edgestream4.pro/hls/hflfkrtib42.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-    "logo": "https://iili.io/BtCdabj.png",
-    "title": "CBS SPORTS HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.44/hls/DYYYAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-    "logo": "",
-    "title": "LOW SERVER",
-    "type": "0"
+    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+    "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+    "title": "SPORT 1 CZ",
+    "type": "1"
   }
 ]

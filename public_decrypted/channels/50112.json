@@ -1,23 +1,20 @@
 [
   {
-    "api": "",
-    "link": "https://live.uu6611.com/live/hd-en-1-4550880.m3u8?txSecret=e35cce50a5d100802154daa5925d8869&txTime=6AAF1FF0|Referer=https://player.up909.com/",
-    "logo": "",
-    "title": "DUDE Tv Live",
-    "type": "0"
+    "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "title": "FUBO SPORTS FHD",
+    "type": "1"
   },
   {
-    "api": "",
-    "link": "https://edgestream2.pro/hls/griogoehvn2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-    "logo": "",
-    "title": "HD SERVER",
-    "type": "0"
+    "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "title": "beIN ENGLISH FHD",
+    "type": "1"
   },
   {
-    "api": "",
-    "link": "http://193.47.62.50/hls/RKKKAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-    "logo": "",
-    "title": "LOW SERVER",
-    "type": "0"
+    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+    "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+    "title": "SPORT 1 CZ",
+    "type": "1"
   }
 ]
