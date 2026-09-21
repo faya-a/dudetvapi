@@ -1,5 +1,33 @@
 [
   {
+    "api": "2c523dcb110e623db40bea10f32f7950:045d12ef72e7fcfa499fe76a697aaae1",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jsy0errqcz/out/v1/40fb3131e3aa4cafaf02c37f54eae610/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "APPLE TV (EN)",
+    "type": "1"
+  },
+  {
+    "api": "0aee81902dcdd58d74d0cf0bc0f3b982:78311e6ec91c81c387a3cf2fb0b084a7",
+    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ocpytzatl3/out/v1/dc1d3cef754c4826b8a8d4665bd1b7bc/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "APPLE TV (ES)",
+    "type": "1"
+  },
+  {
+    "api": "",
+    "link": "https://chatgpt.hereisman.net/playlist/56881/load-playlist?|Referer=https://gooz.aapmains.net",
+    "logo": "",
+    "title": "APPLE TV HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://live.vivo155.com/live/hd-en-1-4460536.m3u8?txSecret=a886ee78ed2421fbb5e7e9af95afea66&txTime=6AB086A3|Referer=https://player.787200.com/",
+    "logo": "",
+    "title": "DUDE Tv Live",
+    "type": "0"
+  },
+  {
     "api": "",
     "link": "https://embedindia.st/embed/mls/2026-09-20/mia-sd",
     "logo": "",
