@@ -468,6 +468,54 @@
     ]
   },
   {
+    "id": 50013,
+    "title": "Indianapolis Colts",
+    "image": "o",
+    "cat": "NFL",
+    "eventInfo": {
+      "teamA": "Rams",
+      "teamB": "Giants",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4387/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4426/image",
+      "eventName": "Los Angeles Rams vs New York Giants",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/22 00:15:00 +0000",
+      "endTime": "2026/09/22 03:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TSN SPORTS FHD",
+      "TSN4 SPORTS FHD",
+      "CTV SPORTS FHD",
+      "DUDE Tv Live",
+      "NFL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "TSN4 SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "CTV SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NFL LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50027,
     "title": "York Liberty vs Atlanta Dream",
     "image": "o",
@@ -486,10 +534,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TSN SPORTS",
       "DUDE Tv Live",
       "WNBA LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TSN SPORTS",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -519,10 +572,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TSN SPORTS",
       "DUDE Tv Live",
       "WNBA LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TSN SPORTS",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -552,7 +610,7 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW - FHD",
+      "WILLOW FHD",
       "WILLOW - ALT",
       "SonyLiv - English",
       "SonyLiv - Hindi",
@@ -562,12 +620,12 @@
     ],
     "formatsNew": [
       {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+        "title": "WILLOW FHD",
+        "logo": ""
       },
       {
         "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+        "logo": ""
       },
       {
         "title": "SonyLiv - English",
@@ -650,44 +708,6 @@
     ]
   },
   {
-    "id": 50074,
-    "title": "Querétaro vs Club León",
-    "image": "o",
-    "cat": "Liga MX",
-    "eventInfo": {
-      "teamA": "Querétaro",
-      "teamB": "León",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1951/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/36534/image",
-      "eventName": "Querétaro FC vs Club León",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/21 02:10:00 +0000",
-      "endTime": "2026/09/21 04:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "LOW SERVER",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50075,
     "title": "1. Orioles vs Toronto Blue Jays",
     "image": "o",
@@ -706,10 +726,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TNT SPORTS FHD",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TNT SPORTS FHD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -782,97 +807,6 @@
       },
       {
         "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50085,
-    "title": "CPL",
-    "image": "o",
-    "cat": "Caribbean Premier League",
-    "eventInfo": {
-      "teamA": "CPL",
-      "teamB": "CPL",
-      "teamAFlag": "https://our.today/wp-content/uploads/2026/07/CPL-Caribbean-Premier-League.jpg",
-      "teamBFlag": "https://our.today/wp-content/uploads/2026/07/CPL-Caribbean-Premier-League.jpg",
-      "eventName": "Caribbean Premier League",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/20 23:00:00 +0000",
-      "endTime": "2026/09/21 03:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "WILLOW FHD",
-      "TNT SPORTS FHD",
-      "TAPMAD FHD",
-      "WILLOW HD"
-    ],
-    "formatsNew": [
-      {
-        "title": "WILLOW FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "TNT SPORTS FHD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
-      },
-      {
-        "title": "TAPMAD FHD",
-        "logo": ""
-      },
-      {
-        "title": "WILLOW HD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      }
-    ]
-  },
-  {
-    "id": 50089,
-    "title": "Inter Miami vs San Diego",
-    "image": "o",
-    "cat": "MLS 🇺🇸",
-    "eventInfo": {
-      "teamA": "Inter Miami",
-      "teamB": "San Diego",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/337602/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1043961/image",
-      "eventName": "Inter Miami vs San Diego",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/20 23:00:00 +0000",
-      "endTime": "2026/09/21 01:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "APPLE TV (EN)",
-      "APPLE TV (ES)",
-      "APPLE TV HD",
-      "DUDE Tv Live",
-      "MLS LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "APPLE TV (EN)",
-        "logo": ""
-      },
-      {
-        "title": "APPLE TV (ES)",
-        "logo": ""
-      },
-      {
-        "title": "APPLE TV HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLS LIVE [FHD]",
         "logo": ""
       }
     ]
