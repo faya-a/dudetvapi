@@ -842,9 +842,9 @@
     "publish": "1",
     "formats": [
       "WILLOW - FHD",
-      "SKY CRICKET - AQ",
+      "SKY CRICKET FHD",
       "WILLOW - ALT",
-      "TAPMAD - AQ",
+      "TAPMAD - FHD",
       "SonyLiv",
       "SKY CRICKET HD",
       "LOW SERVER"
@@ -855,7 +855,7 @@
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "SKY CRICKET - AQ",
+        "title": "SKY CRICKET FHD",
         "logo": ""
       },
       {
@@ -863,7 +863,7 @@
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "TAPMAD - AQ",
+        "title": "TAPMAD - FHD",
         "logo": ""
       },
       {
@@ -1113,7 +1113,7 @@
   },
   {
     "id": 50081,
-    "title": "Yankees vs Tampa Bay Rays",
+    "title": "2. Yankees vs Tampa Bay Rays",
     "image": "o",
     "cat": "MLB",
     "eventInfo": {
