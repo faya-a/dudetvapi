@@ -1,58 +1,9 @@
 [
   {
-    "api": "13660a5afc89f7e6224f09e9a5754eb3:e0dae7e9bebafb0c3c6fbe9e479e9b57",
-    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xnwsoqpd2s/out/v1/0ed8f1ef083a45f5a6c383a3cc0e666b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "FUBO SPORTS FHD",
-    "type": "1"
-  },
-  {
     "api": "",
-    "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=wGgNqR-alKfWMSte5-dhiA&e=2089869968&scheme=https|user-agent=Mozilla",
-    "logo": "",
-    "title": "SKY PREMIER FHD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/56797/load-playlist?|Referer=https://gooz.aapmains.net",
-    "logo": "",
-    "title": "PEACOCK TV HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://france.futbolx.ryzn.pro/mci/tracks-v1a1/mono.m3u8",
-    "logo": "",
-    "title": "SPX LIVE FHD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://live.uu6611.com/live/hd-en-1-4558572.m3u8?txSecret=8115773a0fd116ae79ebe57c2274e24b&txTime=6AB01ED9|Referer=https://player.up909.com/",
+    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
     "logo": "",
     "title": "DUDE Tv Live",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://edgestream3.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-    "logo": "",
-    "title": "HD SERVER",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://www.rtmpcdn.com/live/e5fd48b7-2ea8-4d3c-a6f0-299023796ac0.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-    "logo": "",
-    "title": "SD SERVER",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.41/hls/GLLLQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-    "logo": "",
-    "title": "LOW SERVER",
     "type": "0"
   }
 ]
