@@ -1,8 +1,23 @@
 [
   {
     "api": "",
-    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+    "link": "https://live.vivo155.com/live/sd-1-4646507.m3u8?txSecret=f449fa4e646e1fcc7375c61fceaef6cb&txTime=6AB2E2DA|Referer=https://player.787200.com/",
+    "logo": "",
     "title": "DUDE Tv Live",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8",
+    "logo": "",
+    "title": "CBS NETWORK HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.59/hls/i555AAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "logo": "",
+    "title": "LOW SERVER",
     "type": "0"
   }
 ]

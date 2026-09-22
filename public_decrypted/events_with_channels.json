@@ -1692,10 +1692,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1708,14 +1713,14 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream7.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream4.pro/hls/JHDAJBDnjdna30.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-09-22/tb-nyy",
+        "link": "https://embedindia.st/embed/mlb/2026-09-22/sd-lad",
         "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
@@ -2657,11 +2662,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CBS NETWORK"
+      "CBS NETWORK",
+      "ESPN AR FHD",
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "ESPN AR FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ],
@@ -2669,8 +2689,30 @@
       {
         "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "CBS NETWORK",
         "type": "1"
+      },
+      {
+        "api": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185",
+        "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
+        "logo": "",
+        "title": "ESPN AR FHD",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://live.vivo155.com/live/sd-1-4646509.m3u8?txSecret=0522e5bfa3986ce13960009b0f1a8f97&txTime=6AB2E324|Referer=https://player.787200.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.59/hls/i555AA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "LOW SERVER",
+        "type": "0"
       }
     ],
     "channel_status": "live"
@@ -2694,20 +2736,32 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "link": "https://live.vivo155.com/live/sd-1-4646508.m3u8?txSecret=6f2a14c96aab6635739219a414804dc1&txTime=6AB2E30A|Referer=https://player.787200.com/",
         "logo": "",
         "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.59/hls/i555.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "LOW SERVER",
         "type": "0"
       }
     ],
@@ -2732,19 +2786,44 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "CBS NETWORK HD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "CBS NETWORK HD",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "link": "https://live.vivo155.com/live/sd-1-4646507.m3u8?txSecret=f449fa4e646e1fcc7375c61fceaef6cb&txTime=6AB2E2DA|Referer=https://player.787200.com/",
+        "logo": "",
         "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8",
+        "logo": "",
+        "title": "CBS NETWORK HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.59/hls/i555AAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "LOW SERVER",
         "type": "0"
       }
     ],
@@ -2769,66 +2848,72 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PARAMOUNT+ FHD",
+      "ESPN AR FHD",
+      "DUDE Tv Live",
+      "CBS NETWORK HD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "ESPN AR FHD",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "CBS NETWORK HD",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "c3c9543a74d78a005c82719a6a662db9:2fcf3569cb18f2cf2b4648fb8728b4f9",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/3i0e0ntjj3/out/v1/2ef18dfe418f4b7a995479a22929cc8a/d74227da-c61e-4d2b-94b4-72beafd1424d-cenc.mpd?aws_sessionId=1f6cfae6-45ff-4e0f-8a7f-f0ef52d46861|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
+        "title": "PARAMOUNT+ FHD",
+        "type": "1"
+      },
+      {
+        "api": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185",
+        "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
         "logo": "",
-        "title": "FUBO SPORTS FHD",
+        "title": "ESPN AR FHD",
         "type": "1"
       },
       {
         "api": "",
-        "link": "https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=ey78I85UBI0z8ivVfEQ8xA&e=2089870147&scheme=https|user-agent=Mozilla",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-        "title": "SKY SPORTS FHD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/56795/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "PEACOCK TV HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://live.uu6611.com/live/hd-en-1-4558569.m3u8?txSecret=31474f3e8dce99dbf7d9abed1d999200&txTime=6AB01F1A|Referer=https://player.up909.com/",
+        "link": "https://live.vivo155.com/live/sd-1-4646505.m3u8?txSecret=df6ce4850edf8d8307b8808f944d1bc9&txTime=6AB2C6EA|Referer=https://player.787200.com/",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://edgestream2.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-        "title": "SKY SPORTS HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://www.rtmpcdn.com/live/c00713ea-ee78-48c6-9fdd-e642f44ceb00.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8",
         "logo": "",
-        "title": "HD SERVER",
+        "title": "CBS NETWORK HD",
         "type": "0"
       },
       {
         "api": "",
-        "link": "http://193.47.62.50/hls/GLLLQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.59/hls/diiiAAAAQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "LOW SERVER",
         "type": "0"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50105,
@@ -2849,20 +2934,69 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CBS NETWORK"
+      "PARAMOUNT+ FHD",
+      "CBS NETWORK",
+      "FHD SERVER",
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "FHD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
+        "api": "ddf7e0372d22b3d66a96c40d525afc53:e9ee8c29f596c7930a7f6aa19ae17c10",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/wjk3oxvqgg/out/v1/da998713c7cb41ea997ca61f2be99af1/edf54060-4e24-4b83-b7be-52a63c89ca7b-cenc.mpd?aws_sessionId=7801e13f-a4d1-4c7b-9155-4594a56e375a|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
+        "title": "PARAMOUNT+ FHD",
+        "type": "1"
+      },
+      {
         "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "CBS NETWORK",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://live1.dyrur1.com/live/74371782_72cec42dcffe9e3fd2d55282db16cb18_1080p.m3u8?auth_key=1790109625-0-0-b132c91b49d36fe4840e423ae170ef30",
+        "logo": "",
+        "title": "FHD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live.vivo155.com/live/sd-1-4646506.m3u8?txSecret=62e44baaa295a3c2899ba4d86afdbbdb&txTime=6AB2C732|Referer=https://player.787200.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.59/hls/dvvv.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "LOW SERVER",
+        "type": "0"
       }
     ],
     "channel_status": "live"
