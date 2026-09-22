@@ -302,50 +302,6 @@
     ]
   },
   {
-    "id": 50008,
-    "title": "Japan vs India",
-    "image": "o",
-    "cat": "Cricket",
-    "eventInfo": {
-      "teamA": "JPN",
-      "teamB": "IND",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/445296/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
-      "eventName": "Japan vs India",
-      "eventType": "null",
-      "eventBanner": "null",
-      "isHot": "0",
-      "startTime": "2026/09/22 04:00:00 +0000",
-      "endTime": "2026/09/22 07:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FANCODE FHD",
-      "FANCODE ENG - IN",
-      "FANCODE HIN - IN",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "FANCODE FHD",
-        "logo": ""
-      },
-      {
-        "title": "FANCODE ENG - IN",
-        "logo": ""
-      },
-      {
-        "title": "FANCODE HIN - IN",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50009,
     "title": "ONE Friday Fights",
     "image": "o",
@@ -862,64 +818,6 @@
       },
       {
         "title": "WNBA LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50059,
-    "title": "Sri Lanka W vs India W",
-    "image": "o",
-    "cat": "Cricket",
-    "eventInfo": {
-      "teamA": "SL-W",
-      "teamB": "IND-W",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187806/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/213119/image",
-      "eventName": "Sri Lanka W vs India W",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/22 05:00:00 +0000",
-      "endTime": "2026/09/22 08:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "WILLOW - FHD",
-      "WILLOW - ALT",
-      "SonyLiv - English",
-      "SonyLiv - Hindi",
-      "SonyLiv - Tamil",
-      "SonyLiv - Telugu",
-      "SonyLiv - Kannada"
-    ],
-    "formatsNew": [
-      {
-        "title": "WILLOW - FHD",
-        "logo": ""
-      },
-      {
-        "title": "WILLOW - ALT",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv - English",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv - Hindi",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv - Tamil",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv - Telugu",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv - Kannada",
         "logo": ""
       }
     ]
