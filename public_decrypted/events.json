@@ -489,6 +489,9 @@
       "TSN SPORTS FHD",
       "TSN4 SPORTS FHD",
       "CTV SPORTS FHD",
+      "NFL HD LIVE",
+      "DUDE Tv NFL",
+      "NFL MANNING CAST",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
@@ -503,6 +506,18 @@
       },
       {
         "title": "CTV SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "NFL HD LIVE",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv NFL",
+        "logo": ""
+      },
+      {
+        "title": "NFL MANNING CAST",
         "logo": ""
       },
       {
@@ -535,12 +550,17 @@
     "publish": "1",
     "formats": [
       "TSN SPORTS",
+      "DUDE Tv WNBA",
       "DUDE Tv Live",
       "WNBA LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "TSN SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv WNBA",
         "logo": ""
       },
       {
@@ -610,41 +630,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW FHD",
+      "WILLOW - FHD",
       "WILLOW - ALT",
-      "SonyLiv - English",
-      "SonyLiv - Hindi",
-      "SonyLiv - Tamil",
-      "SonyLiv - Telugu",
-      "SonyLiv - Kannada"
+      "SonyLiv (Asia)",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "WILLOW FHD",
-        "logo": ""
+        "title": "WILLOW - FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
         "title": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "SonyLiv (Asia)",
         "logo": ""
       },
       {
-        "title": "SonyLiv - English",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv - Hindi",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv - Tamil",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv - Telugu",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv - Kannada",
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -727,12 +732,17 @@
     "publish": "1",
     "formats": [
       "TNT SPORTS FHD",
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "TNT SPORTS FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "DUDE Tv MLB",
         "logo": ""
       },
       {
@@ -764,10 +774,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
