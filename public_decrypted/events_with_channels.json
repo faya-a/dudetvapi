@@ -1614,6 +1614,55 @@
     "channel_status": "cached"
   },
   {
+    "id": 50070,
+    "title": "IFA Shield 2026",
+    "image": "o",
+    "cat": "Football",
+    "eventInfo": {
+      "teamA": "IFA Shield",
+      "teamB": "IFA Shield",
+      "teamAFlag": "https://images.fancode.com/skillup-uploads/cms-media/IFA-Shield.png",
+      "teamBFlag": "https://images.fancode.com/skillup-uploads/cms-media/IFA-Shield.png",
+      "eventName": "IFA Shield 2026",
+      "eventType": "null",
+      "startTime": "2026/09/23 09:30:00 +0000",
+      "endTime": "2026/09/23 11:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "FANCODE FHD",
+      "FANCODE (IND)"
+    ],
+    "formatsNew": [
+      {
+        "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "FANCODE (IND)",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+        "title": "FANCODE FHD",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://dai-fancode.pages.dev/mumbai/4249525_english_hls_73c8848a9a58417_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+        "title": "FANCODE (IND)",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
     "id": 50075,
     "title": "Tigers vs Washington Nationals",
     "image": "o",
