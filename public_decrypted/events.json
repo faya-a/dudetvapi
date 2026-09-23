@@ -922,12 +922,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "TNT SPORTS FHD",
-      "DUDE Tv MLB",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -935,10 +939,6 @@
       {
         "title": "TNT SPORTS FHD",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
-      },
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
       },
       {
         "title": "MLB LIVE [FHD]",
@@ -965,10 +965,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -998,10 +1003,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1514,11 +1524,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CBS NETWORK"
+      "CBS NETWORK",
+      "FANCODE FHD",
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1542,11 +1567,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "FANCODE FHD",
+      "ESPN AR FHD",
+      "DUDE Tv Live",
+      "CBS NETWORK HD",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
+        "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "ESPN AR FHD",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "CBS NETWORK HD",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1654,81 +1699,56 @@
   },
   {
     "id": 50105,
-    "title": "Azerbaijan vs Tajikistan",
+    "title": "Aruba vs Antigua",
     "image": "o",
-    "cat": "FIFA Friendlies",
+    "cat": "CONCACAF Cup 🇺🇸",
     "eventInfo": {
-      "teamA": "Azerbaijan",
-      "teamB": "Tajikistan",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4742/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/23488/image",
-      "eventName": "Azerbaijan vs Tajikistan",
+      "teamA": "Aruba",
+      "teamB": "Antigua and Barbuda",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/21806/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/21805/image",
+      "eventName": "Aruba vs Antigua and Barbuda",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/23 16:00:00 +0000",
-      "endTime": "2026/09/23 18:00:00 +0000"
+      "startTime": "2026/09/23 23:00:00 +0000",
+      "endTime": "2026/09/24 01:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD",
-      "DUDE Tv Live",
-      "SonyLiv (Asia)",
-      "LOW SERVER"
+      "FOX SPORTS FHD"
     ],
     "formatsNew": [
       {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv (Asia)",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
+        "title": "FOX SPORTS FHD",
         "logo": ""
       }
     ]
   },
   {
     "id": 50106,
-    "title": "Gibraltar vs São Tomé",
+    "title": "Bahamas vs Saint Martin",
     "image": "o",
-    "cat": "FIFA Friendlies",
+    "cat": "CONCACAF Cup 🇺🇸",
     "eventInfo": {
-      "teamA": "Gibraltar",
-      "teamB": "São Tomé and Príncipe",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/129264/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/33813/image",
-      "eventName": "Gibraltar vs São Tomé",
+      "teamA": "Bahamas",
+      "teamB": "Saint Martin",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/21807/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/33812/image",
+      "eventName": "Bahamas vs Saint Martin",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/23 16:00:00 +0000",
-      "endTime": "2026/09/23 18:00:00 +0000"
+      "startTime": "2026/09/23 20:00:00 +0000",
+      "endTime": "2026/09/23 22:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FUBO SPORTS FHD",
-      "DUDE Tv Live",
-      "LOW SERVER"
+      "FOX SPORTS FHD"
     ],
     "formatsNew": [
       {
-        "title": "FUBO SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
+        "title": "FOX SPORTS FHD",
         "logo": ""
       }
     ]
@@ -1768,48 +1788,28 @@
   },
   {
     "id": 50108,
-    "title": "Iraq vs Oman",
+    "title": "Turks vs Montserrat",
     "image": "o",
-    "cat": "Gulf Cup",
+    "cat": "CONCACAF Cup 🇺🇸",
     "eventInfo": {
-      "teamA": "Iraq",
-      "teamB": "Oman",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4767/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4787/image",
-      "eventName": "Iraq vs Oman",
+      "teamA": "Turks and Caicos Islands",
+      "teamB": "Montserrat",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/21823/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/21815/image",
+      "eventName": "Turks vs Montserrat",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/23 14:30:00 +0000",
-      "endTime": "2026/09/23 16:35:00 +0000"
+      "startTime": "2026/09/23 19:00:00 +0000",
+      "endTime": "2026/09/23 21:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportDigital Fussball",
-      "OMAN SPORTS",
-      "ALKASS - FHD",
-      "HD SERVER",
-      "LOW SERVER"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "SportDigital Fussball",
-        "logo": ""
-      },
-      {
-        "title": "OMAN SPORTS",
-        "logo": ""
-      },
-      {
-        "title": "ALKASS - FHD",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]

@@ -1084,20 +1084,20 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream5.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream3.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/wnba/2026-09-22/con-wsh",
+        "link": "https://embedindia.st/embed/wnba/2026-09-23/atl-ny",
         "logo": "",
         "title": "WNBA LIVE [FHD]",
         "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50032,
@@ -1134,14 +1134,14 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream5.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream5.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "DUDE Tv LIVE",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-09-22/nym-tex",
+        "link": "https://embedindia.st/embed/mlb/2026-09-23/chw-kc",
         "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
@@ -1184,13 +1184,15 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream7.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream5.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-09-22/ari-col",
+        "link": "https://embedindia.st/embed/mlb/2026-09-23/nym-tex",
+        "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
@@ -1232,27 +1234,20 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/56868/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv MLB",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream5.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream4.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-09-20/mia-sd",
+        "link": "https://embedindia.st/embed/mlb/2026-09-23/ari-col",
         "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50052,
@@ -1300,7 +1295,7 @@
         "type": "2"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50053,
@@ -1337,13 +1332,15 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream7.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream6.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-09-22/min-sf",
+        "link": "https://embedindia.st/embed/mlb/2026-09-23/sd-lad",
+        "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
@@ -1385,14 +1382,14 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream5.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream6.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/wnba/2026-09-22/tor-chi",
+        "link": "https://embedindia.st/embed/wnba/2026-09-23/dal-sea",
         "logo": "",
         "title": "WNBA LIVE [FHD]",
         "type": "2"
@@ -1682,12 +1679,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "TNT SPORTS FHD",
-      "DUDE Tv MLB",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1697,15 +1698,18 @@
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
       },
       {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
-      {
         "title": "MLB LIVE [FHD]",
         "logo": ""
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/56959/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv MLB",
+        "type": "0"
+      },
       {
         "api": "",
         "link": "https://edgestream7.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -1719,13 +1723,6 @@
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
         "title": "TNT SPORTS FHD",
         "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/56959/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv MLB",
-        "type": "0"
       },
       {
         "api": "",
@@ -1756,10 +1753,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1770,6 +1772,13 @@
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/56961/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv MLB",
+        "type": "0"
+      },
       {
         "api": "",
         "link": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
@@ -1806,10 +1815,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1835,7 +1849,7 @@
         "type": "2"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50078,
@@ -1872,14 +1886,14 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream5.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-09-22/mil-phi",
+        "link": "https://embedindia.st/embed/mlb/2026-09-23/tor-bal/game-2",
         "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
@@ -1929,7 +1943,7 @@
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-09-22/stl-pit",
+        "link": "https://embedindia.st/embed/mlb/2026-09-23/mil-phi",
         "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
@@ -1972,27 +1986,20 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/56841/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv MLB",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream1.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream3.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-09-20/det-chw",
+        "link": "https://embedindia.st/embed/mlb/2026-09-23/stl-pit",
         "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50081,
@@ -2029,14 +2036,14 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream3.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream6.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-09-22/tb-nyy/game-2",
+        "link": "https://embedindia.st/embed/mlb/2026-09-23/tb-nyy",
         "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
@@ -2079,14 +2086,14 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream6.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream5.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-09-22/cin-atl",
+        "link": "https://embedindia.st/embed/mlb/2026-09-23/cle-bos",
         "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
@@ -2142,7 +2149,7 @@
         "type": "2"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50084,
@@ -2179,18 +2186,20 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream5.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream6.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-09-20/sea-col",
+        "link": "https://embedindia.st/embed/mlb/2026-09-23/mia-chc",
+        "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50085,
@@ -2747,11 +2756,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CBS NETWORK"
+      "CBS NETWORK",
+      "FANCODE FHD",
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ],
@@ -2759,8 +2783,30 @@
       {
         "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "CBS NETWORK",
         "type": "1"
+      },
+      {
+        "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+        "title": "FANCODE FHD",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://live.vivo155.com/live/sd-1-4646512.m3u8?txSecret=c8f30774a49d02bbdd1befac996375eb&txTime=6AB43571|Referer=https://player.787200.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.59/hls/IQQQEEEEQAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "SD SERVER",
+        "type": "0"
       }
     ],
     "channel_status": "live"
@@ -2784,31 +2830,72 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "FANCODE FHD",
+      "ESPN AR FHD",
+      "DUDE Tv Live",
+      "CBS NETWORK HD",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
+        "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "ESPN AR FHD",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "CBS NETWORK HD",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
+        "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+        "title": "FANCODE FHD",
+        "type": "1"
+      },
+      {
+        "api": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185",
+        "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
+        "logo": "",
+        "title": "ESPN AR FHD",
+        "type": "1"
+      },
+      {
         "api": "",
-        "link": "https://live.vivo155.com/live/sd-1-4646508.m3u8?txSecret=6f2a14c96aab6635739219a414804dc1&txTime=6AB2E30A|Referer=https://player.787200.com/",
+        "link": "https://live.vivo155.com/live/sd-1-4646513.m3u8?txSecret=e68056d72dfdc124b057c08a2dd5ee8e&txTime=6AB4359F|Referer=https://player.787200.com/",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "http://193.47.62.59/hls/i555.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8",
         "logo": "",
-        "title": "LOW SERVER",
+        "title": "CBS NETWORK HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.59/hls/IQQQEEEEQAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "SD SERVER",
         "type": "0"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50103,
@@ -2996,136 +3083,74 @@
   },
   {
     "id": 50105,
-    "title": "Azerbaijan vs Tajikistan",
+    "title": "Aruba vs Antigua",
     "image": "o",
-    "cat": "FIFA Friendlies",
+    "cat": "CONCACAF Cup 🇺🇸",
     "eventInfo": {
-      "teamA": "Azerbaijan",
-      "teamB": "Tajikistan",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4742/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/23488/image",
-      "eventName": "Azerbaijan vs Tajikistan",
+      "teamA": "Aruba",
+      "teamB": "Antigua and Barbuda",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/21806/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/21805/image",
+      "eventName": "Aruba vs Antigua and Barbuda",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/23 16:00:00 +0000",
-      "endTime": "2026/09/23 18:00:00 +0000"
+      "startTime": "2026/09/23 23:00:00 +0000",
+      "endTime": "2026/09/24 01:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD",
-      "DUDE Tv Live",
-      "SonyLiv (Asia)",
-      "LOW SERVER"
+      "FOX SPORTS FHD"
     ],
     "formatsNew": [
       {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv (Asia)",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
+        "title": "FOX SPORTS FHD",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "beIN ENGLISH FHD",
+        "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "FOX SPORTS FHD",
         "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://live.dyrur1.com/live/73685202_689436c11f07b3e6215961469d9d58a2_1080p.m3u8?auth_key=1790193157-0-0-753bb485f9bcbd44508b0d9bb0bb6412",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120300/Footlive2309/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=5307aa6fc2c88d35ddb0fcd76fbaf03b-1790177400092",
-        "logo": "",
-        "title": "SonyLiv (Asia)",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.50/hls/JFFF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "LOW SERVER",
-        "type": "0"
       }
     ],
     "channel_status": "live"
   },
   {
     "id": 50106,
-    "title": "Gibraltar vs São Tomé",
+    "title": "Bahamas vs Saint Martin",
     "image": "o",
-    "cat": "FIFA Friendlies",
+    "cat": "CONCACAF Cup 🇺🇸",
     "eventInfo": {
-      "teamA": "Gibraltar",
-      "teamB": "São Tomé and Príncipe",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/129264/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/33813/image",
-      "eventName": "Gibraltar vs São Tomé",
+      "teamA": "Bahamas",
+      "teamB": "Saint Martin",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/21807/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/33812/image",
+      "eventName": "Bahamas vs Saint Martin",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/23 16:00:00 +0000",
-      "endTime": "2026/09/23 18:00:00 +0000"
+      "startTime": "2026/09/23 20:00:00 +0000",
+      "endTime": "2026/09/23 22:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FUBO SPORTS FHD",
-      "DUDE Tv Live",
-      "LOW SERVER"
+      "FOX SPORTS FHD"
     ],
     "formatsNew": [
       {
-        "title": "FUBO SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
+        "title": "FOX SPORTS FHD",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd?aws_sessionId=83f2813c-1a0e-40f4-b9a4-9c7e2b0e50dd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "FUBO SPORTS FHD",
+        "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "FOX SPORTS FHD",
         "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://live1.dyrur1.com/live/74525112_7a2e9c7b2fa9efd4df6c2a0ca5f3d65a_1080p.m3u8?auth_key=1790193157-0-0-6bb6cbbc5567e86e1ab3ecba88e2b030",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.50/hls/JFFFA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "LOW SERVER",
-        "type": "0"
       }
     ],
     "channel_status": "live"
@@ -3182,48 +3207,28 @@
   },
   {
     "id": 50108,
-    "title": "Iraq vs Oman",
+    "title": "Turks vs Montserrat",
     "image": "o",
-    "cat": "Gulf Cup",
+    "cat": "CONCACAF Cup 🇺🇸",
     "eventInfo": {
-      "teamA": "Iraq",
-      "teamB": "Oman",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4767/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4787/image",
-      "eventName": "Iraq vs Oman",
+      "teamA": "Turks and Caicos Islands",
+      "teamB": "Montserrat",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/21823/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/21815/image",
+      "eventName": "Turks vs Montserrat",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/23 14:30:00 +0000",
-      "endTime": "2026/09/23 16:35:00 +0000"
+      "startTime": "2026/09/23 19:00:00 +0000",
+      "endTime": "2026/09/23 21:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportDigital Fussball",
-      "OMAN SPORTS",
-      "ALKASS - FHD",
-      "HD SERVER",
-      "LOW SERVER"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "SportDigital Fussball",
-        "logo": ""
-      },
-      {
-        "title": "OMAN SPORTS",
-        "logo": ""
-      },
-      {
-        "title": "ALKASS - FHD",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ],
@@ -3264,6 +3269,6 @@
         "type": "0"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   }
 ]
