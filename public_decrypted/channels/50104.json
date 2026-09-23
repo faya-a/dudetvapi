@@ -1,8 +1,44 @@
 [
   {
+    "api": "35027e16d750b24dd4eaaab442b55391:676b032dee19a6774a3bb3af51e392ad",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/xhbrveve8q/out/v1/93a17f4390174519b6ba8f7caf26dc74/a30f3a7c-d31d-4195-b04f-be095925322c-cenc.mpd?aws_sessionId=aa95b368-9a0c-4e16-b898-27e3b369709d|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
+    "title": "PARAMOUNT+ FHD",
+    "type": "1"
+  },
+  {
+    "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+    "title": "FANCODE FHD",
+    "type": "1"
+  },
+  {
+    "api": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185",
+    "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
+    "logo": "",
+    "title": "ESPN AR FHD",
+    "type": "1"
+  },
+  {
     "api": "",
-    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-    "title": "DUDE Tv Live",
+    "link": "https://live.vivo155.com/live/sd-1-4646511.m3u8?txSecret=1e43e83dc06e22be05c91113709b4d23&txTime=6AB41776|Referer=https://player.787200.com/",
+    "logo": "",
+    "title": "",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8",
+    "logo": "",
+    "title": "CBS NETWORK HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.50/hls/JFFFAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "logo": "",
+    "title": "LOW SERVER",
     "type": "0"
   }
 ]

@@ -1,8 +1,37 @@
 [
   {
+    "api": "6fc55289aea6fe9032310fb1d8255ed9:c653b155ae613c4cc1670bf8cd380980",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ildsgxtg8v/out/v1/45871796294349fc85974dd035c8254b/7074e10d-4852-4e90-ac0f-169ec4abdd44-cenc.mpd?aws_sessionId=8d7bd3f0-9ba7-4c28-87b4-edcfad647d4b|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
+    "title": "PARAMOUNT+ FHD",
+    "type": "1"
+  },
+  {
+    "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+    "title": "FANCODE FHD",
+    "type": "1"
+  },
+  {
     "api": "",
-    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+    "link": "https://live.vivo155.com/live/sd-1-4646510.m3u8?txSecret=165a43a75a9720f23fd37b1a144b9c1b&txTime=6AB41740|Referer=https://player.787200.com/",
+    "logo": "",
     "title": "DUDE Tv Live",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8",
+    "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+    "title": "BeIN SPORTS HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.50/hls/JFFFAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "logo": "",
+    "title": "LOW SERVER",
     "type": "0"
   }
 ]

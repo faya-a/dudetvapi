@@ -1,28 +1,35 @@
 [
   {
-    "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
-    "title": "PREMIER SPORTS",
+    "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "SportDigital Fussball",
     "type": "1"
   },
   {
     "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/56794/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+    "link": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
     "logo": "",
-    "title": "ESPN DEPORTES HD",
+    "title": "OMAN SPORTS",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://live.uu6611.com/live/hd-en-1-4565425.m3u8?txSecret=6b86df3e48196f2b2ff7f849c11e96e6&txTime=6AB00689|Referer=https://player.up909.com/",
+    "link": "https://storage.googleapis.com/livealkass-eu/alkass1-p/main.m3u8",
     "logo": "",
-    "title": "DUDE Tv Live",
+    "title": "ALKASS - FHD",
     "type": "0"
   },
   {
     "api": "",
-    "link": "http://193.47.62.59/hls/MEEEAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "link": "https://www.rtmpcdn.com/live/945637a5-d44d-48bf-82ea-e888f98a8ddd.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "logo": "",
+    "title": "HD SERVER",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.50/hls/EEEE.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
     "logo": "",
     "title": "LOW SERVER",
     "type": "0"

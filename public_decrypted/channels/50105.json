@@ -1,35 +1,28 @@
 [
   {
-    "api": "ddf7e0372d22b3d66a96c40d525afc53:e9ee8c29f596c7930a7f6aa19ae17c10",
-    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/wjk3oxvqgg/out/v1/da998713c7cb41ea997ca61f2be99af1/edf54060-4e24-4b83-b7be-52a63c89ca7b-cenc.mpd?aws_sessionId=7801e13f-a4d1-4c7b-9155-4594a56e375a|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
-    "title": "PARAMOUNT+ FHD",
-    "type": "1"
-  },
-  {
-    "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "",
-    "title": "CBS NETWORK",
+    "title": "beIN ENGLISH FHD",
     "type": "1"
   },
   {
     "api": "",
-    "link": "https://live1.dyrur1.com/live/74371782_72cec42dcffe9e3fd2d55282db16cb18_1080p.m3u8?auth_key=1790109625-0-0-b132c91b49d36fe4840e423ae170ef30",
-    "logo": "",
-    "title": "FHD SERVER",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://live.vivo155.com/live/sd-1-4646506.m3u8?txSecret=62e44baaa295a3c2899ba4d86afdbbdb&txTime=6AB2C732|Referer=https://player.787200.com/",
+    "link": "https://live.dyrur1.com/live/73685202_689436c11f07b3e6215961469d9d58a2_1080p.m3u8?auth_key=1790193157-0-0-753bb485f9bcbd44508b0d9bb0bb6412",
     "logo": "",
     "title": "DUDE Tv Live",
     "type": "0"
   },
   {
     "api": "",
-    "link": "http://193.47.62.59/hls/dvvv.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120300/Footlive2309/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=5307aa6fc2c88d35ddb0fcd76fbaf03b-1790177400092",
+    "logo": "",
+    "title": "SonyLiv (Asia)",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.50/hls/JFFF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
     "logo": "",
     "title": "LOW SERVER",
     "type": "0"
