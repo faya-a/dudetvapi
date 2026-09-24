@@ -89,5 +89,12 @@
     "logo": "https://iili.io/CFFRvqJ.png",
     "title": "SporTV BR 2",
     "type": "1"
+  },
+  {
+    "api": "902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://iili.io/CFFRvqJ.png",
+    "title": "SporTV BR 3",
+    "type": "1"
   }
 ]

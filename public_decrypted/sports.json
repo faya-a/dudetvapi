@@ -2022,7 +2022,8 @@
       "SporTV BR",
       "SportDigital Fussball",
       "Premiere SD",
-      "SporTV BR 2"
+      "SporTV BR 2",
+      "SporTV BR 3"
     ],
     "formatsNew": [
       {
@@ -2075,6 +2076,10 @@
       },
       {
         "title": "SporTV BR 2",
+        "logo": "https://iili.io/CFFRvqJ.png"
+      },
+      {
+        "title": "SporTV BR 3",
         "logo": "https://iili.io/CFFRvqJ.png"
       }
     ]

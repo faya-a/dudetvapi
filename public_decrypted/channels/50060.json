@@ -1,7 +1,7 @@
 [
   {
-    "api": "70b921e2eae48d00b0a2249b0de197b4:4b994f1b4666368565dd56a76975843e",
-    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ww2lshzug5/out/v1/de6a9587a2a3473ab685fb93d1de0929/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "api": "1cfa1f2f31922239df0f3f27efd76344:ac949494b59d3b4442b6e999525d341b",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/50fdmgdsle/out/v1/b71c6576530d40c0bbb5b5374a9e869d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
     "title": "WILLOW - FHD",
     "type": "1"
@@ -14,8 +14,8 @@
     "type": "0"
   },
   {
-    "api": "70b921e2eae48d00b0a2249b0de197b4:4b994f1b4666368565dd56a76975843e",
-    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ww2lshzug5/out/v1/de6a9587a2a3473ab685fb93d1de0929/cenc.mpd",
+    "api": "1cfa1f2f31922239df0f3f27efd76344:ac949494b59d3b4442b6e999525d341b",
+    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/50fdmgdsle/out/v1/b71c6576530d40c0bbb5b5374a9e869d/cenc.mpd",
     "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
     "title": "WILLOW - ALT",
     "type": "1"
@@ -29,21 +29,21 @@
   },
   {
     "api": "",
-    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120299/criclive2209/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2120300/criclive2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790291145~acl=/*~id=26475309875266514221968344653694~hmac=038751f8a3857d072fedcb68258b3743585361245be21946592d695af630dea5",
     "logo": "",
     "title": "SonyLiv",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://tmaxapp.site/8wirwjs76erftg/skysportscricket.m3u8",
+    "link": "https://papacito.cfd/m3u/now49499404/live.m3u8",
     "logo": "",
     "title": "SKY CRICKET HD",
     "type": "0"
   },
   {
     "api": "",
-    "link": "http://193.47.62.59/hls/K999.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "link": "http://193.47.62.59/hls/ELLLA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
     "logo": "",
     "title": "LOW SERVER",
     "type": "0"

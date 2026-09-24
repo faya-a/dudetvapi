@@ -12,17 +12,19 @@
       "eventName": "Formula 1 -  AZERBAIJAN GRAND PRIX",
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://tikolu.net/i/yipsx",
-      "isHot": "1",
-      "startTime": "2026/09/24 08:30:00 +0000",
-      "endTime": "2026/09/24 13:30:00 +0000"
+      "isHot": "0",
+      "startTime": "2026/09/25 08:30:00 +0000",
+      "endTime": "2026/09/25 13:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TSN SPORTS FHD",
       "FANCODE - FHD",
+      "SporTV BR FHD",
+      "RUSSIA FEED",
       "DUDE Tv F1 HD",
       "Sportscast FHD",
-      "RUSSIA FEED",
       "SKY F1 Italia [IT]",
       "DAZN ESPANOL [FHD]",
       "SKY SPORTS [FHD]",
@@ -34,8 +36,20 @@
     ],
     "formatsNew": [
       {
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
+      {
         "title": "FANCODE - FHD",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "SporTV BR FHD",
+        "logo": "https://iili.io/CFFRvqJ.png"
+      },
+      {
+        "title": "RUSSIA FEED",
+        "logo": ""
       },
       {
         "title": "DUDE Tv F1 HD",
@@ -43,10 +57,6 @@
       },
       {
         "title": "Sportscast FHD",
-        "logo": ""
-      },
-      {
-        "title": "RUSSIA FEED",
         "logo": ""
       },
       {
@@ -818,11 +828,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "WILLOW - FHD",
+      "SKY CRICKET FHD",
+      "WILLOW - ALT",
+      "TAPMAD - FHD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "WILLOW - FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "SKY CRICKET FHD",
+        "logo": ""
+      },
+      {
+        "title": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "TAPMAD - FHD",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -873,23 +903,56 @@
       "eventName": "IFA Shield 2026",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/25 09:30:00 +0000",
-      "endTime": "2026/09/25 11:35:00 +0000"
+      "startTime": "2026/09/24 09:30:00 +0000",
+      "endTime": "2026/09/24 11:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FANCODE FHD",
       "FANCODE (IND)"
     ],
     "formatsNew": [
       {
-        "title": "FANCODE FHD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
         "title": "FANCODE (IND)",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      }
+    ]
+  },
+  {
+    "id": 50075,
+    "title": "Pittsburgh Pirates vs Cardinals",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Pirates",
+      "teamB": "Cardinals",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3637/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3632/image",
+      "eventName": "Pittsburgh Pirates vs St. Louis Cardinals",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/24 16:35:00 +0000",
+      "endTime": "2026/09/24 19:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv MLB",
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
       }
     ]
   },
@@ -1425,12 +1488,12 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "SporTV BR FHD"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
-        "logo": ""
+        "title": "SporTV BR FHD",
+        "logo": "https://iili.io/CFFRvqJ.png"
       }
     ]
   },
@@ -1453,11 +1516,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1593,11 +1666,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "HD SERVER",
+      "beIN SPORTS HD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "beIN SPORTS HD",
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1621,11 +1704,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
+      "beIN ENGLISH FHD",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1649,39 +1742,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
+      "beIN ENGLISH FHD",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH FHD",
         "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50108,
-    "title": "Namibia vs Congo Republic",
-    "image": "o",
-    "cat": "AFCON",
-    "eventInfo": {
-      "teamA": "Namibia",
-      "teamB": "Congo Republic",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4832/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/8040/image",
-      "eventName": "Namibia vs Congo Republic",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/24 13:00:00 +0000",
-      "endTime": "2026/09/24 15:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH FHD"
-    ],
-    "formatsNew": [
+      },
       {
-        "title": "beIN ENGLISH FHD",
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1705,11 +1780,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportDigital Fussball"
+      "SportDigital Fussball",
+      "OMAN SPORTS HD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "SportDigital Fussball",
+        "logo": ""
+      },
+      {
+        "title": "OMAN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1733,207 +1818,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportDigital Fussball"
+      "SportDigital Fussball",
+      "OMAN SPORTS HD",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "SportDigital Fussball",
         "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50111,
-    "title": "Uzbekistan vs Iran",
-    "image": "o",
-    "cat": "FIFA Friendlies",
-    "eventInfo": {
-      "teamA": "Uzbekistan",
-      "teamB": "Iran",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4723/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4766/image",
-      "eventName": "Uzbekistan vs Iran",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/24 14:00:00 +0000",
-      "endTime": "2026/09/24 16:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
+      },
       {
-        "title": "DUDE Tv Live",
+        "title": "OMAN SPORTS HD",
         "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50112,
-    "title": "China vs Maldives",
-    "image": "o",
-    "cat": "FIFA Friendlies",
-    "eventInfo": {
-      "teamA": "China",
-      "teamB": "Maldives",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4755/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/6911/image",
-      "eventName": "China vs Maldives",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/24 11:35:00 +0000",
-      "endTime": "2026/09/24 13:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
+      },
       {
-        "title": "DUDE Tv Live",
+        "title": "HD SERVER",
         "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50113,
-    "title": "South Korea vs Ecuador",
-    "image": "o",
-    "cat": "FIFA Friendlies",
-    "eventInfo": {
-      "teamA": "South Korea",
-      "teamB": "Ecuador",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4735/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4757/image",
-      "eventName": "South Korea vs Ecuador",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/24 11:00:00 +0000",
-      "endTime": "2026/09/24 13:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
+      },
       {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50114,
-    "title": "Japan vs Uruguay",
-    "image": "o",
-    "cat": "FIFA Friendlies",
-    "eventInfo": {
-      "teamA": "Japan",
-      "teamB": "Uruguay",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4770/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4725/image",
-      "eventName": "Japan vs Uruguay",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/24 10:05:00 +0000",
-      "endTime": "2026/09/24 12:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50115,
-    "title": "Myanmar vs East Timor",
-    "image": "o",
-    "cat": "FIFA ASEAN Cup",
-    "eventInfo": {
-      "teamA": "Myanmar",
-      "teamB": "East Timor",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/23484/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/23497/image",
-      "eventName": "Myanmar vs East Timor",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/24 12:00:00 +0000",
-      "endTime": "2026/09/24 14:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50116,
-    "title": "Laos vs Brunei",
-    "image": "o",
-    "cat": "FIFA ASEAN Cup",
-    "eventInfo": {
-      "teamA": "Laos",
-      "teamB": "Brunei",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/23486/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/23491/image",
-      "eventName": "Laos vs Brunei Darussalam",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/24 09:00:00 +0000",
-      "endTime": "2026/09/24 11:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50117,
-    "title": "Palestine vs New Zealand",
-    "image": "o",
-    "cat": "FIFA ASEAN Cup",
-    "eventInfo": {
-      "teamA": "Palestine",
-      "teamB": "New Zealand",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4788/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4784/image",
-      "eventName": "Palestine vs New Zealand",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/24 09:30:00 +0000",
-      "endTime": "2026/09/24 11:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]

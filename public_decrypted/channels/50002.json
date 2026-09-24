@@ -1,10 +1,31 @@
 [
   {
+    "api": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+    "title": "TSN SPORTS FHD",
+    "type": "1"
+  },
+  {
     "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
     "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
     "title": "FANCODE - FHD",
     "type": "1"
+  },
+  {
+    "api": "902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://iili.io/CFFRvqJ.png",
+    "title": "SporTV BR FHD",
+    "type": "1"
+  },
+  {
+    "api": "",
+    "link": "https://bl.rutube.ru/livestream/132765cfe8e1940b127a26113b87d66e/index.m3u8?s=WnwPWDx46bTh_XdZBrRBtw&e=1790324951&scheme=https|user-agent=Mozilla",
+    "logo": "",
+    "title": "RUSSIA FEED",
+    "type": "0"
   },
   {
     "api": "",
@@ -18,13 +39,6 @@
     "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5b968989-eb20-4f90-bfaf-8f632a35ebe4/master.m3u8",
     "logo": "",
     "title": "Sportscast FHD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://bl.rutube.ru/livestream/18623b9d5b39a77a812084f53b7d8c9c/index.m3u8?s=R-DUAwy8vASqhu6gmz84Bw&e=1789389939&scheme=https|user-agent=Mozilla",
-    "logo": "",
-    "title": "RUSSIA FEED",
     "type": "0"
   },
   {
@@ -78,7 +92,7 @@
   },
   {
     "api": "",
-    "link": "http://193.47.62.59/hls/gagaga.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "link": "http://193.47.62.44/hls/RRRR.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
     "logo": "",
     "title": "SD SERVER",
     "type": "0"
