@@ -1,37 +1,37 @@
 [
   {
-    "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-    "title": "TSN SPORTS FHD",
-    "type": "1"
-  },
-  {
-    "api": "c4b52e8ae04abd9a640dec7ddeda7ae1:b113f2466502bd72c0266667f88d5fd0",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/qbixkbxtwl/out/v1/405958c4eab74128bb92cf098242eb44/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "FOX NFL FHD",
-    "type": "1"
-  },
-  {
     "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/56829/load-playlist?|Referer=https://gooz.aapmains.net",
+    "link": "https://chatgpt.hereisman.net/playlist/57005/load-playlist?|Referer=https://gooz.aapmains.net",
     "logo": "",
-    "title": "DUDE Tv NFL",
+    "title": "Nations League HD",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://edgestream4.pro/hls/uheyztezgj34.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+    "link": "https://live.vivo155.com/live/hd-en-1-4517790.m3u8?txSecret=af0efeebb2110b4740d257c6af156bba&txTime=6AB5858D|Referer=https://player.787200.com/",
     "logo": "",
     "title": "DUDE Tv Live",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://embedindia.st/embed/nfl/2026-09-20/min-chi",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2037142/footlive2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790318530~acl=/*~id=24435321418297588649877292797053~hmac=18a36133d115426eed1837cd4d4b48a99d718fd3c378e722b755e027c48aa63a|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
     "logo": "",
-    "title": "NFL LIVE [FHD]",
-    "type": "2"
+    "title": "SonyLiv (ASIA)",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://www.rtmpcdn.com/live/1e296c12-08cf-4c17-bfb2-1afc54ed408c.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "logo": "",
+    "title": "HD SERVER",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.44/hls/FAFAFAFAZQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "logo": "",
+    "title": "LOW SERVER",
+    "type": "0"
   }
 ]

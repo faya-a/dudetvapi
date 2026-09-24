@@ -1,37 +1,16 @@
 [
   {
-    "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
-    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-    "title": "FANCODE FHD",
-    "type": "1"
-  },
-  {
-    "api": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185",
-    "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
-    "logo": "",
-    "title": "ESPN AR FHD",
-    "type": "1"
-  },
-  {
     "api": "",
-    "link": "https://live.vivo155.com/live/sd-1-4646513.m3u8?txSecret=e68056d72dfdc124b057c08a2dd5ee8e&txTime=6AB4359F|Referer=https://player.787200.com/",
+    "link": "https://www.rtmpcdn.com/live/4a2a0066-700c-4fb1-8b3a-9db109eeab6e.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
     "logo": "",
-    "title": "DUDE Tv Live",
+    "title": "HD SERVER",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8",
+    "link": "http://193.47.62.59/hls/FAFAFAFAZQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
     "logo": "",
-    "title": "CBS NETWORK HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.59/hls/IQQQEEEEQAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-    "logo": "",
-    "title": "SD SERVER",
+    "title": "LOW SERVER",
     "type": "0"
   }
 ]
