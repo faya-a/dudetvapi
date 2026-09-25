@@ -1,5 +1,26 @@
 [
   {
+    "api": "d6cc913d4e085f85bc435381400cd02e:6f53b5bd64aecc2448cda0660cbfc9aa",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rcklyn1clh/out/v1/a7e90c797fc04d5d985b7d792f885319/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "SKY SPORTS FHD",
+    "type": "1"
+  },
+  {
+    "api": "e225b040c2154d47ec1f051e89db217d:a52408ead2d95dde7db794bb0065f835",
+    "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/uwgqatzrgm/out/v1/5d8ffce32bca4e2993975be25d7ed61a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "APPLE TV FHD",
+    "type": "1"
+  },
+  {
+    "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+    "title": "TSN SPORTS FHD",
+    "type": "1"
+  },
+  {
     "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
     "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
@@ -22,7 +43,7 @@
   },
   {
     "api": "",
-    "link": "https://bl.rutube.ru/livestream/132765cfe8e1940b127a26113b87d66e/index.m3u8?s=WnwPWDx46bTh_XdZBrRBtw&e=1790324951&scheme=https|user-agent=Mozilla",
+    "link": "https://bl.rutube.ru/livestream/e95c7887c361ec6022064a930516cd22/index.m3u8?s=GuYoUFk41ib0wo3Ar8qHAA&e=1790425386&scheme=https|user-agent=Mozilla",
     "logo": "",
     "title": "RUSSIA FEED",
     "type": "0"
