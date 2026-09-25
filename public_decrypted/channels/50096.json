@@ -1,37 +1,8 @@
 [
   {
-    "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/57005/load-playlist?|Referer=https://gooz.aapmains.net",
-    "logo": "",
-    "title": "Nations League HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://live.vivo155.com/live/hd-en-1-4517790.m3u8?txSecret=af0efeebb2110b4740d257c6af156bba&txTime=6AB5858D|Referer=https://player.787200.com/",
-    "logo": "",
-    "title": "DUDE Tv Live",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://sonydaimenew.akamaized.net/hls/live/2037142/footlive2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790318530~acl=/*~id=24435321418297588649877292797053~hmac=18a36133d115426eed1837cd4d4b48a99d718fd3c378e722b755e027c48aa63a|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
-    "logo": "",
-    "title": "SonyLiv (ASIA)",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://www.rtmpcdn.com/live/1e296c12-08cf-4c17-bfb2-1afc54ed408c.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-    "logo": "",
-    "title": "HD SERVER",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.44/hls/FAFAFAFAZQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-    "logo": "",
-    "title": "LOW SERVER",
-    "type": "0"
+    "api": "9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3",
+    "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "title": "SporTV BR FHD",
+    "type": "1"
   }
 ]

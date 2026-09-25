@@ -302,6 +302,35 @@
     ]
   },
   {
+    "id": 50008,
+    "title": "India vs West Indies",
+    "image": "o",
+    "cat": "Cricket",
+    "eventInfo": {
+      "teamA": "IND",
+      "teamB": "WI",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187760/image",
+      "eventName": "India vs West Indies",
+      "eventType": "null",
+      "eventBanner": "null",
+      "isHot": "0",
+      "startTime": "2026/09/27 08:30:00 +0000",
+      "endTime": "2026/09/27 16:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50009,
     "title": "ONE Friday Fights",
     "image": "o",
@@ -577,10 +606,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv LIVE",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv LIVE",
         "logo": ""
@@ -610,10 +644,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -709,10 +748,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv WNBA",
       "DUDE Tv Live",
       "WNBA LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv WNBA",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -736,8 +780,8 @@
       "eventName": "England vs Sri Lanka",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/24 11:30:00 +0000",
-      "endTime": "2026/09/24 19:30:00 +0000"
+      "startTime": "2026/09/27 09:30:00 +0000",
+      "endTime": "2026/09/27 17:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -800,11 +844,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "WILLOW - FHD",
+      "WILLOW ALT"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "WILLOW - FHD",
+        "logo": ""
+      },
+      {
+        "title": "WILLOW ALT",
         "logo": ""
       }
     ]
@@ -822,8 +871,8 @@
       "eventName": "South Africa vs Australia",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/24 08:00:00 +0000",
-      "endTime": "2026/09/24 16:00:00 +0000"
+      "startTime": "2026/09/27 08:00:00 +0000",
+      "endTime": "2026/09/27 16:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -876,10 +925,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv WNBA",
       "DUDE Tv Live",
       "WNBA LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv WNBA",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -903,8 +957,8 @@
       "eventName": "IFA Shield 2026",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/24 09:30:00 +0000",
-      "endTime": "2026/09/24 11:35:00 +0000"
+      "startTime": "2026/09/26 09:30:00 +0000",
+      "endTime": "2026/09/26 11:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1259,10 +1313,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1275,38 +1334,28 @@
   },
   {
     "id": 50085,
-    "title": "Hong Kong C. vs Malaysia",
+    "title": "Afghanistan vs Nepal",
     "image": "o",
     "cat": "Asian Games",
     "eventInfo": {
-      "teamA": "HK",
-      "teamB": "MAS",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187774/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187811/image",
-      "eventName": "Hong Kong C. vs Malaysia",
+      "teamA": "AFG",
+      "teamB": "NEP",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187575/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187772/image",
+      "eventName": "Afghanistan vs Nepal",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/24 05:00:00 +0000",
-      "endTime": "2026/09/24 08:45:00 +0000"
+      "startTime": "2026/09/25 05:00:00 +0000",
+      "endTime": "2026/09/25 08:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW - FHD",
-      "WILLOW - ALT",
-      "SonyLiv"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "SonyLiv",
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -1341,31 +1390,25 @@
   },
   {
     "id": 50094,
-    "title": "Portugal vs Wales",
+    "title": "Türkiye vs France",
     "image": "o",
     "cat": "UEFA Nations",
     "eventInfo": {
-      "teamA": "Portugal",
-      "teamB": "Wales",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4704/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4702/image",
-      "eventName": "Portugal vs Wales",
+      "teamA": "Türkiye",
+      "teamB": "France",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4700/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4481/image",
+      "eventName": "Türkiye vs France",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/24 18:45:00 +0000",
-      "endTime": "2026/09/24 20:50:00 +0000"
+      "startTime": "2026/09/25 18:45:00 +0000",
+      "endTime": "2026/09/25 20:50:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
       "beIN ENGLISH FHD",
-      "SporTV BR FHD",
-      "FOX SOCCER+ HD",
-      "DUDE Tv Live",
-      "beIN ARABIC FHD",
-      "SonyLiv (ASIA)",
-      "HD SERVER",
-      "LOW SERVER"
+      "SporTV BR FHD"
     ],
     "formatsNew": [
       {
@@ -1374,59 +1417,31 @@
       },
       {
         "title": "SporTV BR FHD",
-        "logo": "https://iili.io/CFFRvqJ.png"
-      },
-      {
-        "title": "FOX SOCCER+ HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "beIN ARABIC FHD",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv (ASIA)",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
         "logo": ""
       }
     ]
   },
   {
     "id": 50095,
-    "title": "Norway vs Denmark",
+    "title": "Italy vs Belgium",
     "image": "o",
     "cat": "UEFA Nations",
     "eventInfo": {
-      "teamA": "Norway",
-      "teamB": "Denmark",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4475/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4476/image",
-      "eventName": "Norway vs Denmark",
+      "teamA": "Italy",
+      "teamB": "Belgium",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4707/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4717/image",
+      "eventName": "Italy vs Belgium",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/24 18:45:00 +0000",
-      "endTime": "2026/09/24 20:50:00 +0000"
+      "startTime": "2026/09/25 18:45:00 +0000",
+      "endTime": "2026/09/25 20:50:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
       "beIN ENGLISH FHD",
-      "FOX SPORTS FHD",
-      "FOX SPORTS HD",
-      "DUDE Tv Live",
-      "SonyLiv (ASIA)",
-      "LOW SERVER"
+      "FOX SPORTS FHD"
     ],
     "formatsNew": [
       {
@@ -1435,508 +1450,118 @@
       },
       {
         "title": "FOX SPORTS FHD",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
-      },
-      {
-        "title": "FOX SPORTS HD",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv (ASIA)",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
         "logo": ""
       }
     ]
   },
   {
     "id": 50096,
-    "title": "Kosovo vs Ireland",
+    "title": "Hungary vs Ukraine",
     "image": "o",
     "cat": "UEFA Nations",
     "eventInfo": {
-      "teamA": "Kosovo",
-      "teamB": "Ireland",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/154426/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4693/image",
-      "eventName": "Kosovo vs Ireland",
+      "teamA": "Hungary",
+      "teamB": "Ukraine",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4709/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4701/image",
+      "eventName": "Hungary vs Ukraine",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/24 18:45:00 +0000",
-      "endTime": "2026/09/24 20:45:00 +0000"
+      "startTime": "2026/09/25 18:45:00 +0000",
+      "endTime": "2026/09/25 20:50:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "Nations League HD",
-      "DUDE Tv Live",
-      "SonyLiv (ASIA)",
-      "HD SERVER",
-      "LOW SERVER"
+      "SporTV BR FHD"
     ],
     "formatsNew": [
       {
-        "title": "Nations League HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv (ASIA)",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
+        "title": "SporTV BR FHD",
         "logo": ""
       }
     ]
   },
   {
     "id": 50097,
-    "title": "Serbia vs Greece",
+    "title": "Poland vs Bosnia",
     "image": "o",
     "cat": "UEFA Nations",
     "eventInfo": {
-      "teamA": "Serbia",
-      "teamB": "Greece",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/6355/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4710/image",
-      "eventName": "Serbia vs Greece",
+      "teamA": "Poland",
+      "teamB": "Bosnia & Herzegovina",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4703/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4479/image",
+      "eventName": "Poland vs Bosnia & Herzegovina",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/24 18:45:00 +0000",
-      "endTime": "2026/09/24 20:45:00 +0000"
+      "startTime": "2026/09/25 18:45:00 +0000",
+      "endTime": "2026/09/25 20:50:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "Nations League HD",
-      "DUDE Tv Live",
-      "SonyLiv (ASIA)",
-      "HD SERVER",
-      "LOW SERVER"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "Nations League HD",
-        "logo": ""
-      },
-      {
         "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv (ASIA)",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
         "logo": ""
       }
     ]
   },
   {
     "id": 50098,
-    "title": "Netherlands vs Germany",
+    "title": "Sweden vs Romania",
     "image": "o",
     "cat": "UEFA Nations",
     "eventInfo": {
-      "teamA": "Netherlands",
-      "teamB": "Germany",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4705/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4711/image",
-      "eventName": "Netherlands vs Germany",
+      "teamA": "Sweden",
+      "teamB": "Romania",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4688/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4477/image",
+      "eventName": "Sweden vs Romania",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/24 18:45:00 +0000",
-      "endTime": "2026/09/24 20:45:00 +0000"
+      "startTime": "2026/09/25 18:45:00 +0000",
+      "endTime": "2026/09/25 20:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD",
-      "SportKlub HD",
-      "DUDE Tv Live",
-      "beIN ARABIC FHD",
-      "SonyLiv (ASIA)",
-      "HD SERVER",
-      "LOW SERVER"
+      "beIN ENGLISH FHD"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "SportKlub HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "beIN ARABIC FHD",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv (ASIA)",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
         "logo": ""
       }
     ]
   },
   {
     "id": 50099,
-    "title": "Liechtenstein vs Lithuania",
+    "title": "Montenegro vs Cyprus",
     "image": "o",
     "cat": "UEFA Nations",
     "eventInfo": {
-      "teamA": "Liechtenstein",
-      "teamB": "Lithuania",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4830/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4776/image",
-      "eventName": "Liechtenstein vs Lithuania",
+      "teamA": "Montenegro",
+      "teamB": "Cyprus",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/7139/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4482/image",
+      "eventName": "Montenegro vs Cyprus",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/24 18:45:00 +0000",
-      "endTime": "2026/09/24 20:45:00 +0000"
+      "startTime": "2026/09/25 18:45:00 +0000",
+      "endTime": "2026/09/25 20:50:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SporTV BR FHD",
-      "DUDE Tv Live",
-      "DUDE Tv Live",
-      "HD SERVER",
-      "LOW SERVER"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
-      {
-        "title": "SporTV BR FHD",
-        "logo": "https://iili.io/CFFRvqJ.png"
-      },
       {
         "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50101,
-    "title": "Tunisia vs Uganda",
-    "image": "o",
-    "cat": "AFCON",
-    "eventInfo": {
-      "teamA": "Tunisia",
-      "teamB": "Uganda",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4729/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4726/image",
-      "eventName": "Tunisia vs Uganda",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/24 19:00:00 +0000",
-      "endTime": "2026/09/24 21:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "HD SERVER",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50102,
-    "title": "Cameroon vs Comoros",
-    "image": "o",
-    "cat": "AFCON",
-    "eventInfo": {
-      "teamA": "Cameroon",
-      "teamB": "Comoros",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4751/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/23494/image",
-      "eventName": "Cameroon vs Comoros",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/24 19:00:00 +0000",
-      "endTime": "2026/09/24 21:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "HD SERVER",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50103,
-    "title": "Sierra Leone vs Zimbabwe",
-    "image": "o",
-    "cat": "AFCON",
-    "eventInfo": {
-      "teamA": "Sierra Leone",
-      "teamB": "Zimbabwe",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4737/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4719/image",
-      "eventName": "Sierra Leone vs Zimbabwe",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/24 19:00:00 +0000",
-      "endTime": "2026/09/24 21:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "HD SERVER",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50104,
-    "title": "Côte d'Ivoire vs Ghana",
-    "image": "o",
-    "cat": "AFCON",
-    "eventInfo": {
-      "teamA": "Côte d'Ivoire",
-      "teamB": "Ghana",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4768/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4764/image",
-      "eventName": "Côte d'Ivoire vs Ghana",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/24 19:00:00 +0000",
-      "endTime": "2026/09/24 21:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "HD SERVER",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50105,
-    "title": "Mauritania vs African Republic",
-    "image": "o",
-    "cat": "AFCON",
-    "eventInfo": {
-      "teamA": "Mauritania",
-      "teamB": "Central African Republic",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4779/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/23470/image",
-      "eventName": "Mauritania vs African Republic",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/24 16:00:00 +0000",
-      "endTime": "2026/09/24 18:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "HD SERVER",
-      "beIN SPORTS HD",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "beIN SPORTS HD",
-        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50106,
-    "title": "Libya vs Botswana",
-    "image": "o",
-    "cat": "AFCON",
-    "eventInfo": {
-      "teamA": "Libya",
-      "teamB": "Botswana",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4775/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4747/image",
-      "eventName": "Libya vs Botswana",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/24 16:00:00 +0000",
-      "endTime": "2026/09/24 18:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH FHD",
-      "HD SERVER",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50107,
-    "title": "DR Congo vs Equatorial Guinea",
-    "image": "o",
-    "cat": "AFCON",
-    "eventInfo": {
-      "teamA": "DR Congo",
-      "teamB": "Equatorial Guinea",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4823/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/8032/image",
-      "eventName": "DR Congo vs Equatorial Guinea",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/24 16:00:00 +0000",
-      "endTime": "2026/09/24 18:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH FHD",
-      "HD SERVER",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50109,
-    "title": "Qatar vs Bahrain",
-    "image": "o",
-    "cat": "Gulf Cup",
-    "eventInfo": {
-      "teamA": "Qatar",
-      "teamB": "Bahrain",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4792/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/5161/image",
-      "eventName": "Qatar vs Bahrain",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/24 18:00:00 +0000",
-      "endTime": "2026/09/24 20:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportDigital Fussball",
-      "OMAN SPORTS HD",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportDigital Fussball",
-        "logo": ""
-      },
-      {
-        "title": "OMAN SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
         "logo": ""
       }
     ]

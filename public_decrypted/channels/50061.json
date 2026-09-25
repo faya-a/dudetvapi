@@ -1,8 +1,16 @@
 [
   {
-    "api": "",
-    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-    "title": "DUDE Tv Live",
-    "type": "0"
+    "api": "4e34bd34e477d6d0aca6b24016a5849e:577a6c78eb59fd707f0cc584ec753e47",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vxo9ktmp1u/out/v1/d94b515c4d55407ba4099166a0936e45/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "WILLOW - FHD",
+    "type": "1"
+  },
+  {
+    "api": "4e34bd34e477d6d0aca6b24016a5849e:577a6c78eb59fd707f0cc584ec753e47",
+    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vxo9ktmp1u/out/v1/d94b515c4d55407ba4099166a0936e45/cenc.mpd",
+    "logo": "",
+    "title": "WILLOW ALT",
+    "type": "1"
   }
 ]
