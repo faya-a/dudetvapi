@@ -507,6 +507,72 @@
     ]
   },
   {
+    "id": 50032,
+    "title": "Minnesota Twins",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Twins",
+      "teamB": "Rangers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3649/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3647/image",
+      "eventName": "Minnesota Twins vs Texas Rangers",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/26 00:10:00 +0000",
+      "endTime": "2026/09/26 03:10:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv LIVE",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv LIVE",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50033,
+    "title": "Houston Astros",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Athletics",
+      "teamB": "Astros",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3645/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
+      "eventName": "Athletics vs Houston Astros",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/26 01:40:00 +0000",
+      "endTime": "2026/09/26 04:40:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50034,
     "title": "Arizona Diamondbacks",
     "image": "o",
@@ -1104,6 +1170,67 @@
     ]
   },
   {
+    "id": 50084,
+    "title": "Milwaukee Brewers vs Cardinals",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Brewers",
+      "teamB": "Cardinals",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3632/image",
+      "eventName": "Milwaukee Brewers vs St. Louis Cardinals",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/25 23:40:00 +0000",
+      "endTime": "2026/09/26 02:40:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50093,
+    "title": "Mexico vs Colombia",
+    "image": "o",
+    "cat": "FIFA Friendlies",
+    "eventInfo": {
+      "teamA": "Mexico",
+      "teamB": "Colombia",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4781/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4820/image",
+      "eventName": "Mexico vs Colombia",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/27 01:00:00 +0000",
+      "endTime": "2026/09/27 03:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "CANAL5 FHD"
+    ],
+    "formatsNew": [
+      {
+        "title": "CANAL5 FHD",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50094,
     "title": "Türkiye vs France",
     "image": "o",
@@ -1115,7 +1242,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/4481/image",
       "eventName": "Türkiye vs France",
       "eventType": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/09/25 18:45:00 +0000",
       "endTime": "2026/09/25 20:50:00 +0000"
     },
@@ -1128,6 +1255,7 @@
       "SporTV BR FHD",
       "DAZN SPORTS HD",
       "DUDE Tv Live",
+      "TAPMAD BD FHD",
       "beIN ARABIC FHD",
       "SonyLiv (ASIA)",
       "HD SERVER",
@@ -1156,6 +1284,10 @@
       },
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "TAPMAD BD FHD",
         "logo": ""
       },
       {
@@ -1188,7 +1320,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/4717/image",
       "eventName": "Italy vs Belgium",
       "eventType": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/09/25 18:45:00 +0000",
       "endTime": "2026/09/25 20:50:00 +0000"
     },
@@ -1198,6 +1330,7 @@
       "PRIME VIDEO FHD",
       "beIN ENGLISH FHD",
       "FOX SPORTS FHD",
+      "RAI 4K [Italy]",
       "DAZN SPORTS HD",
       "DUDE Tv Live",
       "SonyLiv (ASIA)",
@@ -1216,6 +1349,10 @@
       {
         "title": "FOX SPORTS FHD",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+      },
+      {
+        "title": "RAI 4K [Italy]",
+        "logo": ""
       },
       {
         "title": "DAZN SPORTS HD",
@@ -1615,12 +1752,17 @@
     "publish": "1",
     "formats": [
       "DUDE Tv Live",
+      "beIN ARABIC HD",
       "HD SERVER",
       "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "beIN ARABIC HD",
         "logo": ""
       },
       {
@@ -1734,12 +1876,17 @@
     "publish": "1",
     "formats": [
       "DUDE Tv Live",
+      "beIN ARABIC HD",
       "HD SERVER",
       "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "beIN ARABIC HD",
         "logo": ""
       },
       {
@@ -1860,10 +2007,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "Orioles Broadcast FHD",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "Orioles Broadcast FHD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
