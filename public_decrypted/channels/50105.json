@@ -1,21 +1,28 @@
 [
   {
     "api": "",
-    "link": "https://www.rtmpcdn.com/live/3020d995-508b-4380-8314-a2da5a6513cd.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "link": "https://live.vivo155.com/live/sd-1-4642693.m3u8?txSecret=f0885e7f6f0289101c6a7aa92801157d&txTime=6AB6D4DF|Referer=https://player.787200.com/",
+    "logo": "",
+    "title": "DUDE Tv Live",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://cdn.gamhed.online/hls/arena8x-2.m3u8",
+    "logo": "",
+    "title": "beIN ARABIC FHD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://www.rtmpcdn.com/live/4c83a480-06a7-4ab1-a8a0-ca20cde631a6.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
     "logo": "",
     "title": "HD SERVER",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
-    "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
-    "title": "beIN SPORTS HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.59/hls/veeeAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "link": "http://193.47.62.50/hls/DTTTAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
     "logo": "",
     "title": "LOW SERVER",
     "type": "0"

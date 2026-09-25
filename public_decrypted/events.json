@@ -1115,23 +1115,63 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/4481/image",
       "eventName": "Türkiye vs France",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/09/25 18:45:00 +0000",
       "endTime": "2026/09/25 20:50:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PRIME VIDEO FHD",
+      "DAZN SPORTS FHD",
       "beIN ENGLISH FHD",
-      "SporTV BR FHD"
+      "SporTV BR FHD",
+      "DAZN SPORTS HD",
+      "DUDE Tv Live",
+      "beIN ARABIC FHD",
+      "SonyLiv (ASIA)",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "PRIME VIDEO FHD",
+        "logo": ""
+      },
+      {
+        "title": "DAZN SPORTS FHD",
+        "logo": ""
+      },
       {
         "title": "beIN ENGLISH FHD",
         "logo": ""
       },
       {
         "title": "SporTV BR FHD",
+        "logo": "https://iili.io/CFFRvqJ.png"
+      },
+      {
+        "title": "DAZN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "beIN ARABIC FHD",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (ASIA)",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1148,23 +1188,53 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/4717/image",
       "eventName": "Italy vs Belgium",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/09/25 18:45:00 +0000",
       "endTime": "2026/09/25 20:50:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PRIME VIDEO FHD",
       "beIN ENGLISH FHD",
-      "FOX SPORTS FHD"
+      "FOX SPORTS FHD",
+      "DAZN SPORTS HD",
+      "DUDE Tv Live",
+      "SonyLiv (ASIA)",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "PRIME VIDEO FHD",
+        "logo": ""
+      },
       {
         "title": "beIN ENGLISH FHD",
         "logo": ""
       },
       {
         "title": "FOX SPORTS FHD",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+      },
+      {
+        "title": "DAZN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (ASIA)",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1188,11 +1258,41 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SporTV BR FHD"
+      "DAZN SPORTS FHD",
+      "SporTV BR FHD",
+      "Nations League HD",
+      "DUDE Tv Live",
+      "SonyLiv (ASIA)",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "DAZN SPORTS FHD",
+        "logo": ""
+      },
+      {
         "title": "SporTV BR FHD",
+        "logo": "https://iili.io/CFFRvqJ.png"
+      },
+      {
+        "title": "Nations League HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (ASIA)",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1216,11 +1316,36 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DAZN SPORTS FHD",
+      "DAZN SPORTS HD",
+      "DUDE Tv Live",
+      "SonyLiv (Asia)",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "DAZN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "DAZN SPORTS HD",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1244,11 +1369,41 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
+      "DAZN SPORTS FHD",
+      "beIN ENGLISH FHD",
+      "FOX SOCCER+ HD",
+      "DUDE Tv Live",
+      "SonyLiv (Asia)",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "DAZN SPORTS FHD",
+        "logo": ""
+      },
+      {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "FOX SOCCER+ HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1272,11 +1427,36 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DAZN SPORTS FHD",
+      "DAZN SPORTS HD",
+      "DUDE Tv Live",
+      "SonyLiv (Asia)",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "DAZN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "DAZN SPORTS HD",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1301,7 +1481,11 @@
     "publish": "1",
     "formats": [
       "beIN ENGLISH FHD",
-      "SporTV BR FHD"
+      "SporTV BR FHD",
+      "Sport TV HD",
+      "SonyLiv ",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
@@ -1310,6 +1494,22 @@
       },
       {
         "title": "SporTV BR FHD",
+        "logo": "https://iili.io/CFFRvqJ.png"
+      },
+      {
+        "title": "Sport TV HD",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv ",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1333,11 +1533,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
+      "beIN ENGLISH FHD",
+      "FOX SOCCER+ HD",
+      "SonyLiv",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "FOX SOCCER+ HD",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1361,11 +1581,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1389,11 +1614,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1417,11 +1652,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1445,11 +1690,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "beIN ARABIC FHD",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "beIN ARABIC FHD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1473,332 +1733,17 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50107,
-    "title": "Nigeria vs Madagascar",
-    "image": "o",
-    "cat": "AFCON",
-    "eventInfo": {
-      "teamA": "Nigeria",
-      "teamB": "Madagascar",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4785/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/8035/image",
-      "eventName": "Nigeria vs Madagascar",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/25 16:00:00 +0000",
-      "endTime": "2026/09/25 18:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50108,
-    "title": "Rwanda vs Liberia",
-    "image": "o",
-    "cat": "AFCON",
-    "eventInfo": {
-      "teamA": "Rwanda",
-      "teamB": "Liberia",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/8037/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/8034/image",
-      "eventName": "Rwanda vs Liberia",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/25 16:00:00 +0000",
-      "endTime": "2026/09/25 18:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50109,
-    "title": "Sudan vs Ethiopia",
-    "image": "o",
-    "cat": "AFCON",
-    "eventInfo": {
-      "teamA": "Sudan",
-      "teamB": "Ethiopia",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4734/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/8036/image",
-      "eventName": "Sudan vs Ethiopia",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/25 16:00:00 +0000",
-      "endTime": "2026/09/25 18:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50110,
-    "title": "Togo vs Burundi",
-    "image": "o",
-    "cat": "AFCON",
-    "eventInfo": {
-      "teamA": "Togo",
-      "teamB": "Burundi",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4836/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4750/image",
-      "eventName": "Togo vs Burundi",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/25 16:00:00 +0000",
-      "endTime": "2026/09/25 18:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50111,
-    "title": "Gambia vs Somalia",
-    "image": "o",
-    "cat": "AFCON",
-    "eventInfo": {
-      "teamA": "Gambia",
-      "teamB": "Somalia",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4762/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/23472/image",
-      "eventName": "Gambia vs Somalia",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/25 16:00:00 +0000",
-      "endTime": "2026/09/25 18:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50112,
-    "title": "Malawi vs South Sudan",
-    "image": "o",
-    "cat": "AFCON",
-    "eventInfo": {
-      "teamA": "Malawi",
-      "teamB": "South Sudan",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/8043/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/88508/image",
-      "eventName": "Malawi vs South Sudan",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/25 16:00:00 +0000",
-      "endTime": "2026/09/25 18:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50113,
-    "title": "Niger vs Lesotho",
-    "image": "o",
-    "cat": "AFCON",
-    "eventInfo": {
-      "teamA": "Niger",
-      "teamB": "Lesotho",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/8031/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/8033/image",
-      "eventName": "Niger vs Lesotho",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/25 15:00:00 +0000",
-      "endTime": "2026/09/25 17:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50114,
-    "title": "Tanzania vs Guinea-Bissau",
-    "image": "o",
-    "cat": "AFCON",
-    "eventInfo": {
-      "teamA": "Tanzania",
-      "teamB": "Guinea-Bissau",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4835/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/23478/image",
-      "eventName": "Tanzania vs Guinea-Bissau",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/25 13:00:00 +0000",
-      "endTime": "2026/09/25 15:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
+      "DUDE Tv Live",
       "HD SERVER",
       "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "HD SERVER",
+        "title": "DUDE Tv Live",
         "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50115,
-    "title": "Australia vs Brazil",
-    "image": "o",
-    "cat": "FIFA Friendlies",
-    "eventInfo": {
-      "teamA": "Australia",
-      "teamB": "Brazil",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4741/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4748/image",
-      "eventName": "Australia vs Brazil",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/25 10:00:00 +0000",
-      "endTime": "2026/09/25 12:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SporTV BR FHD",
-      "HD SERVER",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "SporTV BR FHD",
-        "logo": "https://iili.io/CFFRvqJ.png"
       },
       {
         "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50116,
-    "title": "India vs Panama",
-    "image": "o",
-    "cat": "FIFA Friendlies",
-    "eventInfo": {
-      "teamA": "India",
-      "teamB": "Panama",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4828/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/5164/image",
-      "eventName": "India vs Panama",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/25 14:00:00 +0000",
-      "endTime": "2026/09/25 16:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SonyLiv - English",
-      "SonyLiv - Hindi",
-      "SonyLiv - Tamil",
-      "SonyLiv - Telugu",
-      "SonyLiv - Kannada",
-      "SonyLiv - Bengali",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "SonyLiv - English",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv - Hindi",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv - Tamil",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv - Telugu",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv - Kannada",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv - Bengali",
         "logo": ""
       },
       {
@@ -1864,41 +1809,8 @@
     ]
   },
   {
-    "id": 50119,
-    "title": "Indonesia vs Singapore",
-    "image": "o",
-    "cat": "FIFA ASEAN Cup",
-    "eventInfo": {
-      "teamA": "Indonesia",
-      "teamB": "Singapore",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4829/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4738/image",
-      "eventName": "Indonesia vs Singapore",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/25 13:00:00 +0000",
-      "endTime": "2026/09/25 15:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50120,
-    "title": "Red Sox vs Chicago Cubs",
+    "title": "1. Red Sox vs Chicago Cubs",
     "image": "o",
     "cat": "MLB",
     "eventInfo": {
@@ -1915,9 +1827,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1926,38 +1843,33 @@
   },
   {
     "id": 50121,
-    "title": "Mozambique vs Senegal",
+    "title": "1. Yankees vs Baltimore Orioles",
     "image": "o",
-    "cat": "AFCON",
+    "cat": "MLB",
     "eventInfo": {
-      "teamA": "Mozambique",
-      "teamB": "Senegal",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4783/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4739/image",
-      "eventName": "Mozambique vs Senegal",
+      "teamA": "New York Yankees",
+      "teamB": "Baltimore Orioles",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3654/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3652/image",
+      "eventName": "New York Yankees vs Baltimore Orioles",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/25 13:00:00 +0000",
-      "endTime": "2026/09/25 15:05:00 +0000"
+      "startTime": "2026/09/25 20:05:00 +0000",
+      "endTime": "2026/09/25 23:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD",
-      "HD SERVER",
-      "LOW SERVER"
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "beIN ENGLISH FHD",
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
+        "title": "MLB LIVE [FHD]",
         "logo": ""
       }
     ]

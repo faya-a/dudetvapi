@@ -1,35 +1,42 @@
 [
   {
-    "api": "902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3",
-    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://iili.io/CFFRvqJ.png",
-    "title": "SporTV BR FHD",
+    "api": "b9219e0148df539f6b63b295945987e7:8b18f9117403acdd0d5ad000772f2062",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/di5rbsugx5/out/v1/45b59ec03e764604a9bc745f5a40d01d/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "DAZN SPORTS FHD",
     "type": "1"
   },
   {
     "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/57006/load-playlist?|Referer=https://gooz.aapmains.net",
+    "link": "https://chatgpt.hereisman.net/playlist/57056/load-playlist?|Referer=https://gooz.aapmains.net",
+    "logo": "",
+    "title": "DAZN SPORTS HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://live.vivo155.com/live/hd-en-1-4517800.m3u8?txSecret=14356fdcc4cc8872f846ec647ed94498&txTime=6AB6D31D|Referer=https://player.787200.com/",
     "logo": "",
     "title": "DUDE Tv Live",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://live.vivo155.com/live/hd-en-1-4517791.m3u8?txSecret=359dd171ec7b20f740f276fa6e34359e&txTime=6AB58512|Referer=https://player.787200.com/",
+    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2022316/Footlive2509/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=d70b97cc5216366d3abc85b1926731d5-1790360403133",
     "logo": "",
-    "title": "DUDE Tv Live",
+    "title": "SonyLiv (Asia)",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://www.rtmpcdn.com/live/870f6977-557c-40f9-afc0-75fbec73025d.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "link": "https://www.rtmpcdn.com/live/875dc817-28d2-4f7e-9804-051297192fb7.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
     "logo": "",
     "title": "HD SERVER",
     "type": "0"
   },
   {
     "api": "",
-    "link": "http://193.47.62.44/hls/FAFAFAFA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "link": "http://193.47.62.41/hls/LIIIA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
     "logo": "",
     "title": "LOW SERVER",
     "type": "0"
