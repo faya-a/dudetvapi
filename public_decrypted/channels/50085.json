@@ -1,23 +1,9 @@
 [
   {
-    "api": "7b535c85849cc63ff2db626085eca0b1:40e3f86321b88e87faba0e03fad20bae",
-    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ofqlfxnyrj/out/v1/87e0c2d189424713a24c80bc9d3603ed/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+    "api": "fc19251f2f2d18ba39485a6eeeaf2128:15c5b05be425a19e8c532311e6ae05ab",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ahjbt5mi7u/out/v1/2bf071397abe422b8640c38a38a47b40/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
     "title": "WILLOW - FHD",
     "type": "1"
-  },
-  {
-    "api": "7b535c85849cc63ff2db626085eca0b1:40e3f86321b88e87faba0e03fad20bae",
-    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ofqlfxnyrj/out/v1/87e0c2d189424713a24c80bc9d3603ed/cenc.mpd",
-    "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-    "title": "WILLOW - ALT",
-    "type": "1"
-  },
-  {
-    "api": "",
-    "link": "https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8",
-    "logo": "",
-    "title": "SonyLiv  (ASIA)",
-    "type": "0"
   }
 ]

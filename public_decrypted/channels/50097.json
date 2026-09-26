@@ -1,44 +1,8 @@
 [
   {
-    "api": "0679cb547fb1100ab2fe6ec0e137b113:770099725c8e0bb8a1cfbff6c536a82b",
-    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jlzantdnce/out/v1/3df66a16fb1d421e9c7ccb85e164c30d/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "DAZN SPORTS FHD",
-    "type": "1"
-  },
-  {
     "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/57054/load-playlist?|Referer=https://gooz.aapmains.net",
-    "logo": "",
-    "title": "DAZN SPORTS HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://live.vivo155.com/live/hd-en-1-4517798.m3u8?txSecret=c8e0ca5ced5c30abc0af62d237962823&txTime=6AB6D300|Referer=https://player.787200.com/",
-    "logo": "",
+    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
     "title": "DUDE Tv Live",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037141/Footlive2509/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=d70b97cc5216366d3abc85b1926731d5-1790360403133",
-    "logo": "",
-    "title": "SonyLiv (Asia)",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://www.rtmpcdn.com/live/caf0994c-efb4-442e-932c-8abf4681ef8e.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-    "logo": "",
-    "title": "HD SERVER",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.59/hls/LIIIAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-    "logo": "",
-    "title": "LOW SERVER",
     "type": "0"
   }
 ]
