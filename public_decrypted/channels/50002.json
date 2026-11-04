@@ -12,86 +12,68 @@
     "type": "1"
   },
   {
+    "api": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "title": "CANAL5 FHD",
+    "type": "1"
+  },
+  {
     "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/57392/load-playlist?|Referer=https://gooz.aapmains.net",
-    "title": "DUDE Tv F1 HD",
+    "link": "https://chatgpt.hereisman.net/playlist/58842/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+    "title": "Sky Sports F1 HD",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://admin2.formaturamaxi.com.br/f1.m3u8",
-    "title": "FORMULA 1 FHD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://bl.rutube.ru/livestream/6f720c31786abeb7fd11f847db8a2084/index.m3u8?s=XHCTvH12_MBnBEkLnZ-k5g&e=1791182503&scheme=https|user-agent=Mozilla",
+    "link": "https://bl.rutube.ru/livestream/db5196d148940744b350e26e826c4b72/index.m3u8?s=UWV-P5C4krQ3jIWw_JWM9Q&e=1793648762&scheme=https|user-agent=Mozilla",
     "title": "RUSSIA FEED",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c5cd3615-4d73-4b1b-b368-204f9d6ddad5/master.m3u8",
+    "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a26232a0-42be-46b7-8b8e-12473fd156a4/master.m3u8",
     "title": "Sportscast FHD",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://netanjahu.hls.st/t/a304b0a7b4765ba0312de32326c4a99c/index.m3u8?|Referer=https://iplayer.is/",
-    "title": "SKY SPORTS DE",
+    "link": "http://193.47.62.59/hls/GCCC.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "title": "LOW SERVER",
     "type": "0"
   },
   {
-    "api": "",
-    "link": "https://netanjahu.hls.st/t/adb57217346ee4d7cbc072c94d0de6e5/index.m3u8?|Referer=https://iplayer.is/",
-    "title": "ELEVEN SPORTS PL",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://edgestream3.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-    "title": "SKY SPORTS HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.55/hls/fvvvv.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-    "title": "SD SERVER",
-    "type": "0"
-  },
-  {
-    "api": "1118a6477fbf274ef4ab397ae762cb61:31ba7c00dc9667233ecb2a6e7e24ee08",
-    "link": "https://g006-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1791184112_f~0_g~1_s~0d5cf2cf-1b2c-4d75-b1f8-7170d2be18c2_u~fe3b84cbbdf5bc565dd1012e5306ba8dc943c4ee57b1c5b2555a972552c5c85df5468f3aaf797d103da27a492f48c64a_k~A_l~70_x~551e4bc3580ed531c98b15668319162e/nowitlin2/Content/CMAF_CTR_H1/Live/channel(GmNkZkEhHwZyLEqoafQKOFLW)/master_2hr-all.mpd",
+    "api": "1118d83348830358060d408a72f56f29:648378946f2f70f43af47ff9bf3e329b",
+    "link": "https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1793591197_f~0_g~1_s~4c45e5a7-93a6-49ab-b4ab-ac00843a19de_u~8b3b0a0bc28102e2d5072bb96b41e4a5b54f0ed15e35ea1febb55ade742e526bbd9d78b9f6b047ed30e8e499502fc554_k~A_l~70_x~ffbcdb04b0b73f0901ef7f42eba195ca/nowitlin2/Content/CMAF_CTR_H1/Live/channel(GmNkZkEhHwZyLEqoafQKOFLW)/master_2hr-all.mpd",
     "title": "SKY F1 Italia [IT]",
     "type": "1"
   },
   {
     "api": "",
-    "link": "https://embedindia.st/embed/bahrain-grand-prix---race-29723",
+    "link": "https://taifood-blog.asia/embed/mexico-city-grand-prix---race-31409",
     "title": "DAZN ESPANOL [FHD]",
     "type": "2"
   },
   {
     "api": "",
-    "link": "https://embedindia.st/embed/f1/2026/bahrain/race",
+    "link": "https://taifood-blog.asia/embed/f1/2026/mexico/race",
     "title": "SKY SPORTS [FHD]",
     "type": "2"
   },
   {
     "api": "",
-    "link": "https://embedindia.st/embed/bahrain-grand-prix---race-29721",
+    "link": "https://taifood-blog.asia/embed/mexico-city-grand-prix---race-31407",
     "title": "APPLE TV [FHD]",
     "type": "2"
   },
   {
     "api": "",
-    "link": "https://embedindia.st/embed/bahrain-grand-prix---race-29725",
+    "link": "https://taifood-blog.asia/embed/mexico-city-grand-prix---race-31411",
     "title": "SKY ITALIA [FHD]",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://embedindia.st/embed/bahrain-grand-prix---race-29727",
+    "link": "https://taifood-blog.asia/embed/mexico-city-grand-prix---race-31413",
     "title": "VIAPLAY NL [FHD]",
     "type": "2"
   }

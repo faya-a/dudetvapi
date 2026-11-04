@@ -1,30 +1,44 @@
 [
   {
-    "api": "effa45e438d4a21939035abc7cf5d3a4:d2f43abbc17cb5e3c05c5f14fd1e8181",
-    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/94oo2jxxp4/out/v1/c6789bc599e54c3bb1f26880531b8531/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "api": "468c69668fb1f8433921d80485af81dc:fdc96b10b6e9cdcc3c5904afb6bff82d",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1ezgg5lj3v/out/v1/e6092692ffac4419aab30cecd66d3470/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
     "title": "WILLOW - FHD",
     "type": "1"
   },
   {
-    "api": "effa45e438d4a21939035abc7cf5d3a4:d2f43abbc17cb5e3c05c5f14fd1e8181",
-    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/94oo2jxxp4/out/v1/c6789bc599e54c3bb1f26880531b8531/cenc.mpd",
+    "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+    "title": "FANCODE - FHD",
+    "type": "1"
+  },
+  {
+    "api": "468c69668fb1f8433921d80485af81dc:fdc96b10b6e9cdcc3c5904afb6bff82d",
+    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1ezgg5lj3v/out/v1/e6092692ffac4419aab30cecd66d3470/cenc.mpd",
     "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
     "title": "WILLOW - ALT",
     "type": "1"
   },
   {
     "api": "",
-    "link": "http://193.47.62.59/hls/ZZZZAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "link": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8|referer=https://www.tapmad.com/",
     "logo": "",
-    "title": "LOW SERVER",
+    "title": "TAPMAD - FHD",
     "type": "0"
   },
   {
+    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+    "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+    "title": "WILLOW HD",
+    "type": "1"
+  },
+  {
     "api": "",
-    "link": "https://dai-fancode.pages.dev/mumbai/4249693_english_hls_aaca093f3b68270_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+    "link": "https://dai-fancode.pages.dev/mumbai/4249770_english_hls_d9a990baeb9644_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
     "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-    "title": "FANCODE - IN",
+    "title": "FANCODE - IN ",
     "type": "0"
   },
   {
