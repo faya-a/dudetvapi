@@ -127,10 +127,14 @@ if ! adb emu avd snapshot list 2>/dev/null | grep -q "default_boot"; then
 fi
 
 # ---------- workflow script step ----------
+echo "--> Installing  apk file"
 adb install -r -g "$APK_FILE"
 adb shell pm grant com.sportzx.live android.permission.POST_NOTIFICATIONS || true
+
+echo "--> Running fetch-and-decrypt.py"
 timeout "$SCRIPT_TIMEOUT" python fetch_and_decrypt.py
 
+echo "--> Cleaning up"
 cleanup
 EMU_PID=""
 
