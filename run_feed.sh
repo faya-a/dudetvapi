@@ -23,7 +23,7 @@ EMU_RAM_MB="2048"
 CMDLINE_TOOLS_URL="${CMDLINE_TOOLS_URL:-https://dl.google.com/android/repository/commandlinetools-linux-11076708_latest.zip}"
 APK_FILE="dudetv_3.2v.apk"
 BOOT_TIMEOUT_S=600        # max wait for emulator boot
-SCRIPT_TIMEOUT="30m"      # max runtime of fetch_and_decrypt.py
+SCRIPT_TIMEOUT="3m"      # max runtime of fetch_and_decrypt.py
 DO_GIT_PUSH="${DO_GIT_PUSH:-1}"
 
 LOG_DIR="$CACHE_DIR/logs"
